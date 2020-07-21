@@ -2599,3 +2599,779 @@
 [21/07/2020:14:08:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 453)
 [21/07/2020:14:08:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
 [21/07/2020:14:08:12]	Sensor was updated.
+[21/07/2020:14:08:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:08:22]	(115344) Memory: check-time: 1595340502, free: 5.84, total: 852.89, buffers: 597.64, cached: 11.37, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:08:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m454, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:08:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.369999999999999 }, { "metricId": "FreeMemory", "value": 5.8399999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:08:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 454)
+[21/07/2020:14:08:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 454)
+[21/07/2020:14:08:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 454)
+[21/07/2020:14:08:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:08:22]	Sensor was updated.
+[21/07/2020:14:08:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:08:32]	(115344) Memory: check-time: 1595340512, free: 5.84, total: 852.89, buffers: 597.63, cached: 11.39, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:08:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m455, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:08:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63 }, { "metricId": "CachedMemory", "value": 11.390000000000001 }, { "metricId": "FreeMemory", "value": 5.8399999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:08:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 455)
+[21/07/2020:14:08:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 455)
+[21/07/2020:14:08:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 455)
+[21/07/2020:14:08:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:08:32]	Sensor was updated.
+[21/07/2020:14:08:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:08:42]	(115344) Memory: check-time: 1595340522, free: 5.84, total: 852.89, buffers: 597.64, cached: 11.40, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:08:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m456, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:08:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.4 }, { "metricId": "FreeMemory", "value": 5.8399999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:08:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 456)
+[21/07/2020:14:08:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 456)
+[21/07/2020:14:08:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 456)
+[21/07/2020:14:08:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:08:42]	Sensor was updated.
+[21/07/2020:14:08:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:08:52]	(115344) Memory: check-time: 1595340532, free: 5.71, total: 852.89, buffers: 597.64, cached: 11.41, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:08:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m457, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (329 bytes))
+[21/07/2020:14:08:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.41 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:08:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 457)
+[21/07/2020:14:08:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 457)
+[21/07/2020:14:08:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 457)
+[21/07/2020:14:08:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:08:52]	Sensor was updated.
+[21/07/2020:14:09:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:02]	(115344) Memory: check-time: 1595340542, free: 5.71, total: 852.89, buffers: 597.64, cached: 11.43, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m458, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (329 bytes))
+[21/07/2020:14:09:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.43 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 458)
+[21/07/2020:14:09:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 458)
+[21/07/2020:14:09:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 458)
+[21/07/2020:14:09:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:02]	Sensor was updated.
+[21/07/2020:14:09:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:12]	(115344) Memory: check-time: 1595340552, free: 5.71, total: 852.89, buffers: 597.64, cached: 11.44, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m459, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (329 bytes))
+[21/07/2020:14:09:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.44 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 459)
+[21/07/2020:14:09:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 459)
+[21/07/2020:14:09:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 459)
+[21/07/2020:14:09:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:12]	Sensor was updated.
+[21/07/2020:14:09:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:22]	(115344) Memory: check-time: 1595340562, free: 5.71, total: 852.89, buffers: 597.64, cached: 11.45, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m460, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:09:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.63999999999999 }, { "metricId": "CachedMemory", "value": 11.449999999999999 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 460)
+[21/07/2020:14:09:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 460)
+[21/07/2020:14:09:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 460)
+[21/07/2020:14:09:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:22]	Sensor was updated.
+[21/07/2020:14:09:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:32]	(115344) Memory: check-time: 1595340572, free: 5.71, total: 852.89, buffers: 597.65, cached: 11.45, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m461, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:09:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.64999999999998 }, { "metricId": "CachedMemory", "value": 11.449999999999999 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 461)
+[21/07/2020:14:09:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 461)
+[21/07/2020:14:09:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 461)
+[21/07/2020:14:09:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:32]	Sensor was updated.
+[21/07/2020:14:09:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:42]	(115344) Memory: check-time: 1595340582, free: 5.71, total: 852.89, buffers: 597.66, cached: 11.48, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m462, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (329 bytes))
+[21/07/2020:14:09:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.65999999999997 }, { "metricId": "CachedMemory", "value": 11.48 }, { "metricId": "FreeMemory", "value": 5.71 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 462)
+[21/07/2020:14:09:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 462)
+[21/07/2020:14:09:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 462)
+[21/07/2020:14:09:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:42]	Sensor was updated.
+[21/07/2020:14:09:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:09:52]	(115344) Memory: check-time: 1595340592, free: 5.72, total: 852.89, buffers: 597.66, cached: 11.49, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:09:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m463, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:09:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.65999999999997 }, { "metricId": "CachedMemory", "value": 11.49 }, { "metricId": "FreeMemory", "value": 5.7199999999999998 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:09:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 463)
+[21/07/2020:14:09:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 463)
+[21/07/2020:14:09:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 463)
+[21/07/2020:14:09:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:09:52]	Sensor was updated.
+[21/07/2020:14:10:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:02]	(115344) Memory: check-time: 1595340602, free: 5.72, total: 852.89, buffers: 597.66, cached: 11.50, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m464, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:10:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.65999999999997 }, { "metricId": "CachedMemory", "value": 11.5 }, { "metricId": "FreeMemory", "value": 5.7199999999999998 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 464)
+[21/07/2020:14:10:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 464)
+[21/07/2020:14:10:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 464)
+[21/07/2020:14:10:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:02]	Sensor was updated.
+[21/07/2020:14:10:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:12]	(115344) Memory: check-time: 1595340612, free: 5.72, total: 852.89, buffers: 597.66, cached: 11.50, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m465, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:10:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.65999999999997 }, { "metricId": "CachedMemory", "value": 11.5 }, { "metricId": "FreeMemory", "value": 5.7199999999999998 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 465)
+[21/07/2020:14:10:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 465)
+[21/07/2020:14:10:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 465)
+[21/07/2020:14:10:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:12]	Sensor was updated.
+[21/07/2020:14:10:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:22]	(115344) Memory: check-time: 1595340622, free: 5.72, total: 852.89, buffers: 597.66, cached: 11.51, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m466, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:10:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.65999999999997 }, { "metricId": "CachedMemory", "value": 11.51 }, { "metricId": "FreeMemory", "value": 5.7199999999999998 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 466)
+[21/07/2020:14:10:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 466)
+[21/07/2020:14:10:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 466)
+[21/07/2020:14:10:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:22]	Sensor was updated.
+[21/07/2020:14:10:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:32]	(115344) Memory: check-time: 1595340632, free: 5.72, total: 852.89, buffers: 597.67, cached: 11.52, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m467, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:10:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 597.66999999999996 }, { "metricId": "CachedMemory", "value": 11.52 }, { "metricId": "FreeMemory", "value": 5.7199999999999998 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 467)
+[21/07/2020:14:10:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 467)
+[21/07/2020:14:10:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 467)
+[21/07/2020:14:10:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:32]	Sensor was updated.
+[21/07/2020:14:10:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:42]	(115344) Memory: check-time: 1595340642, free: 121.38, total: 852.89, buffers: 481.08, cached: 11.56, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m468, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:10:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.07999999999998 }, { "metricId": "CachedMemory", "value": 11.56 }, { "metricId": "FreeMemory", "value": 121.38 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 468)
+[21/07/2020:14:10:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 468)
+[21/07/2020:14:10:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 468)
+[21/07/2020:14:10:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:42]	Sensor was updated.
+[21/07/2020:14:10:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:10:52]	(115344) Memory: check-time: 1595340652, free: 122.35, total: 852.89, buffers: 481.07, cached: 11.58, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:10:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m469, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:10:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.06999999999999 }, { "metricId": "CachedMemory", "value": 11.58 }, { "metricId": "FreeMemory", "value": 122.34999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:10:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 469)
+[21/07/2020:14:10:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 469)
+[21/07/2020:14:10:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 469)
+[21/07/2020:14:10:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:10:52]	Sensor was updated.
+[21/07/2020:14:11:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:02]	(115344) Memory: check-time: 1595340662, free: 122.35, total: 852.89, buffers: 481.07, cached: 11.59, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m470, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:11:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.06999999999999 }, { "metricId": "CachedMemory", "value": 11.59 }, { "metricId": "FreeMemory", "value": 122.34999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 470)
+[21/07/2020:14:11:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 470)
+[21/07/2020:14:11:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 470)
+[21/07/2020:14:11:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:02]	Sensor was updated.
+[21/07/2020:14:11:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:12]	(115344) Memory: check-time: 1595340672, free: 122.38, total: 852.89, buffers: 481.08, cached: 11.59, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m471, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:11:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.07999999999998 }, { "metricId": "CachedMemory", "value": 11.59 }, { "metricId": "FreeMemory", "value": 122.38 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 471)
+[21/07/2020:14:11:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 471)
+[21/07/2020:14:11:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 471)
+[21/07/2020:14:11:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:12]	Sensor was updated.
+[21/07/2020:14:11:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:22]	(115344) Memory: check-time: 1595340682, free: 122.38, total: 852.89, buffers: 481.09, cached: 11.60, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m472, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (330 bytes))
+[21/07/2020:14:11:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.6 }, { "metricId": "FreeMemory", "value": 122.38 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 472)
+[21/07/2020:14:11:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 472)
+[21/07/2020:14:11:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 472)
+[21/07/2020:14:11:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:22]	Sensor was updated.
+[21/07/2020:14:11:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:32]	(115344) Memory: check-time: 1595340692, free: 122.38, total: 852.89, buffers: 481.09, cached: 11.61, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m473, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:11:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.609999999999999 }, { "metricId": "FreeMemory", "value": 122.38 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 473)
+[21/07/2020:14:11:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 473)
+[21/07/2020:14:11:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 473)
+[21/07/2020:14:11:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:32]	Sensor was updated.
+[21/07/2020:14:11:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:42]	(115344) Memory: check-time: 1595340702, free: 122.37, total: 852.89, buffers: 481.09, cached: 11.62, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m474, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:11:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.619999999999999 }, { "metricId": "FreeMemory", "value": 122.37 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 474)
+[21/07/2020:14:11:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 474)
+[21/07/2020:14:11:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 474)
+[21/07/2020:14:11:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:42]	Sensor was updated.
+[21/07/2020:14:11:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:11:52]	(115344) Memory: check-time: 1595340712, free: 122.37, total: 852.89, buffers: 481.09, cached: 11.62, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:11:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m475, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:11:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.619999999999999 }, { "metricId": "FreeMemory", "value": 122.37 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:11:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 475)
+[21/07/2020:14:11:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 475)
+[21/07/2020:14:11:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 475)
+[21/07/2020:14:11:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:11:52]	Sensor was updated.
+[21/07/2020:14:12:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:02]	(115344) Memory: check-time: 1595340722, free: 122.37, total: 852.89, buffers: 481.09, cached: 11.63, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m476, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:12:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.630000000000001 }, { "metricId": "FreeMemory", "value": 122.37 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 476)
+[21/07/2020:14:12:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 476)
+[21/07/2020:14:12:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 476)
+[21/07/2020:14:12:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:02]	Sensor was updated.
+[21/07/2020:14:12:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:12]	(115344) Memory: check-time: 1595340732, free: 122.37, total: 852.89, buffers: 481.09, cached: 11.64, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m477, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:12:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.08999999999997 }, { "metricId": "CachedMemory", "value": 11.640000000000001 }, { "metricId": "FreeMemory", "value": 122.37 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 477)
+[21/07/2020:14:12:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 477)
+[21/07/2020:14:12:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 477)
+[21/07/2020:14:12:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:12]	Sensor was updated.
+[21/07/2020:14:12:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:22]	(115344) Memory: check-time: 1595340742, free: 122.37, total: 852.89, buffers: 481.10, cached: 11.65, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m478, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:12:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.65 }, { "metricId": "FreeMemory", "value": 122.37 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 478)
+[21/07/2020:14:12:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 478)
+[21/07/2020:14:12:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 478)
+[21/07/2020:14:12:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:22]	Sensor was updated.
+[21/07/2020:14:12:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:32]	(115344) Memory: check-time: 1595340752, free: 122.40, total: 852.89, buffers: 481.10, cached: 11.66, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m479, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:12:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.66 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 479)
+[21/07/2020:14:12:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 479)
+[21/07/2020:14:12:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 479)
+[21/07/2020:14:12:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:32]	Sensor was updated.
+[21/07/2020:14:12:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:42]	(115344) Memory: check-time: 1595340762, free: 122.40, total: 852.89, buffers: 481.10, cached: 11.66, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m480, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:12:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.66 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 480)
+[21/07/2020:14:12:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 480)
+[21/07/2020:14:12:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 480)
+[21/07/2020:14:12:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:42]	Sensor was updated.
+[21/07/2020:14:12:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:12:52]	(115344) Memory: check-time: 1595340772, free: 122.40, total: 852.89, buffers: 481.10, cached: 11.67, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:12:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m481, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:12:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.67 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:12:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 481)
+[21/07/2020:14:12:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 481)
+[21/07/2020:14:12:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 481)
+[21/07/2020:14:12:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:12:52]	Sensor was updated.
+[21/07/2020:14:13:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:02]	(115344) Memory: check-time: 1595340782, free: 122.40, total: 852.89, buffers: 481.10, cached: 11.68, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m482, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:13:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.68 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 482)
+[21/07/2020:14:13:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 482)
+[21/07/2020:14:13:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 482)
+[21/07/2020:14:13:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:02]	Sensor was updated.
+[21/07/2020:14:13:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:12]	(115344) Memory: check-time: 1595340792, free: 122.40, total: 852.89, buffers: 481.10, cached: 11.69, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m483, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:13:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.10000000000002 }, { "metricId": "CachedMemory", "value": 11.69 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 483)
+[21/07/2020:14:13:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 483)
+[21/07/2020:14:13:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 483)
+[21/07/2020:14:13:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:12]	Sensor was updated.
+[21/07/2020:14:13:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:22]	(115344) Memory: check-time: 1595340802, free: 122.40, total: 852.89, buffers: 481.11, cached: 11.70, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m484, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:13:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.11000000000001 }, { "metricId": "CachedMemory", "value": 11.699999999999999 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 484)
+[21/07/2020:14:13:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 484)
+[21/07/2020:14:13:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 484)
+[21/07/2020:14:13:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:22]	Sensor was updated.
+[21/07/2020:14:13:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:32]	(115344) Memory: check-time: 1595340812, free: 122.40, total: 852.89, buffers: 481.11, cached: 11.70, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m485, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:13:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.11000000000001 }, { "metricId": "CachedMemory", "value": 11.699999999999999 }, { "metricId": "FreeMemory", "value": 122.40000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 485)
+[21/07/2020:14:13:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 485)
+[21/07/2020:14:13:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 485)
+[21/07/2020:14:13:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:32]	Sensor was updated.
+[21/07/2020:14:13:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:42]	(115344) Memory: check-time: 1595340822, free: 122.18, total: 852.89, buffers: 481.23, cached: 11.71, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m486, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:13:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.710000000000001 }, { "metricId": "FreeMemory", "value": 122.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 486)
+[21/07/2020:14:13:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 486)
+[21/07/2020:14:13:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 486)
+[21/07/2020:14:13:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:42]	Sensor was updated.
+[21/07/2020:14:13:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:13:52]	(115344) Memory: check-time: 1595340832, free: 122.18, total: 852.89, buffers: 481.23, cached: 11.73, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:13:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m487, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:13:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.73 }, { "metricId": "FreeMemory", "value": 122.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:13:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 487)
+[21/07/2020:14:13:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 487)
+[21/07/2020:14:13:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 487)
+[21/07/2020:14:13:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:13:52]	Sensor was updated.
+[21/07/2020:14:14:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:02]	(115344) Memory: check-time: 1595340842, free: 122.18, total: 852.89, buffers: 481.23, cached: 11.73, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m488, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:14:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.73 }, { "metricId": "FreeMemory", "value": 122.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 488)
+[21/07/2020:14:14:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 488)
+[21/07/2020:14:14:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 488)
+[21/07/2020:14:14:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:02]	Sensor was updated.
+[21/07/2020:14:14:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:12]	(115344) Memory: check-time: 1595340852, free: 122.18, total: 852.89, buffers: 481.23, cached: 11.74, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m489, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:14:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.74 }, { "metricId": "FreeMemory", "value": 122.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 489)
+[21/07/2020:14:14:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 489)
+[21/07/2020:14:14:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 489)
+[21/07/2020:14:14:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:12]	Sensor was updated.
+[21/07/2020:14:14:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:22]	(115344) Memory: check-time: 1595340862, free: 122.10, total: 852.89, buffers: 481.23, cached: 11.77, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m490, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:14:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.77 }, { "metricId": "FreeMemory", "value": 122.09999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 490)
+[21/07/2020:14:14:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 490)
+[21/07/2020:14:14:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 490)
+[21/07/2020:14:14:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:22]	Sensor was updated.
+[21/07/2020:14:14:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:32]	(115344) Memory: check-time: 1595340872, free: 122.10, total: 852.89, buffers: 481.24, cached: 11.78, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m491, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:14:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.779999999999999 }, { "metricId": "FreeMemory", "value": 122.09999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 491)
+[21/07/2020:14:14:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 491)
+[21/07/2020:14:14:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 491)
+[21/07/2020:14:14:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:32]	Sensor was updated.
+[21/07/2020:14:14:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:42]	(115344) Memory: check-time: 1595340882, free: 122.10, total: 852.89, buffers: 481.24, cached: 11.79, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m492, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:14:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.789999999999999 }, { "metricId": "FreeMemory", "value": 122.09999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 492)
+[21/07/2020:14:14:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 492)
+[21/07/2020:14:14:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 492)
+[21/07/2020:14:14:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:42]	Sensor was updated.
+[21/07/2020:14:14:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:14:52]	(115344) Memory: check-time: 1595340892, free: 122.70, total: 852.89, buffers: 481.24, cached: 11.80, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:14:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m493, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:14:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.800000000000001 }, { "metricId": "FreeMemory", "value": 122.7 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:14:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 493)
+[21/07/2020:14:14:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 493)
+[21/07/2020:14:14:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 493)
+[21/07/2020:14:14:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:14:52]	Sensor was updated.
+[21/07/2020:14:15:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:02]	(115344) Memory: check-time: 1595340902, free: 122.69, total: 852.89, buffers: 481.24, cached: 11.81, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m494, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:15:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.81 }, { "metricId": "FreeMemory", "value": 122.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 494)
+[21/07/2020:14:15:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 494)
+[21/07/2020:14:15:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 494)
+[21/07/2020:14:15:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:02]	Sensor was updated.
+[21/07/2020:14:15:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:12]	(115344) Memory: check-time: 1595340912, free: 122.69, total: 852.89, buffers: 481.24, cached: 11.82, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m495, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:15:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.82 }, { "metricId": "FreeMemory", "value": 122.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 495)
+[21/07/2020:14:15:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 495)
+[21/07/2020:14:15:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 495)
+[21/07/2020:14:15:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:12]	Sensor was updated.
+[21/07/2020:14:15:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:22]	(115344) Memory: check-time: 1595340922, free: 122.69, total: 852.89, buffers: 481.24, cached: 11.82, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m496, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:15:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.82 }, { "metricId": "FreeMemory", "value": 122.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 496)
+[21/07/2020:14:15:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 496)
+[21/07/2020:14:15:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 496)
+[21/07/2020:14:15:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:22]	Sensor was updated.
+[21/07/2020:14:15:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:32]	(115344) Memory: check-time: 1595340932, free: 122.69, total: 852.89, buffers: 481.24, cached: 11.83, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m497, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:15:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.83 }, { "metricId": "FreeMemory", "value": 122.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 497)
+[21/07/2020:14:15:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 497)
+[21/07/2020:14:15:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 497)
+[21/07/2020:14:15:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:32]	Sensor was updated.
+[21/07/2020:14:15:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:42]	(115344) Memory: check-time: 1595340942, free: 122.72, total: 852.89, buffers: 481.25, cached: 11.84, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m498, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (319 bytes))
+[21/07/2020:14:15:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.84 }, { "metricId": "FreeMemory", "value": 122.72 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 498)
+[21/07/2020:14:15:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 498)
+[21/07/2020:14:15:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 498)
+[21/07/2020:14:15:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:42]	Sensor was updated.
+[21/07/2020:14:15:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:15:52]	(115344) Memory: check-time: 1595340952, free: 122.73, total: 852.89, buffers: 481.25, cached: 11.85, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:15:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m499, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (319 bytes))
+[21/07/2020:14:15:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.85 }, { "metricId": "FreeMemory", "value": 122.73 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:15:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 499)
+[21/07/2020:14:15:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 499)
+[21/07/2020:14:15:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 499)
+[21/07/2020:14:15:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:15:52]	Sensor was updated.
+[21/07/2020:14:16:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:02]	(115344) Memory: check-time: 1595340962, free: 122.73, total: 852.89, buffers: 481.24, cached: 11.86, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m500, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:16:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.24000000000001 }, { "metricId": "CachedMemory", "value": 11.859999999999999 }, { "metricId": "FreeMemory", "value": 122.73 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 500)
+[21/07/2020:14:16:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 500)
+[21/07/2020:14:16:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 500)
+[21/07/2020:14:16:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:02]	Sensor was updated.
+[21/07/2020:14:16:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:12]	(115344) Memory: check-time: 1595340972, free: 122.73, total: 852.89, buffers: 481.23, cached: 11.86, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m501, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:16:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.859999999999999 }, { "metricId": "FreeMemory", "value": 122.73 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 501)
+[21/07/2020:14:16:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 501)
+[21/07/2020:14:16:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 501)
+[21/07/2020:14:16:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:12]	Sensor was updated.
+[21/07/2020:14:16:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:22]	(115344) Memory: check-time: 1595340982, free: 122.73, total: 852.89, buffers: 481.25, cached: 11.87, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m502, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (332 bytes))
+[21/07/2020:14:16:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.869999999999999 }, { "metricId": "FreeMemory", "value": 122.73 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 502)
+[21/07/2020:14:16:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 502)
+[21/07/2020:14:16:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 502)
+[21/07/2020:14:16:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:22]	Sensor was updated.
+[21/07/2020:14:16:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:32]	(115344) Memory: check-time: 1595340992, free: 122.73, total: 852.89, buffers: 481.25, cached: 11.88, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m503, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (332 bytes))
+[21/07/2020:14:16:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.880000000000001 }, { "metricId": "FreeMemory", "value": 122.73 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 503)
+[21/07/2020:14:16:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 503)
+[21/07/2020:14:16:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 503)
+[21/07/2020:14:16:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:32]	Sensor was updated.
+[21/07/2020:14:16:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:42]	(115344) Memory: check-time: 1595341002, free: 122.70, total: 852.89, buffers: 481.25, cached: 11.89, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m504, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:16:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.890000000000001 }, { "metricId": "FreeMemory", "value": 122.7 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 504)
+[21/07/2020:14:16:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 504)
+[21/07/2020:14:16:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 504)
+[21/07/2020:14:16:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:42]	Sensor was updated.
+[21/07/2020:14:16:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:16:52]	(115344) Memory: check-time: 1595341012, free: 122.70, total: 852.89, buffers: 481.25, cached: 11.89, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:16:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m505, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:16:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.25 }, { "metricId": "CachedMemory", "value": 11.890000000000001 }, { "metricId": "FreeMemory", "value": 122.7 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:16:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 505)
+[21/07/2020:14:16:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 505)
+[21/07/2020:14:16:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 505)
+[21/07/2020:14:16:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:16:52]	Sensor was updated.
+[21/07/2020:14:17:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:02]	(115344) Memory: check-time: 1595341022, free: 122.57, total: 852.89, buffers: 481.23, cached: 11.92, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m506, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:17:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 481.23000000000002 }, { "metricId": "CachedMemory", "value": 11.92 }, { "metricId": "FreeMemory", "value": 122.56999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 506)
+[21/07/2020:14:17:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 506)
+[21/07/2020:14:17:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 506)
+[21/07/2020:14:17:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:02]	Sensor was updated.
+[21/07/2020:14:17:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:12]	(115344) Memory: check-time: 1595341032, free: 104.57, total: 852.89, buffers: 488.22, cached: 12.79, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m507, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:17:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.22000000000003 }, { "metricId": "CachedMemory", "value": 12.789999999999999 }, { "metricId": "FreeMemory", "value": 104.56999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 507)
+[21/07/2020:14:17:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 507)
+[21/07/2020:14:17:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 507)
+[21/07/2020:14:17:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:12]	Sensor was updated.
+[21/07/2020:14:17:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:22]	(115344) Memory: check-time: 1595341042, free: 104.57, total: 852.89, buffers: 488.22, cached: 12.79, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m508, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:17:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.22000000000003 }, { "metricId": "CachedMemory", "value": 12.789999999999999 }, { "metricId": "FreeMemory", "value": 104.56999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 508)
+[21/07/2020:14:17:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 508)
+[21/07/2020:14:17:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 508)
+[21/07/2020:14:17:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:22]	Sensor was updated.
+[21/07/2020:14:17:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:32]	(115344) Memory: check-time: 1595341052, free: 115.20, total: 852.89, buffers: 488.36, cached: 12.95, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m509, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:17:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 12.949999999999999 }, { "metricId": "FreeMemory", "value": 115.2 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 509)
+[21/07/2020:14:17:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 509)
+[21/07/2020:14:17:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 509)
+[21/07/2020:14:17:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:32]	Sensor was updated.
+[21/07/2020:14:17:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:42]	(115344) Memory: check-time: 1595341062, free: 115.20, total: 852.89, buffers: 488.36, cached: 12.96, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m510, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:17:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 12.960000000000001 }, { "metricId": "FreeMemory", "value": 115.2 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 510)
+[21/07/2020:14:17:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 510)
+[21/07/2020:14:17:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 510)
+[21/07/2020:14:17:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:42]	Sensor was updated.
+[21/07/2020:14:17:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:17:52]	(115344) Memory: check-time: 1595341072, free: 104.18, total: 852.89, buffers: 488.36, cached: 12.96, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:17:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m511, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:17:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 12.960000000000001 }, { "metricId": "FreeMemory", "value": 104.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:17:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 511)
+[21/07/2020:14:17:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 511)
+[21/07/2020:14:17:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 511)
+[21/07/2020:14:17:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:17:52]	Sensor was updated.
+[21/07/2020:14:18:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:02]	(115344) Memory: check-time: 1595341082, free: 104.18, total: 852.89, buffers: 488.35, cached: 12.97, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m512, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:18:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.35000000000002 }, { "metricId": "CachedMemory", "value": 12.970000000000001 }, { "metricId": "FreeMemory", "value": 104.18000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 512)
+[21/07/2020:14:18:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 512)
+[21/07/2020:14:18:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 512)
+[21/07/2020:14:18:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:02]	Sensor was updated.
+[21/07/2020:14:18:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:12]	(115344) Memory: check-time: 1595341092, free: 103.91, total: 852.89, buffers: 488.36, cached: 12.98, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m513, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:18:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 12.98 }, { "metricId": "FreeMemory", "value": 103.91 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 513)
+[21/07/2020:14:18:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 513)
+[21/07/2020:14:18:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 513)
+[21/07/2020:14:18:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:12]	Sensor was updated.
+[21/07/2020:14:18:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:22]	(115344) Memory: check-time: 1595341102, free: 103.95, total: 852.89, buffers: 488.36, cached: 12.99, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m514, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:18:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 12.99 }, { "metricId": "FreeMemory", "value": 103.95 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 514)
+[21/07/2020:14:18:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 514)
+[21/07/2020:14:18:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 514)
+[21/07/2020:14:18:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:22]	Sensor was updated.
+[21/07/2020:14:18:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:32]	(115344) Memory: check-time: 1595341112, free: 103.91, total: 852.89, buffers: 488.36, cached: 13.00, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m515, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (330 bytes))
+[21/07/2020:14:18:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 13.0 }, { "metricId": "FreeMemory", "value": 103.91 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 515)
+[21/07/2020:14:18:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 515)
+[21/07/2020:14:18:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 515)
+[21/07/2020:14:18:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:32]	Sensor was updated.
+[21/07/2020:14:18:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:42]	(115344) Memory: check-time: 1595341122, free: 115.13, total: 852.89, buffers: 488.36, cached: 13.00, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m516, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (330 bytes))
+[21/07/2020:14:18:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.36000000000001 }, { "metricId": "CachedMemory", "value": 13.0 }, { "metricId": "FreeMemory", "value": 115.13 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 516)
+[21/07/2020:14:18:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 516)
+[21/07/2020:14:18:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 516)
+[21/07/2020:14:18:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:42]	Sensor was updated.
+[21/07/2020:14:18:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:18:52]	(115344) Memory: check-time: 1595341132, free: 115.13, total: 852.89, buffers: 488.35, cached: 13.01, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:18:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m517, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:18:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.35000000000002 }, { "metricId": "CachedMemory", "value": 13.01 }, { "metricId": "FreeMemory", "value": 115.13 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:18:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 517)
+[21/07/2020:14:18:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 517)
+[21/07/2020:14:18:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 517)
+[21/07/2020:14:18:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:18:52]	Sensor was updated.
+[21/07/2020:14:19:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:02]	(115344) Memory: check-time: 1595341142, free: 115.13, total: 852.89, buffers: 488.37, cached: 13.02, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m518, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (319 bytes))
+[21/07/2020:14:19:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.37 }, { "metricId": "CachedMemory", "value": 13.02 }, { "metricId": "FreeMemory", "value": 115.13 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 518)
+[21/07/2020:14:19:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 518)
+[21/07/2020:14:19:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 518)
+[21/07/2020:14:19:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:02]	Sensor was updated.
+[21/07/2020:14:19:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:12]	(115344) Memory: check-time: 1595341152, free: 115.08, total: 852.89, buffers: 488.44, cached: 13.03, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m519, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (332 bytes))
+[21/07/2020:14:19:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.44 }, { "metricId": "CachedMemory", "value": 13.029999999999999 }, { "metricId": "FreeMemory", "value": 115.08 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 519)
+[21/07/2020:14:19:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 519)
+[21/07/2020:14:19:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 519)
+[21/07/2020:14:19:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:12]	Sensor was updated.
+[21/07/2020:14:19:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:22]	(115344) Memory: check-time: 1595341162, free: 115.08, total: 852.89, buffers: 488.43, cached: 13.04, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m520, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:19:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.43000000000001 }, { "metricId": "CachedMemory", "value": 13.039999999999999 }, { "metricId": "FreeMemory", "value": 115.08 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 520)
+[21/07/2020:14:19:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 520)
+[21/07/2020:14:19:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 520)
+[21/07/2020:14:19:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:22]	Sensor was updated.
+[21/07/2020:14:19:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:32]	(115344) Memory: check-time: 1595341172, free: 115.08, total: 852.89, buffers: 488.43, cached: 13.05, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m521, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:19:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.43000000000001 }, { "metricId": "CachedMemory", "value": 13.050000000000001 }, { "metricId": "FreeMemory", "value": 115.08 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 521)
+[21/07/2020:14:19:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 521)
+[21/07/2020:14:19:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 521)
+[21/07/2020:14:19:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:32]	Sensor was updated.
+[21/07/2020:14:19:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:42]	(115344) Memory: check-time: 1595341182, free: 115.08, total: 852.89, buffers: 488.44, cached: 13.06, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m522, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (319 bytes))
+[21/07/2020:14:19:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.44 }, { "metricId": "CachedMemory", "value": 13.06 }, { "metricId": "FreeMemory", "value": 115.08 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 522)
+[21/07/2020:14:19:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 522)
+[21/07/2020:14:19:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 522)
+[21/07/2020:14:19:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:42]	Sensor was updated.
+[21/07/2020:14:19:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:19:52]	(115344) Memory: check-time: 1595341192, free: 118.56, total: 852.89, buffers: 488.65, cached: 13.11, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:19:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m523, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:19:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.64999999999998 }, { "metricId": "CachedMemory", "value": 13.109999999999999 }, { "metricId": "FreeMemory", "value": 118.56 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:19:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 523)
+[21/07/2020:14:19:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 523)
+[21/07/2020:14:19:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 523)
+[21/07/2020:14:19:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:19:52]	Sensor was updated.
+[21/07/2020:14:20:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:02]	(115344) Memory: check-time: 1595341202, free: 118.55, total: 852.89, buffers: 488.66, cached: 13.12, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m524, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:20:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 488.66000000000003 }, { "metricId": "CachedMemory", "value": 13.119999999999999 }, { "metricId": "FreeMemory", "value": 118.55 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 524)
+[21/07/2020:14:20:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 524)
+[21/07/2020:14:20:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 524)
+[21/07/2020:14:20:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:02]	Sensor was updated.
+[21/07/2020:14:20:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:12]	(115344) Memory: check-time: 1595341212, free: 121.79, total: 852.89, buffers: 484.72, cached: 13.16, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m525, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:20:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 484.72000000000003 }, { "metricId": "CachedMemory", "value": 13.16 }, { "metricId": "FreeMemory", "value": 121.79000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 525)
+[21/07/2020:14:20:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 525)
+[21/07/2020:14:20:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 525)
+[21/07/2020:14:20:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:12]	Sensor was updated.
+[21/07/2020:14:20:13]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/inventory/inbox', ... (993 bytes))
+[21/07/2020:14:20:13]	[
+	{
+		"frequency" : 10,
+		"metrics" : 
+		[
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/BuffersMemory/inventory",
+				"metricId" : "BuffersMemory"
+			},
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/CachedMemory/inventory",
+				"metricId" : "CachedMemory"
+			},
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/FreeMemory/inventory",
+				"metricId" : "FreeMemory"
+			},
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/FreeSwapMemory/inventory",
+				"metricId" : "FreeSwapMemory"
+			},
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/TotalMemory/inventory",
+				"metricId" : "TotalMemory"
+			},
+			{
+				"link" : "/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/metric/TotalSwapMemory/inventory",
+				"metricId" : "TotalSwapMemory"
+			}
+		],
+		"monitoringService" : "memorymon",
+		"name" : "Memory",
+		"sensorId" : "115344"
+	}
+]
+
+[21/07/2020:14:20:13]	GWConnector::OnListSensors - err: -1
+[21/07/2020:14:20:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:22]	(115344) Memory: check-time: 1595341222, free: 117.76, total: 852.89, buffers: 483.24, cached: 13.19, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m526, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (343 bytes))
+[21/07/2020:14:20:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 483.24000000000001 }, { "metricId": "CachedMemory", "value": 13.19 }, { "metricId": "FreeMemory", "value": 117.76000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 526)
+[21/07/2020:14:20:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 526)
+[21/07/2020:14:20:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 526)
+[21/07/2020:14:20:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:22]	Sensor was updated.
+[21/07/2020:14:20:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:32]	(115344) Memory: check-time: 1595341232, free: 118.55, total: 852.89, buffers: 483.23, cached: 13.20, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m527, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:20:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 483.23000000000002 }, { "metricId": "CachedMemory", "value": 13.199999999999999 }, { "metricId": "FreeMemory", "value": 118.55 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 527)
+[21/07/2020:14:20:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 527)
+[21/07/2020:14:20:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 527)
+[21/07/2020:14:20:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:32]	Sensor was updated.
+[21/07/2020:14:20:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:42]	(115344) Memory: check-time: 1595341242, free: 125.28, total: 852.89, buffers: 471.36, cached: 14.20, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m528, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:20:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 471.36000000000001 }, { "metricId": "CachedMemory", "value": 14.199999999999999 }, { "metricId": "FreeMemory", "value": 125.28 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 528)
+[21/07/2020:14:20:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 528)
+[21/07/2020:14:20:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 528)
+[21/07/2020:14:20:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:42]	Sensor was updated.
+[21/07/2020:14:20:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:20:52]	(115344) Memory: check-time: 1595341252, free: 134.69, total: 852.89, buffers: 462.33, cached: 14.96, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:20:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m529, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:20:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.32999999999998 }, { "metricId": "CachedMemory", "value": 14.960000000000001 }, { "metricId": "FreeMemory", "value": 134.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:20:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 529)
+[21/07/2020:14:20:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 529)
+[21/07/2020:14:20:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 529)
+[21/07/2020:14:20:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:20:52]	Sensor was updated.
+[21/07/2020:14:21:02]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:02]	(115344) Memory: check-time: 1595341262, free: 134.69, total: 852.89, buffers: 462.34, cached: 14.96, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m530, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:21:02]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.33999999999997 }, { "metricId": "CachedMemory", "value": 14.960000000000001 }, { "metricId": "FreeMemory", "value": 134.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 530)
+[21/07/2020:14:21:02]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 530)
+[21/07/2020:14:21:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 530)
+[21/07/2020:14:21:02]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:02]	Sensor was updated.
+[21/07/2020:14:21:12]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:12]	(115344) Memory: check-time: 1595341272, free: 134.69, total: 852.89, buffers: 462.33, cached: 14.97, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m531, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (344 bytes))
+[21/07/2020:14:21:12]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.32999999999998 }, { "metricId": "CachedMemory", "value": 14.970000000000001 }, { "metricId": "FreeMemory", "value": 134.69 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 531)
+[21/07/2020:14:21:12]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 531)
+[21/07/2020:14:21:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 531)
+[21/07/2020:14:21:12]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:12]	Sensor was updated.
+[21/07/2020:14:21:22]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:22]	(115344) Memory: check-time: 1595341282, free: 134.66, total: 852.89, buffers: 462.34, cached: 14.99, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m532, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (331 bytes))
+[21/07/2020:14:21:22]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.33999999999997 }, { "metricId": "CachedMemory", "value": 14.99 }, { "metricId": "FreeMemory", "value": 134.66 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 532)
+[21/07/2020:14:21:22]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 532)
+[21/07/2020:14:21:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 532)
+[21/07/2020:14:21:22]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:22]	Sensor was updated.
+[21/07/2020:14:21:32]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:32]	(115344) Memory: check-time: 1595341292, free: 133.30, total: 852.89, buffers: 462.39, cached: 15.00, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m533, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:21:32]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.38999999999999 }, { "metricId": "CachedMemory", "value": 15.0 }, { "metricId": "FreeMemory", "value": 133.30000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 533)
+[21/07/2020:14:21:32]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 533)
+[21/07/2020:14:21:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 533)
+[21/07/2020:14:21:32]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:32]	Sensor was updated.
+[21/07/2020:14:21:42]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:42]	(115344) Memory: check-time: 1595341302, free: 133.26, total: 852.89, buffers: 462.48, cached: 15.00, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m534, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (342 bytes))
+[21/07/2020:14:21:42]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.48000000000002 }, { "metricId": "CachedMemory", "value": 15.0 }, { "metricId": "FreeMemory", "value": 133.25999999999999 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 534)
+[21/07/2020:14:21:42]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 534)
+[21/07/2020:14:21:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 534)
+[21/07/2020:14:21:42]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:42]	Sensor was updated.
+[21/07/2020:14:21:52]	MemoryMon::MakeCheck (115344)
+[21/07/2020:14:21:52]	(115344) Memory: check-time: 1595341312, free: 132.27, total: 852.89, buffers: 462.93, cached: 15.03, swap-free: 0.00, swap-total: 0.00
+[21/07/2020:14:21:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBLISH (d0, q2, r0, m535, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344', ... (356 bytes))
+[21/07/2020:14:21:52]	{ "metrics": [ { "metricId": "BuffersMemory", "value": 462.93000000000001 }, { "metricId": "CachedMemory", "value": 15.029999999999999 }, { "metricId": "FreeMemory", "value": 132.27000000000001 }, { "metricId": "FreeSwapMemory", "value": 0.0 }, { "metricId": "TotalMemory", "value": 852.88999999999999 }, { "metricId": "TotalSwapMemory", "value": 0.0 } ] }
+[21/07/2020:14:21:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBREC (Mid: 535)
+[21/07/2020:14:21:52]	Client a7c3fd89f9fa4cf380f84f44d095219f sending PUBREL (Mid: 535)
+[21/07/2020:14:21:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBCOMP (Mid: 535)
+[21/07/2020:14:21:52]	Client a7c3fd89f9fa4cf380f84f44d095219f received PUBLISH (d0, q0, r0, m0, '/v1.0/a7c3fd89f9fa4cf380f84f44d095219f/sensor/115344/info/inbox', ... (19 bytes))
+[21/07/2020:14:21:52]	Sensor was updated.

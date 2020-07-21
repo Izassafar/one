@@ -492,3 +492,17 @@ Jul 21 13:41:32 ubuntu sshd[2858]: Failed password for root from 192.168.0.108 p
 Jul 21 13:42:06 ubuntu sshd[2858]: message repeated 2 times: [ Failed password for root from 192.168.0.108 port 37842 ssh2]
 Jul 21 13:42:06 ubuntu sshd[2858]: Connection closed by authenticating user root 192.168.0.108 port 37842 [preauth]
 Jul 21 13:42:06 ubuntu sshd[2858]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.0.108  user=root
+Jul 21 14:17:01 ubuntu CRON[2907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 21 14:17:01 ubuntu CRON[2907]: pam_unix(cron:session): session closed for user root
+Jul 21 14:19:48 ubuntu su[2586]: pam_unix(su:session): session closed for user root
+Jul 21 14:19:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 21 14:19:48 ubuntu systemd-logind[1319]: Removed session 1.
+Jul 21 14:20:45 ubuntu login[2935]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 21 14:20:45 ubuntu systemd-logind[1319]: New session 5 of user ubuntu.
+Jul 21 14:20:45 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 21 14:21:23 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 21 14:21:23 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 21 14:21:23 ubuntu su[3067]: Successful su for root by root
+Jul 21 14:21:23 ubuntu su[3067]: + /dev/pts/0 root:root
+Jul 21 14:21:23 ubuntu su[3067]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 21 14:21:23 ubuntu su[3067]: pam_systemd(su:session): Cannot create session: Already running in a session
