@@ -1,0 +1,104 @@
+2020-06-29 10:43:24,621 INFO Initial blacklisted packages: 
+2020-06-29 10:43:24,638 INFO Initial whitelisted packages: 
+2020-06-29 10:43:24,640 INFO Starting unattended upgrades script
+2020-06-29 10:43:24,642 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-06-29 10:46:00,146 WARNING SIGTERM received, will stop
+2020-06-29 10:47:33,364 INFO Initial blacklisted packages: 
+2020-06-29 10:47:33,367 INFO Initial whitelisted packages: 
+2020-06-29 10:47:33,368 INFO Starting unattended upgrades script
+2020-06-29 10:47:33,368 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-06-29 11:33:01,601 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/libicu60_60.2-3ubuntu3.1_armhf.deb -> /var/cache/apt/archives/libicu60_60.2-3ubuntu3.1_armhf.deb).
+2020-06-29 11:33:01,714 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/vim-runtime_2%3a8.0.1453-1ubuntu1.3_all.deb -> /var/cache/apt/archives/vim-runtime_2%3a8.0.1453-1ubuntu1.3_all.deb).
+2020-06-29 11:33:01,831 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/libdns1100_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb -> /var/cache/apt/archives/libdns1100_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb).
+2020-06-29 11:33:01,848 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/libisc169_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb -> /var/cache/apt/archives/libisc169_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb).
+2020-06-29 11:33:02,070 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/linux-firmware_1.173.18_all.deb -> /var/cache/apt/archives/linux-firmware_1.173.18_all.deb).
+2020-06-29 11:33:02,103 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/linux-raspi2-5.3-headers-5.3.0-1027_5.3.0-1027.29~18.04.1_armhf.deb -> /var/cache/apt/archives/linux-raspi2-5.3-headers-5.3.0-1027_5.3.0-1027.29~18.04.1_armhf.deb).
+2020-06-29 11:33:02,416 ERROR An error occurred: rename failed, No such file or directory (/var/cache/apt/archives/partial/linux-image-5.3.0-1027-raspi2_5.3.0-1027.29~18.04.1_armhf.deb -> /var/cache/apt/archives/linux-image-5.3.0-1027-raspi2_5.3.0-1027.29~18.04.1_armhf.deb).
+2020-06-29 11:33:02,492 INFO Packages that will be upgraded: apport apt apt-utils bind9-host binutils binutils-arm-linux-gnueabihf binutils-common ca-certificates curl dbus dnsutils file gcc-8-base git git-man iproute2 libapt-inst2.0 libapt-pkg5.0 libbind9-160 libbinutils libcurl3-gnutls libcurl4 libdbus-1-3 libdns-export1100 libdns1100 libdrm-common libdrm2 libgcc1 libglib2.0-0 libglib2.0-data libicu60 libirs160 libisc-export169 libisc169 libisccc160 libisccfg160 libjson-c3 libldap-2.4-2 libldap-common liblwres160 libmagic-mgc libmagic1 libnss-systemd libpam-systemd libpython3.6 libpython3.6-minimal libpython3.6-stdlib libsqlite3-0 libssl1.1 libstdc++6 libsystemd0 libudev1 libxml2 linux-base linux-firmware linux-headers-raspi2-hwe-18.04 linux-image-raspi2-hwe-18.04 linux-raspi2-hwe-18.04 openssl python3-apport python3-problem-report python3-twisted python3-twisted-bin python3.6 python3.6-minimal rsync systemd systemd-sysv tzdata udev vim vim-common vim-runtime vim-tiny xxd
+2020-06-29 11:33:02,493 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-06-29 11:44:47,797 ERROR Installing the upgrades failed!
+2020-06-29 11:44:47,802 ERROR error message: installArchives() failed
+2020-06-29 11:44:47,804 ERROR dpkg returned a error! See /var/log/unattended-upgrades/unattended-upgrades-dpkg.log for details
+2020-07-02 06:10:45,027 INFO Initial blacklisted packages: 
+2020-07-02 06:10:45,033 INFO Initial whitelisted packages: 
+2020-07-02 06:10:45,034 INFO Starting unattended upgrades script
+2020-07-02 06:10:45,034 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-07-02 06:20:42,288 INFO Initial blacklisted packages: 
+2020-07-02 06:20:42,291 INFO Initial whitelisted packages: 
+2020-07-02 06:20:42,292 INFO Starting unattended upgrades script
+2020-07-02 06:20:42,292 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-07-02 06:30:36,855 INFO Packages that will be upgraded: apport apt apt-utils bind9-host binutils binutils-arm-linux-gnueabihf binutils-common curl dbus dnsutils file gcc-8-base libapt-pkg5.0 libbind9-160 libbinutils libcurl4 libdbus-1-3 libdns1100 libdrm2 libgcc1 libirs160 libisc169 libisccc160 libisccfg160 libldap-2.4-2 liblwres160 libmagic-mgc libmagic1 libnss-systemd libpam-systemd libpython3.6 libpython3.6-minimal libpython3.6-stdlib libseccomp2 libstdc++6 libsystemd0 libudev1 linux-headers-raspi2-hwe-18.04 linux-image-raspi2-hwe-18.04 linux-raspi2-hwe-18.04 python3-twisted python3.6 python3.6-minimal rsync systemd systemd-sysv tzdata udev vim vim-common vim-runtime vim-tiny xxd
+2020-07-02 06:30:36,856 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-02 06:42:32,495 INFO All upgrades installed
+2020-07-03 06:31:10,013 INFO Initial blacklisted packages: 
+2020-07-03 06:31:10,020 INFO Initial whitelisted packages: 
+2020-07-03 06:31:10,021 INFO Starting unattended upgrades script
+2020-07-03 06:31:10,021 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-07-03 06:32:37,302 INFO Initial blacklisted packages: 
+2020-07-03 06:32:37,305 INFO Initial whitelisted packages: 
+2020-07-03 06:32:37,306 INFO Starting unattended upgrades script
+2020-07-03 06:32:37,307 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESM,a=bionic
+2020-07-03 06:32:51,611 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-06 05:43:30,016 INFO Initial blacklisted packages: 
+2020-07-06 05:43:30,043 INFO Initial whitelisted packages: 
+2020-07-06 05:43:30,044 INFO Starting unattended upgrades script
+2020-07-06 05:43:30,046 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-06 05:43:42,624 INFO Initial blacklisted packages: 
+2020-07-06 05:43:42,626 INFO Initial whitelisted packages: 
+2020-07-06 05:43:42,627 INFO Starting unattended upgrades script
+2020-07-06 05:43:42,628 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-06 05:43:52,056 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-10 11:48:45,725 INFO Initial blacklisted packages: 
+2020-07-10 11:48:45,730 INFO Initial whitelisted packages: 
+2020-07-10 11:48:45,731 INFO Starting unattended upgrades script
+2020-07-10 11:48:45,732 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-10 12:14:25,948 INFO Initial blacklisted packages: 
+2020-07-10 12:14:25,951 INFO Initial whitelisted packages: 
+2020-07-10 12:14:25,951 INFO Starting unattended upgrades script
+2020-07-10 12:14:25,952 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-10 12:14:42,421 INFO Packages that will be upgraded: linux-headers-raspi2-hwe-18.04 linux-image-raspi2-hwe-18.04 linux-raspi2-hwe-18.04 python3-httplib2
+2020-07-10 12:14:42,422 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-10 12:17:19,538 INFO All upgrades installed
+2020-07-15 07:45:23,771 INFO Initial blacklisted packages: 
+2020-07-15 07:45:23,776 INFO Initial whitelisted packages: 
+2020-07-15 07:45:23,777 INFO Starting unattended upgrades script
+2020-07-15 07:45:23,778 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-15 07:47:42,096 INFO Initial blacklisted packages: 
+2020-07-15 07:47:42,099 INFO Initial whitelisted packages: 
+2020-07-15 07:47:42,099 INFO Starting unattended upgrades script
+2020-07-15 07:47:42,100 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-15 07:47:54,481 INFO Removing unused kernel packages: linux-image-5.3.0-1017-raspi2 linux-headers-5.3.0-1017-raspi2 linux-modules-5.3.0-1017-raspi2
+2020-07-15 07:48:36,388 INFO Packages that were successfully auto-removed: linux-headers-5.3.0-1017-raspi2 linux-image-5.3.0-1017-raspi2 linux-modules-5.3.0-1017-raspi2
+2020-07-15 07:48:36,389 INFO Packages that are kept back: 
+2020-07-15 07:48:40,423 INFO Packages that will be upgraded: linux-libc-dev
+2020-07-15 07:48:40,424 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-15 07:48:56,219 INFO All upgrades installed
+2020-07-16 06:48:31,387 INFO Initial blacklisted packages: 
+2020-07-16 06:48:31,393 INFO Initial whitelisted packages: 
+2020-07-16 06:48:31,394 INFO Starting unattended upgrades script
+2020-07-16 06:48:31,395 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-16 06:49:48,604 INFO Initial blacklisted packages: 
+2020-07-16 06:49:48,607 INFO Initial whitelisted packages: 
+2020-07-16 06:49:48,608 INFO Starting unattended upgrades script
+2020-07-16 06:49:48,608 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-16 06:50:00,876 INFO Packages that will be upgraded: snapd
+2020-07-16 06:50:00,877 INFO Writing dpkg log to /var/log/unattended-upgrades/unattended-upgrades-dpkg.log
+2020-07-16 06:52:28,155 INFO All upgrades installed
+2020-07-17 08:26:17,849 INFO Initial blacklisted packages: 
+2020-07-17 08:26:17,855 INFO Initial whitelisted packages: 
+2020-07-17 08:26:17,856 INFO Starting unattended upgrades script
+2020-07-17 08:26:17,857 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-17 08:26:37,836 INFO Initial blacklisted packages: 
+2020-07-17 08:26:37,839 INFO Initial whitelisted packages: 
+2020-07-17 08:26:37,840 INFO Starting unattended upgrades script
+2020-07-17 08:26:37,840 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-17 08:26:50,631 INFO No packages found that can be upgraded unattended and no pending auto-removals
+2020-07-21 12:55:22,196 INFO Initial blacklisted packages: 
+2020-07-21 12:55:22,205 INFO Initial whitelisted packages: 
+2020-07-21 12:55:22,207 INFO Starting unattended upgrades script
+2020-07-21 12:55:22,209 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-21 12:55:40,881 INFO Initial blacklisted packages: 
+2020-07-21 12:55:40,883 INFO Initial whitelisted packages: 
+2020-07-21 12:55:40,884 INFO Starting unattended upgrades script
+2020-07-21 12:55:40,885 INFO Allowed origins are: o=Ubuntu,a=bionic, o=Ubuntu,a=bionic-security, o=UbuntuESMApps,a=bionic-apps-security, o=UbuntuESM,a=bionic-infra-security
+2020-07-21 12:55:56,327 INFO No packages found that can be upgraded unattended and no pending auto-removals

@@ -1,0 +1,732 @@
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 03 Feb 2020 18:33:18 +0000. Up 19.25 seconds.
+2020-02-03 18:33:19,171 - network_state.py[WARNING]: Wifi configuration is only available to distros withnetplan rendering support.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 03 Feb 2020 18:33:22 +0000. Up 23.13 seconds.
+ci-info: +++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |  Address  |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |     .     |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True | 127.0.0.1 | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |  ::1/128  |     .     |  host |         .         |
+ci-info: | wlan0  | False |     .     |     .     |   .   | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: +-------+-------------+---------+-----------+-------+
+Generating public/private rsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_rsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_rsa_key.pub.
+The key fingerprint is:
+SHA256:KaSsTbGQ2RN5VKteh36xhvV628gluXM/mHjbbeGPZos root@ubuntu
+The key's randomart image is:
++---[RSA 2048]----+
+|    .o...        |
+|   +...  .       |
+|  + +.. .        |
+|   o * . o       |
+|    = o S +      |
+|   + . + + + . . |
+|  . . . o + = = .|
+|         o +o@=+o|
+|          ..EB==*|
++----[SHA256]-----+
+Generating public/private dsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_dsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_dsa_key.pub.
+The key fingerprint is:
+SHA256:9DBpZTPNxGPGh2o/4ToG+SSJ6YJSJvp2cCP1lov2FC4 root@ubuntu
+The key's randomart image is:
++---[DSA 1024]----+
+|          =*..   |
+|         + oX .  |
+|        *  + o   |
+|    .  o +o .    |
+|   . ..+S+.o .   |
+|. = o.*.= . +    |
+|.+ =E=o. = . .   |
+|o o =oo   =      |
+| +.o o.  . .     |
++----[SHA256]-----+
+Generating public/private ecdsa key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ecdsa_key.
+Your public key has been saved in /etc/ssh/ssh_host_ecdsa_key.pub.
+The key fingerprint is:
+SHA256:02kYCsIyP9DGA88H/o9CDAQ9GzLA/UoDv1VthOuGEO8 root@ubuntu
+The key's randomart image is:
++---[ECDSA 256]---+
+|Boo     +.       |
+|+@++   o o       |
+|=o&+* . +        |
+| O.X = o + .     |
+|  * O + S +      |
+| . + E o o       |
+|  . . o          |
+|   .             |
+|                 |
++----[SHA256]-----+
+Generating public/private ed25519 key pair.
+Your identification has been saved in /etc/ssh/ssh_host_ed25519_key.
+Your public key has been saved in /etc/ssh/ssh_host_ed25519_key.pub.
+The key fingerprint is:
+SHA256:APhTh+Kf8o77VmG9vtFghMqsIhbnEsSyQ24fF6djzH0 root@ubuntu
+The key's randomart image is:
++--[ED25519 256]--+
+|   ..  .         |
+|. . ..o ..       |
+|.+ o +.o...      |
+|=.  *o=oo..      |
+|o= o X++SEo.     |
+|..* =.+ o..o     |
+|.o.o.o . .. .    |
+|.... .o   ..     |
+|    o=o   ..     |
++----[SHA256]-----+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 03 Feb 2020 18:33:57 +0000. Up 58.30 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 03 Feb 2020 18:34:01 +0000. Up 62.78 seconds.
+ci-info: no authorized SSH keys fingerprints found for user ubuntu.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 03 Feb 2020 18:34:02 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 63.42 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 03 Feb 2020 18:34:18 +0000. Up 19.65 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 03 Feb 2020 18:34:22 +0000. Up 22.79 seconds.
+ci-info: +++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |  Address  |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |     .     |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True | 127.0.0.1 | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |  ::1/128  |     .     |  host |         .         |
+ci-info: | wlan0  | False |     .     |     .     |   .   | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 03 Feb 2020 18:34:27 +0000. Up 27.86 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 03 Feb 2020 18:34:29 +0000. Up 30.62 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 03 Feb 2020 18:34:30 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 31.12 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 29 Jun 2020 11:46:58 +0000. Up 19.83 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 29 Jun 2020 11:47:01 +0000. Up 22.99 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.106         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 29 Jun 2020 11:47:06 +0000. Up 28.07 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 29 Jun 2020 11:47:09 +0000. Up 30.98 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 29 Jun 2020 11:47:10 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 31.48 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 29 Jun 2020 12:53:06 +0000. Up 20.66 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 29 Jun 2020 12:53:09 +0000. Up 23.82 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 29 Jun 2020 12:53:15 +0000. Up 29.97 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 29 Jun 2020 12:53:18 +0000. Up 32.66 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 29 Jun 2020 12:53:18 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 33.17 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Thu, 02 Jul 2020 08:14:29 +0000. Up 19.73 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Thu, 02 Jul 2020 08:14:32 +0000. Up 22.91 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Thu, 02 Jul 2020 08:14:42 +0000. Up 32.54 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Thu, 02 Jul 2020 08:14:50 +0000. Up 40.99 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Thu, 02 Jul 2020 08:14:51 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 41.56 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 03 Jul 2020 08:28:12 +0000. Up 20.23 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 03 Jul 2020 08:28:16 +0000. Up 23.30 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.103         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 03 Jul 2020 08:28:23 +0000. Up 30.69 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 03 Jul 2020 09:01:42 +0000. Up 38.68 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 03 Jul 2020 09:01:42 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.27 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 03 Jul 2020 09:49:34 +0000. Up 19.60 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 03 Jul 2020 09:49:37 +0000. Up 22.76 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.103         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 03 Jul 2020 09:49:46 +0000. Up 31.71 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 03 Jul 2020 10:03:00 +0000. Up 40.68 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 03 Jul 2020 10:03:01 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 41.23 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 03 Jul 2020 10:42:59 +0000. Up 20.01 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 03 Jul 2020 10:43:02 +0000. Up 23.11 seconds.
+ci-info: +++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |  Address  |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |     .     |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True | 127.0.0.1 | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |  ::1/128  |     .     |  host |         .         |
+ci-info: | wlan0  |  True |     .     |     .     |   .   | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 03 Jul 2020 10:43:10 +0000. Up 30.28 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 03 Jul 2020 11:39:01 +0000. Up 38.50 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 03 Jul 2020 11:39:02 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.05 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 03 Jul 2020 15:12:57 +0000. Up 20.80 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 03 Jul 2020 15:13:00 +0000. Up 23.89 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 03 Jul 2020 15:13:07 +0000. Up 31.17 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 05:40:40 +0000. Up 42.20 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 05:40:41 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 42.71 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 05:57:07 +0000. Up 19.99 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 05:57:10 +0000. Up 23.09 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.107         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 05:57:18 +0000. Up 30.51 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 05:57:25 +0000. Up 38.38 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 05:57:26 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 38.91 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 07:12:57 +0000. Up 20.10 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 07:13:00 +0000. Up 23.21 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.107         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 07:13:08 +0000. Up 30.54 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 07:13:16 +0000. Up 38.60 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 07:13:16 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.13 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 08:07:38 +0000. Up 21.63 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 08:07:41 +0000. Up 24.74 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.107         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 08:07:48 +0000. Up 32.24 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 08:12:37 +0000. Up 42.01 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 08:12:38 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 42.56 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 08:20:01 +0000. Up 20.37 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 08:20:04 +0000. Up 23.48 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 08:20:11 +0000. Up 30.71 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 08:20:19 +0000. Up 38.79 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 08:20:20 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.31 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 11:44:48 +0000. Up 20.19 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 11:44:51 +0000. Up 23.32 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.104         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 11:44:58 +0000. Up 30.53 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 11:49:08 +0000. Up 38.55 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 11:49:09 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.08 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Mon, 06 Jul 2020 12:48:55 +0000. Up 19.55 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Mon, 06 Jul 2020 12:48:58 +0000. Up 22.75 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.105         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Mon, 06 Jul 2020 12:49:08 +0000. Up 32.75 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Mon, 06 Jul 2020 12:49:16 +0000. Up 40.83 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Mon, 06 Jul 2020 12:49:17 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 41.40 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Tue, 07 Jul 2020 07:28:51 +0000. Up 19.99 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Tue, 07 Jul 2020 07:28:54 +0000. Up 23.07 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.105         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Tue, 07 Jul 2020 07:29:02 +0000. Up 30.35 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Tue, 07 Jul 2020 07:47:54 +0000. Up 39.04 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Tue, 07 Jul 2020 07:47:55 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 39.72 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Tue, 07 Jul 2020 08:22:58 +0000. Up 19.58 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Tue, 07 Jul 2020 08:23:01 +0000. Up 22.80 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.105         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Tue, 07 Jul 2020 08:23:11 +0000. Up 32.71 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Tue, 07 Jul 2020 08:23:50 +0000. Up 41.54 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Tue, 07 Jul 2020 08:23:50 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 42.12 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Tue, 07 Jul 2020 08:26:36 +0000. Up 20.19 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Tue, 07 Jul 2020 08:26:39 +0000. Up 23.26 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.105         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Tue, 07 Jul 2020 08:26:47 +0000. Up 30.99 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Tue, 07 Jul 2020 08:30:36 +0000. Up 38.43 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Tue, 07 Jul 2020 08:30:37 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 38.98 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Tue, 07 Jul 2020 08:43:09 +0000. Up 20.35 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Tue, 07 Jul 2020 08:43:12 +0000. Up 23.45 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.105         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Tue, 07 Jul 2020 08:43:20 +0000. Up 31.35 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Tue, 07 Jul 2020 08:47:07 +0000. Up 41.11 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Tue, 07 Jul 2020 08:47:08 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 41.66 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Tue, 07 Jul 2020 08:55:02 +0000. Up 21.01 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Tue, 07 Jul 2020 08:55:05 +0000. Up 24.12 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Tue, 07 Jul 2020 08:55:13 +0000. Up 31.82 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 10 Jul 2020 11:44:29 +0000. Up 40.03 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 10 Jul 2020 11:44:30 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 40.60 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 10 Jul 2020 13:44:17 +0000. Up 21.46 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 10 Jul 2020 13:44:20 +0000. Up 24.55 seconds.
+ci-info: +++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |  Address  |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |     .     |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True | 127.0.0.1 | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |  ::1/128  |     .     |  host |         .         |
+ci-info: | wlan0  |  True |     .     |     .     |   .   | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+-----------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 10 Jul 2020 13:44:28 +0000. Up 32.19 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Wed, 15 Jul 2020 07:39:43 +0000. Up 42.43 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Wed, 15 Jul 2020 07:39:44 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 43.01 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Wed, 15 Jul 2020 12:13:37 +0000. Up 20.97 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Wed, 15 Jul 2020 12:13:40 +0000. Up 24.08 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++Net device info+++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: | Device |   Up  |           Address            |    Mask   | Scope |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: |  eth0  | False |              .               |     .     |   .   | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           | 255.0.0.0 |  host |         .         |
+ci-info: |   lo   |  True |           ::1/128            |     .     |  host |         .         |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |     .     |  link | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+-----------+-------+-------------------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Wed, 15 Jul 2020 12:13:51 +0000. Up 35.39 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Thu, 16 Jul 2020 06:47:11 +0000. Up 43.19 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Thu, 16 Jul 2020 06:47:12 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 43.73 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Thu, 16 Jul 2020 08:46:55 +0000. Up 27.83 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Thu, 16 Jul 2020 08:47:00 +0000. Up 33.80 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.106         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |    local    |    ::   |   wlan0   |   U   |
+ci-info: |   4   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Thu, 16 Jul 2020 08:47:12 +0000. Up 45.10 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 17 Jul 2020 08:24:56 +0000. Up 56.56 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 17 Jul 2020 08:24:57 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 57.58 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 17 Jul 2020 08:32:50 +0000. Up 25.06 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 17 Jul 2020 08:32:54 +0000. Up 28.67 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.106         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 17 Jul 2020 08:33:03 +0000. Up 37.90 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Fri, 17 Jul 2020 08:39:52 +0000. Up 48.03 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Fri, 17 Jul 2020 08:39:52 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 48.56 seconds
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init-local' at Fri, 17 Jul 2020 08:56:22 +0000. Up 27.36 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'init' at Fri, 17 Jul 2020 08:56:28 +0000. Up 33.36 seconds.
+ci-info: +++++++++++++++++++++++++++++++++++++++Net device info++++++++++++++++++++++++++++++++++++++++
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: | Device |   Up  |           Address            |      Mask     | Scope  |     Hw-Address    |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: |  eth0  | False |              .               |       .       |   .    | b8:27:eb:87:f9:b2 |
+ci-info: |   lo   |  True |          127.0.0.1           |   255.0.0.0   |  host  |         .         |
+ci-info: |   lo   |  True |           ::1/128            |       .       |  host  |         .         |
+ci-info: | wlan0  |  True |        192.168.0.108         | 255.255.255.0 | global | b8:27:eb:d2:ac:e7 |
+ci-info: | wlan0  |  True | fe80::ba27:ebff:fed2:ace7/64 |       .       |  link  | b8:27:eb:d2:ac:e7 |
+ci-info: +--------+-------+------------------------------+---------------+--------+-------------------+
+ci-info: ++++++++++++++++++++++++++++++Route IPv4 info++++++++++++++++++++++++++++++
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: | Route | Destination |   Gateway   |     Genmask     | Interface | Flags |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: |   0   |   0.0.0.0   | 192.168.0.1 |     0.0.0.0     |   wlan0   |   UG  |
+ci-info: |   1   | 192.168.0.0 |   0.0.0.0   |  255.255.255.0  |   wlan0   |   U   |
+ci-info: |   2   | 192.168.0.1 |   0.0.0.0   | 255.255.255.255 |   wlan0   |   UH  |
+ci-info: +-------+-------------+-------------+-----------------+-----------+-------+
+ci-info: +++++++++++++++++++Route IPv6 info+++++++++++++++++++
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: | Route | Destination | Gateway | Interface | Flags |
+ci-info: +-------+-------------+---------+-----------+-------+
+ci-info: |   1   |  fe80::/64  |    ::   |   wlan0   |   U   |
+ci-info: |   3   |    local    |    ::   |   wlan0   |   U   |
+ci-info: |   4   |   ff00::/8  |    ::   |   wlan0   |   U   |
+ci-info: +-------+-------------+---------+-----------+-------+
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:config' at Fri, 17 Jul 2020 08:56:39 +0000. Up 44.55 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 running 'modules:final' at Tue, 21 Jul 2020 12:54:27 +0000. Up 57.99 seconds.
+Cloud-init v. 19.4-33-gbb4131a2-0ubuntu1~18.04.1 finished at Tue, 21 Jul 2020 12:54:28 +0000. Datasource DataSourceNoCloud [seed=/dev/mmcblk0p1][dsmode=net].  Up 59.09 seconds
