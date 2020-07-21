@@ -5537,3 +5537,10 @@ Jul 21 14:20:07 ubuntu kernel: [ 5198.534494] Under-voltage detected! (0x0005000
 Jul 21 14:20:11 ubuntu kernel: [ 5202.566465] Voltage normalised (0x00000000)
 Jul 21 14:20:13 ubuntu kernel: [ 5204.582528] Under-voltage detected! (0x00050005)
 Jul 21 14:20:17 ubuntu kernel: [ 5208.614479] Voltage normalised (0x00000000)
+Jul 21 14:29:05 ubuntu kernel: [ 5736.807400] rpi_firmware_get_throttled: 5 callbacks suppressed
+Jul 21 14:29:05 ubuntu kernel: [ 5736.807409] Under-voltage detected! (0x00050005)
+Jul 21 14:29:12 ubuntu kernel: [ 5742.855359] rpi_firmware_get_throttled: 5 callbacks suppressed
+Jul 21 14:29:12 ubuntu kernel: [ 5742.855367] Voltage normalised (0x00000000)
+Jul 21 14:30:18 ubuntu kernel: [ 5809.383139] Under-voltage detected! (0x00050005)
+Jul 21 14:30:22 ubuntu kernel: [ 5813.415123] Voltage normalised (0x00000000)
+Jul 21 14:30:44 ubuntu kernel: [ 5835.591058] Under-voltage detected! (0x00050005)

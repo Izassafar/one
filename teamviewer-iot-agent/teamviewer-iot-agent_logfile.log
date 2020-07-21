@@ -12262,3 +12262,11 @@ Proxy-Settings:     Type=0 IP= User=
 2020/07/21 14:20:36.237  1421 3009984800     UdpOutputTracker(): max 16738 effectiveSent 18234 RTT 174109
 2020/07/21 14:20:45.199  1421 2941241632     LogindSessionInfo: New session LogindSessionInfo [id=5 user=ubuntu state=user active=1 reliable=1 infoId=2226203566] [path=/org/freedesktop/login1/session/_35 TTY=pts/0 seat= display= vtnr=4294967295 owner=[SysUser: ubuntu [uid=1000, gid=1000 home=/home/ubuntu gecos=Ubuntu shell=/bin/bash]] idle=0(1595341237744805) active=1 type=tty class=user state=opening timestamp=1595341245178324 service=login defaultCG= leader=2935 audit=5 remote=0 rHost= rUser= killProc=0]
 2020/07/21 14:20:45.200  1421 2882492704     SysSessionInfoManager::SessionAdded: adding session TerminalSession: login [SysSession 2226203566 [type=84 vt=4294967295 tty=pts/0 pseudotty=1 info=1 id=5 user=ubuntu state=user active=1 reliable=1]]
+2020/07/21 14:22:42.612  1421 3001592096  !  UdpConnection[13]: UDP statistics: dp=9 rrp=14 prp=3 
+2020/07/21 14:23:12.234  1421 3001592096  !  UdpConnection[13]: UDP statistics: rrp=5 
+2020/07/21 14:23:27.629  1421 3001592096     SessionControl[3]::PartnerReconnect(): Hide reconnect message, reconnect success, Client ID: 1715790911
+2020/07/21 14:23:33.630  1421 3001592096     Estimated Bandwidth Capacity to Router: 292 kbit/s, Reliability: 3, Carrier: 1
+2020/07/21 14:23:36.597  1421 2993199392     Estimated Bandwidth Capacity to 1715790911: 342 kbit/s, Reliability: 3, Carrier: 2
+2020/07/21 14:24:10.378  1421 2984806688  !  UdpConnection[13]: UDP statistics: dp=16 rrp=72 prp=2 
+2020/07/21 14:25:05.659  1421 2984806688  !  UdpConnection[13]: UDP statistics: rrp=1 
+2020/07/21 14:28:04.781  1421 2984806688  !  UdpConnection[13]: UDP statistics: dp=5 rrp=6 
