@@ -1,0 +1,508 @@
+Jul  6 06:25:18 ubuntu CRON[2468]: pam_unix(cron:session): session closed for user root
+Jul  6 06:27:31 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:28:07 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install build-essential python-dev
+Jul  6 06:28:07 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:28:57 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:29:27 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:29:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:29:27 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:29:32 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:29:32 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:29:32 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:30:02 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install build-essential python-dev
+Jul  6 06:30:02 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:30:05 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:30:13 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  6 06:30:13 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:30:25 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:30:36 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:30:36 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:30:36 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:47:18 ubuntu systemd-logind[1323]: Removed session 2.
+Jul  6 06:48:01 ubuntu login[3457]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul  6 06:48:01 ubuntu systemd-logind[1323]: New session 5 of user ubuntu.
+Jul  6 06:48:01 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 06:54:30 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  6 06:54:30 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:54:47 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:55:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install build-essential python-dev
+Jul  6 06:55:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:55:08 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:56:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:56:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:56:06 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:56:32 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:56:32 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:56:32 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:57:18 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install python3-setuptools
+Jul  6 06:57:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:57:21 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:57:28 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:57:28 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:57:29 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:58:21 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:58:21 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:58:21 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:58:53 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 06:58:53 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:58:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:01:15 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py installsudo apt-get install python3-setuptools
+Jul  6 07:01:15 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:01:15 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:01:18 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install python3-setuptools
+Jul  6 07:01:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:01:21 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:01:27 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:01:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:01:27 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:01:45 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install python setuptools
+Jul  6 07:01:45 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:01:47 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:01:56 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:01:56 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:01:56 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:03:30 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install python3-setuptools
+Jul  6 07:03:30 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:03:33 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:03:45 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py build
+Jul  6 07:03:45 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:03:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:07:16 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt install ssl
+Jul  6 07:07:16 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:07:17 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:07:26 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt install ssl
+Jul  6 07:07:26 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:07:28 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:07:58 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:07:58 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:07:59 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:09:50 ubuntu systemd-logind[1323]: Removed session 5.
+Jul  6 07:10:26 ubuntu login[4268]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul  6 07:10:26 ubuntu systemd-logind[1323]: New session 7 of user ubuntu.
+Jul  6 07:10:26 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 07:11:27 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:11:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:11:28 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:12:11 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python3 -m pip install --upgrade pip setuptools wheel
+Jul  6 07:12:11 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:12:19 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:12:24 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:12:24 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:12:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:12:39 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/local/bin/pip3 install Adafruit_DHT
+Jul  6 07:12:39 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:12:44 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:12:52 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:12:52 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:12:52 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:15:35 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:15:35 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:15:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:17:01 ubuntu CRON[4407]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  6 07:17:01 ubuntu CRON[4407]: pam_unix(cron:session): session closed for user root
+Jul  6 07:17:23 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install -y python-setuptools
+Jul  6 07:17:23 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:17:40 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:19:50 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:19:50 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:19:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:23:23 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  6 07:23:23 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:23:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:27:11 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  6 07:27:11 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:27:13 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:27:33 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  6 07:27:33 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:27:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:27:39 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod4
+Jul  6 07:27:39 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:27:41 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:27:48 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpio
+Jul  6 07:27:48 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:27:50 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:29:44 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python3 setup.py install
+Jul  6 07:29:44 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 07:29:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 07:13:02 ubuntu systemd-logind[1317]: New seat seat0.
+Jul  6 07:13:03 ubuntu sshd[1369]: Server listening on 0.0.0.0 port 22.
+Jul  6 07:13:03 ubuntu sshd[1369]: Server listening on :: port 22.
+Jul  6 07:53:45 ubuntu login[1873]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  6 07:53:45 ubuntu systemd-logind[1317]: New session 1 of user ubuntu.
+Jul  6 07:53:45 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 08:07:43 ubuntu systemd-logind[1314]: New seat seat0.
+Jul  6 08:07:44 ubuntu sshd[1371]: Server listening on 0.0.0.0 port 22.
+Jul  6 08:07:44 ubuntu sshd[1371]: Server listening on :: port 22.
+Jul  6 08:17:01 ubuntu CRON[1919]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  6 08:17:01 ubuntu CRON[1919]: pam_unix(cron:session): session closed for user root
+Jul  6 08:23:59 ubuntu login[2031]: pam_unix(login:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/pts/0 ruser= rhost=  user=ubuntu
+Jul  6 08:24:02 ubuntu login[2031]: FAILED LOGIN (1) on '/dev/pts/0' FOR 'ubuntu', Authentication failure
+Jul  6 08:24:22 ubuntu login[2031]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  6 08:24:23 ubuntu systemd-logind[1314]: New session 2 of user ubuntu.
+Jul  6 08:24:23 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 08:20:06 ubuntu systemd-logind[1325]: New seat seat0.
+Jul  6 08:20:07 ubuntu sshd[1373]: Server listening on 0.0.0.0 port 22.
+Jul  6 08:20:07 ubuntu sshd[1373]: Server listening on :: port 22.
+Jul  6 11:44:53 ubuntu systemd-logind[1322]: New seat seat0.
+Jul  6 11:44:54 ubuntu sshd[1371]: Server listening on 0.0.0.0 port 22.
+Jul  6 11:44:54 ubuntu sshd[1371]: Server listening on :: port 22.
+Jul  6 11:55:22 ubuntu login[1894]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  6 11:55:22 ubuntu systemd-logind[1322]: New session 1 of user ubuntu.
+Jul  6 11:55:22 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 12:00:54 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/dpkg -i /tmp/raspi-config_20180406+1_all.deb
+Jul  6 12:00:54 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 12:00:56 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 12:01:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/raspi-config
+Jul  6 12:01:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 12:01:32 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 12:01:32 ubuntu systemd-logind[1322]: Removed session 1.
+Jul  6 12:02:20 ubuntu login[2109]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul  6 12:02:20 ubuntu systemd-logind[1322]: New session 3 of user ubuntu.
+Jul  6 12:02:20 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 12:02:31 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/raspi-config
+Jul  6 12:02:31 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 12:04:55 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 12:06:33 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/raspi-config
+Jul  6 12:06:33 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 12:17:01 ubuntu CRON[3177]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  6 12:17:01 ubuntu CRON[3177]: pam_unix(cron:session): session closed for user root
+Jul  6 12:19:09 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 12:34:07 ubuntu systemd-logind[1322]: Removed session 3.
+Jul  6 12:49:00 ubuntu systemd-logind[1317]: New seat seat0.
+Jul  6 12:49:02 ubuntu sshd[1363]: Server listening on 0.0.0.0 port 22.
+Jul  6 12:49:02 ubuntu sshd[1363]: Server listening on :: port 22.
+Jul  7 07:12:50 ubuntu login[1909]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  7 07:12:50 ubuntu systemd-logind[1317]: New session 1 of user ubuntu.
+Jul  7 07:12:50 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  7 07:13:37 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  7 07:13:37 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:14:17 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:17:01 ubuntu CRON[2472]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  7 07:17:01 ubuntu CRON[2472]: pam_unix(cron:session): session closed for user root
+Jul  7 07:25:36 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Jul  7 07:25:36 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:25:38 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:26:33 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/local/bin/pip install RPi.GPIO
+Jul  7 07:26:33 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:26:54 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:29:42 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/raspi-config
+Jul  7 07:29:42 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:30:12 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:32:24 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/bin/systemctl enable pigpiod
+Jul  7 07:32:24 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:32:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:39:55 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul  7 07:39:55 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:39:55 ubuntu su[2571]: Successful su for root by root
+Jul  7 07:39:55 ubuntu su[2571]: + /dev/pts/0 root:root
+Jul  7 07:39:55 ubuntu su[2571]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:39:55 ubuntu su[2571]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul  7 07:28:56 ubuntu systemd-logind[1308]: New seat seat0.
+Jul  7 07:28:57 ubuntu sshd[1368]: Server listening on 0.0.0.0 port 22.
+Jul  7 07:28:57 ubuntu sshd[1368]: Server listening on :: port 22.
+Jul  7 07:53:53 ubuntu login[1904]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  7 07:53:53 ubuntu systemd-logind[1308]: New session 1 of user ubuntu.
+Jul  7 07:53:53 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  7 07:54:59 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Jul  7 07:54:59 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:55:02 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:56:28 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt --fix-broken install
+Jul  7 07:56:28 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:56:49 ubuntu sshd[2059]: Accepted password for ubuntu from 192.168.0.107 port 50828 ssh2
+Jul  7 07:56:49 ubuntu sshd[2059]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jul  7 07:56:49 ubuntu systemd-logind[1308]: New session 3 of user ubuntu.
+Jul  7 07:57:12 ubuntu sudo:   ubuntu : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul  7 07:57:12 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:57:12 ubuntu su[2531]: Successful su for root by root
+Jul  7 07:57:12 ubuntu su[2531]: + /dev/pts/1 root:root
+Jul  7 07:57:12 ubuntu su[2531]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:57:12 ubuntu su[2531]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul  7 07:57:14 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 07:57:25 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Jul  7 07:57:25 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 07:59:31 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:01:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install python-pip python-dev
+Jul  7 08:01:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:01:38 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:02:50 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/local/bin/pip install RPi.GPIO
+Jul  7 08:02:50 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:02:56 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:03:42 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get rpi-update
+Jul  7 08:03:42 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:03:42 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:03:46 ubuntu sudo:     root : TTY=pts/1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt install python3.7
+Jul  7 08:03:46 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:03:55 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get RPi-update
+Jul  7 08:03:55 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:03:55 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:04:23 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:04:41 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/local/bin/pip3 install Adafruit_DHT
+Jul  7 08:04:41 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:04:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:08:16 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul  7 08:08:16 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:08:16 ubuntu su[4556]: Successful su for root by root
+Jul  7 08:08:16 ubuntu su[4556]: + /dev/pts/0 root:root
+Jul  7 08:08:16 ubuntu su[4556]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:08:16 ubuntu su[4556]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul  7 08:08:33 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  7 08:08:33 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:08:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:12:36 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/python setup.py install
+Jul  7 08:12:36 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:12:38 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:14:43 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT/Adafruit_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  7 08:14:43 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:14:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:14:54 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT/Adafruit_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  7 08:14:54 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:14:56 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:16:33 ubuntu su[4556]: pam_unix(su:session): session closed for user root
+Jul  7 08:16:33 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:16:33 ubuntu systemd-logind[1308]: Removed session 1.
+Jul  7 08:16:59 ubuntu login[4843]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul  7 08:16:59 ubuntu systemd-logind[1308]: New session 4 of user ubuntu.
+Jul  7 08:17:01 ubuntu CRON[4941]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  7 08:17:01 ubuntu CRON[4941]: pam_unix(cron:session): session closed for user root
+Jul  7 08:17:51 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/raspi-config
+Jul  7 08:17:51 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:21:00 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:21:10 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  7 08:21:10 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:21:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:21:51 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Jul  7 08:21:51 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:21:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:22:48 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/sbin/reboot
+Jul  7 08:22:48 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:22:48 ubuntu sshd[2059]: pam_unix(sshd:session): session closed for user ubuntu
+Jul  7 08:22:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:22:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:23:03 ubuntu systemd-logind[1311]: New seat seat0.
+Jul  7 08:23:05 ubuntu sshd[1363]: Server listening on 0.0.0.0 port 22.
+Jul  7 08:23:05 ubuntu sshd[1363]: Server listening on :: port 22.
+Jul  7 08:26:41 ubuntu systemd-logind[1307]: New seat seat0.
+Jul  7 08:26:42 ubuntu sshd[1372]: Server listening on 0.0.0.0 port 22.
+Jul  7 08:26:42 ubuntu sshd[1372]: Server listening on :: port 22.
+Jul  7 08:38:33 ubuntu sshd[1857]: Accepted password for ubuntu from 192.168.0.107 port 51219 ssh2
+Jul  7 08:38:33 ubuntu sshd[1857]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jul  7 08:38:33 ubuntu systemd-logind[1307]: New session 1 of user ubuntu.
+Jul  7 08:38:33 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  7 08:38:56 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul  7 08:38:56 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:38:56 ubuntu su[1988]: Successful su for root by root
+Jul  7 08:38:56 ubuntu su[1988]: + /dev/pts/0 root:root
+Jul  7 08:38:56 ubuntu su[1988]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:38:56 ubuntu su[1988]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul  7 08:40:48 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/local/bin/pip3 install Adafruit_DHT
+Jul  7 08:40:48 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:40:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:43:14 ubuntu systemd-logind[1306]: New seat seat0.
+Jul  7 08:43:15 ubuntu sshd[1369]: Server listening on 0.0.0.0 port 22.
+Jul  7 08:43:15 ubuntu sshd[1369]: Server listening on :: port 22.
+Jul  7 08:48:03 ubuntu sshd[1847]: Accepted password for ubuntu from 192.168.0.107 port 52173 ssh2
+Jul  7 08:48:03 ubuntu sshd[1847]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+Jul  7 08:48:03 ubuntu systemd-logind[1306]: New session 1 of user ubuntu.
+Jul  7 08:48:03 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  7 08:48:18 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul  7 08:48:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:48:18 ubuntu su[1977]: Successful su for root by root
+Jul  7 08:48:18 ubuntu su[1977]: + /dev/pts/0 root:root
+Jul  7 08:48:18 ubuntu su[1977]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:48:18 ubuntu su[1977]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul  7 08:51:23 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT/examples ; USER=root ; COMMAND=./AdafruitDHT.py 22 4
+Jul  7 08:51:23 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:52:02 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:52:05 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT/examples ; USER=root ; COMMAND=./AdafruitDHT.py 22 17
+Jul  7 08:52:05 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  7 08:52:44 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  7 08:55:07 ubuntu systemd-logind[1337]: New seat seat0.
+Jul  7 08:55:08 ubuntu sshd[1394]: Server listening on 0.0.0.0 port 22.
+Jul  7 08:55:08 ubuntu sshd[1394]: Server listening on :: port 22.
+Jul 10 11:55:08 ubuntu login[2418]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 10 11:55:08 ubuntu systemd-logind[1337]: New session 1 of user ubuntu.
+Jul 10 11:55:08 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 10 12:04:38 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 10 12:04:38 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 10 12:04:38 ubuntu su[2591]: Successful su for root by root
+Jul 10 12:04:38 ubuntu su[2591]: + /dev/pts/0 root:root
+Jul 10 12:04:38 ubuntu su[2591]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 10 12:04:38 ubuntu su[2591]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 10 12:17:01 ubuntu CRON[10307]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 10 12:17:01 ubuntu CRON[10307]: pam_unix(cron:session): session closed for user root
+Jul 10 12:27:56 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install rule-engine
+Jul 10 12:27:56 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 10 13:02:34 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 10 13:17:01 ubuntu CRON[12210]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 10 13:17:01 ubuntu CRON[12210]: pam_unix(cron:session): session closed for user root
+Jul 10 13:17:24 ubuntu su[2591]: pam_unix(su:session): session closed for user root
+Jul 10 13:17:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 10 13:17:25 ubuntu systemd-logind[1337]: Removed session 1.
+Jul 10 13:44:22 ubuntu systemd-logind[1300]: New seat seat0.
+Jul 10 13:44:23 ubuntu sshd[1364]: Server listening on 0.0.0.0 port 22.
+Jul 10 13:44:23 ubuntu sshd[1364]: Server listening on :: port 22.
+Jul 15 07:53:12 ubuntu login[2751]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 15 07:53:12 ubuntu systemd-logind[1300]: New session 1 of user ubuntu.
+Jul 15 07:53:12 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 15 08:17:01 ubuntu CRON[2912]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 08:17:01 ubuntu CRON[2912]: pam_unix(cron:session): session closed for user root
+Jul 15 08:24:06 ubuntu systemd-logind[1300]: Removed session 1.
+Jul 15 08:45:27 ubuntu login[2942]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 15 08:45:27 ubuntu systemd-logind[1300]: New session 4 of user ubuntu.
+Jul 15 08:45:27 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 15 08:55:05 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 15 08:55:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 15 08:55:06 ubuntu su[3056]: Successful su for root by root
+Jul 15 08:55:06 ubuntu su[3056]: + /dev/pts/0 root:root
+Jul 15 08:55:06 ubuntu su[3056]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 15 08:55:06 ubuntu su[3056]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 15 09:07:17 ubuntu su[3056]: pam_unix(su:session): session closed for user root
+Jul 15 09:07:17 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 15 09:07:17 ubuntu systemd-logind[1300]: Removed session 4.
+Jul 15 09:17:01 ubuntu CRON[3104]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 09:17:01 ubuntu CRON[3104]: pam_unix(cron:session): session closed for user root
+Jul 15 09:18:26 ubuntu login[3110]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 15 09:18:26 ubuntu systemd-logind[1300]: New session 7 of user ubuntu.
+Jul 15 09:18:26 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 15 09:18:44 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 15 09:18:44 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 15 09:18:44 ubuntu su[3237]: Successful su for root by root
+Jul 15 09:18:44 ubuntu su[3237]: + /dev/pts/0 root:root
+Jul 15 09:18:44 ubuntu su[3237]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 15 09:18:44 ubuntu su[3237]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 15 09:22:27 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/chmod +x /home/ubuntu/test1.py
+Jul 15 09:22:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 15 09:22:27 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 15 10:17:01 ubuntu CRON[4064]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 10:17:01 ubuntu CRON[4064]: pam_unix(cron:session): session closed for user root
+Jul 15 10:41:39 ubuntu su[3237]: pam_unix(su:session): session closed for user root
+Jul 15 10:41:39 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 15 10:41:39 ubuntu systemd-logind[1300]: Removed session 7.
+Jul 15 11:17:01 ubuntu CRON[5419]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 11:17:01 ubuntu CRON[5419]: pam_unix(cron:session): session closed for user root
+Jul 15 12:00:54 ubuntu login[5563]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 15 12:00:54 ubuntu systemd-logind[1300]: New session 11 of user ubuntu.
+Jul 15 12:00:54 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 15 12:02:26 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 15 12:02:26 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 15 12:02:26 ubuntu su[5697]: Successful su for root by root
+Jul 15 12:02:26 ubuntu su[5697]: + /dev/pts/0 root:root
+Jul 15 12:02:26 ubuntu su[5697]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 15 12:02:26 ubuntu su[5697]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 15 12:17:01 ubuntu CRON[5796]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 15 12:17:01 ubuntu CRON[5796]: pam_unix(cron:session): session closed for user root
+Jul 15 12:13:44 ubuntu systemd-logind[1311]: New seat seat0.
+Jul 15 12:13:45 ubuntu sshd[1371]: Server listening on 0.0.0.0 port 22.
+Jul 15 12:13:45 ubuntu sshd[1371]: Server listening on :: port 22.
+Jul 16 07:10:23 ubuntu login[19271]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 16 07:10:23 ubuntu systemd-logind[1311]: New session 1 of user ubuntu.
+Jul 16 07:10:23 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 16 07:10:46 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 16 07:10:46 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 16 07:10:46 ubuntu su[19401]: Successful su for root by root
+Jul 16 07:10:46 ubuntu su[19401]: + /dev/pts/0 root:root
+Jul 16 07:10:46 ubuntu su[19401]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 16 07:10:46 ubuntu su[19401]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 16 07:17:01 ubuntu CRON[19484]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 07:17:01 ubuntu CRON[19484]: pam_unix(cron:session): session closed for user root
+Jul 16 07:19:56 ubuntu su[19401]: pam_unix(su:session): session closed for user root
+Jul 16 07:19:56 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 07:19:56 ubuntu systemd-logind[1311]: Removed session 1.
+Jul 16 07:21:38 ubuntu login[19499]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 16 07:21:38 ubuntu systemd-logind[1311]: New session 4 of user ubuntu.
+Jul 16 07:21:39 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 16 07:21:43 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 16 07:21:43 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 16 07:21:43 ubuntu su[19605]: Successful su for root by root
+Jul 16 07:21:43 ubuntu su[19605]: + /dev/pts/0 root:root
+Jul 16 07:21:43 ubuntu su[19605]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 16 07:21:43 ubuntu su[19605]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 16 07:35:24 ubuntu su[19605]: pam_unix(su:session): session closed for user root
+Jul 16 07:35:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 16 07:35:24 ubuntu systemd-logind[1311]: Removed session 4.
+Jul 16 08:17:01 ubuntu CRON[20315]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 16 08:17:01 ubuntu CRON[20315]: pam_unix(cron:session): session closed for user root
+Jul 16 08:47:03 ubuntu systemd-logind[1306]: New seat seat0.
+Jul 16 08:47:04 ubuntu sshd[1374]: Server listening on 0.0.0.0 port 22.
+Jul 16 08:47:04 ubuntu sshd[1374]: Server listening on :: port 22.
+Jul 17 08:34:48 ubuntu login[2427]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 17 08:34:48 ubuntu systemd-logind[1306]: New session 1 of user ubuntu.
+Jul 17 08:34:48 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 17 08:34:55 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 17 08:34:55 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:34:55 ubuntu su[2567]: Successful su for root by root
+Jul 17 08:34:55 ubuntu su[2567]: + /dev/pts/0 root:root
+Jul 17 08:34:55 ubuntu su[2567]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:34:55 ubuntu su[2567]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 17 08:32:57 ubuntu systemd-logind[1313]: New seat seat0.
+Jul 17 08:32:59 ubuntu sshd[1366]: Server listening on 0.0.0.0 port 22.
+Jul 17 08:32:59 ubuntu sshd[1366]: Server listening on :: port 22.
+Jul 17 08:43:10 ubuntu login[1818]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 17 08:43:10 ubuntu systemd-logind[1313]: New session 1 of user ubuntu.
+Jul 17 08:43:10 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 17 08:43:18 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 17 08:43:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:43:18 ubuntu su[1945]: Successful su for root by root
+Jul 17 08:43:18 ubuntu su[1945]: + /dev/pts/0 root:root
+Jul 17 08:43:18 ubuntu su[1945]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:43:18 ubuntu su[1945]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 17 08:53:50 ubuntu sudo:     root : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 17 08:53:50 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:53:50 ubuntu su[2042]: Successful su for root by root
+Jul 17 08:53:50 ubuntu su[2042]: + /dev/pts/0 root:root
+Jul 17 08:53:50 ubuntu su[2042]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 17 08:53:50 ubuntu su[2042]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 17 08:54:45 ubuntu su[2042]: pam_unix(su:session): session closed for user root
+Jul 17 08:54:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 08:54:45 ubuntu su[1945]: pam_unix(su:session): session closed for user root
+Jul 17 08:54:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 17 08:54:45 ubuntu systemd-logind[1313]: Removed session 1.
+Jul 17 08:55:01 ubuntu login[2071]: pam_securetty(login:auth): access denied: tty '/dev/pts/0' is not secure !
+Jul 17 08:55:22 ubuntu login[2072]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 17 08:55:22 ubuntu systemd-logind[1313]: New session 3 of user ubuntu.
+Jul 17 08:55:22 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 17 09:05:00 ubuntu systemd-logind[1313]: Removed session 3.
+Jul 17 09:17:01 ubuntu CRON[2243]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 09:17:01 ubuntu CRON[2243]: pam_unix(cron:session): session closed for user root
+Jul 17 10:17:01 ubuntu CRON[2529]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 10:17:01 ubuntu CRON[2529]: pam_unix(cron:session): session closed for user root
+Jul 17 11:17:01 ubuntu CRON[2757]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 11:17:01 ubuntu CRON[2757]: pam_unix(cron:session): session closed for user root
+Jul 17 12:17:01 ubuntu CRON[2979]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 17 12:17:01 ubuntu CRON[2979]: pam_unix(cron:session): session closed for user root
+Jul 17 08:56:31 ubuntu systemd-logind[1319]: New seat seat0.
+Jul 17 08:56:32 ubuntu sshd[1384]: Server listening on 0.0.0.0 port 22.
+Jul 17 08:56:32 ubuntu sshd[1384]: Server listening on :: port 22.
+Jul 21 13:00:06 ubuntu login[2439]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul 21 13:00:06 ubuntu systemd-logind[1319]: New session 1 of user ubuntu.
+Jul 21 13:00:06 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 21 13:00:55 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 21 13:00:55 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 21 13:00:55 ubuntu su[2586]: Successful su for root by root
+Jul 21 13:00:55 ubuntu su[2586]: + /dev/pts/0 root:root
+Jul 21 13:00:55 ubuntu su[2586]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 21 13:00:55 ubuntu su[2586]: pam_systemd(su:session): Cannot create session: Already running in a session
+Jul 21 13:14:08 ubuntu sudo:     root : TTY=pts/0 ; PWD=/var/log ; USER=root ; COMMAND=/usr/bin/apt install zip unzip
+Jul 21 13:14:08 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 21 13:14:32 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 21 13:17:01 ubuntu CRON[2826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 21 13:17:01 ubuntu CRON[2826]: pam_unix(cron:session): session closed for user root
+Jul 21 13:41:30 ubuntu sshd[2858]: pam_unix(sshd:auth): authentication failure; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.0.108  user=root
+Jul 21 13:41:32 ubuntu sshd[2858]: Failed password for root from 192.168.0.108 port 37842 ssh2
+Jul 21 13:42:06 ubuntu sshd[2858]: message repeated 2 times: [ Failed password for root from 192.168.0.108 port 37842 ssh2]
+Jul 21 13:42:06 ubuntu sshd[2858]: Connection closed by authenticating user root 192.168.0.108 port 37842 [preauth]
+Jul 21 13:42:06 ubuntu sshd[2858]: PAM 2 more authentication failures; logname= uid=0 euid=0 tty=ssh ruser= rhost=192.168.0.108  user=root
+Jul 21 14:17:01 ubuntu CRON[2907]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul 21 14:17:01 ubuntu CRON[2907]: pam_unix(cron:session): session closed for user root
+Jul 21 14:19:48 ubuntu su[2586]: pam_unix(su:session): session closed for user root
+Jul 21 14:19:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul 21 14:19:48 ubuntu systemd-logind[1319]: Removed session 1.
+Jul 21 14:20:45 ubuntu login[2935]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul 21 14:20:45 ubuntu systemd-logind[1319]: New session 5 of user ubuntu.
+Jul 21 14:20:45 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul 21 14:21:23 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/su
+Jul 21 14:21:23 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul 21 14:21:23 ubuntu su[3067]: Successful su for root by root
+Jul 21 14:21:23 ubuntu su[3067]: + /dev/pts/0 root:root
+Jul 21 14:21:23 ubuntu su[3067]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+Jul 21 14:21:23 ubuntu su[3067]: pam_systemd(su:session): Cannot create session: Already running in a session

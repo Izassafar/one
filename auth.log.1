@@ -1,0 +1,340 @@
+Feb  3 18:33:30 ubuntu useradd[1315]: new group: name=ubuntu, GID=1000
+Feb  3 18:33:30 ubuntu useradd[1315]: new user: name=ubuntu, UID=1000, GID=1000, home=/home/ubuntu, shell=/bin/bash
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'adm'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'dialout'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'cdrom'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'floppy'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'sudo'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'audio'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'dip'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'video'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'plugdev'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'lxd'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to group 'netdev'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'adm'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'dialout'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'cdrom'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'floppy'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'sudo'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'audio'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'dip'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'video'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'plugdev'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'lxd'
+Feb  3 18:33:30 ubuntu useradd[1315]: add 'ubuntu' to shadow group 'netdev'
+Feb  3 18:33:30 ubuntu passwd[1321]: password for 'ubuntu' changed by 'root'
+Feb  3 18:33:30 ubuntu systemd-logind[1339]: New seat seat0.
+Feb  3 18:33:32 ubuntu sshd[1470]: Server listening on 0.0.0.0 port 22.
+Feb  3 18:33:32 ubuntu sshd[1470]: Server listening on :: port 22.
+Feb  3 18:33:57 ubuntu chpasswd[1489]: pam_unix(chpasswd:chauthtok): password changed for ubuntu
+Feb  3 18:33:58 ubuntu passwd[1491]: password for 'ubuntu' changed by 'root'
+Feb  3 18:33:58 ubuntu sshd[1470]: Received signal 15; terminating.
+Feb  3 18:33:58 ubuntu sshd[1501]: Server listening on 0.0.0.0 port 22.
+Feb  3 18:33:58 ubuntu sshd[1501]: Server listening on :: port 22.
+Feb  3 18:34:23 ubuntu systemd-logind[1297]: New seat seat0.
+Feb  3 18:34:25 ubuntu sshd[1403]: Server listening on 0.0.0.0 port 22.
+Feb  3 18:34:25 ubuntu sshd[1403]: Server listening on :: port 22.
+Jun 29 10:41:32 ubuntu systemd-logind[1297]: Watching system buttons on /dev/input/event2 (SZH USB Keyboard System Control)
+Jun 29 10:41:32 ubuntu systemd-logind[1297]: Watching system buttons on /dev/input/event0 (SZH USB Keyboard)
+Jun 29 10:41:32 ubuntu systemd-logind[1297]: Watching system buttons on /dev/input/event1 (SZH USB Keyboard Consumer Control)
+Jun 29 10:41:42 ubuntu login[1358]: pam_unix(login:account): expired password for user ubuntu (root enforced)
+Jun 29 10:41:49 ubuntu login[1358]: pam_unix(login:chauthtok): authentication failure; logname=LOGIN uid=0 euid=0 tty=/dev/tty1 ruser= rhost=  user=ubuntu
+Jun 29 10:41:51 ubuntu login[1358]: Authentication token manipulation error
+Jun 29 10:42:04 ubuntu login[1771]: pam_unix(login:account): expired password for user ubuntu (root enforced)
+Jun 29 10:42:17 ubuntu login[1771]: pam_unix(login:chauthtok): password changed for ubuntu
+Jun 29 10:42:21 ubuntu login[1771]: pam_unix(login:session): session opened for user ubuntu by LOGIN(uid=0)
+Jun 29 10:42:21 ubuntu systemd-logind[1297]: New session 1 of user ubuntu.
+Jun 29 10:42:21 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jun 29 10:42:48 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 10:42:48 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:42:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:45:18 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/killall apt apt-get
+Jun 29 10:45:18 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:45:18 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:45:25 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/killall apt
+Jun 29 10:45:25 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:45:25 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:46:00 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 1480
+Jun 29 10:46:00 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:46:00 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:46:13 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 1960
+Jun 29 10:46:13 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:46:13 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:46:31 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 5504
+Jun 29 10:46:31 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:46:31 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:46:43 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 1970
+Jun 29 10:46:43 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:46:43 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:48:21 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 10:48:21 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:48:32 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:49:15 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt list --upgradable
+Jun 29 10:49:15 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:49:17 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:49:27 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jun 29 10:49:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:49:27 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:51:58 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/lsof /var/lib/dpkg/lock
+Jun 29 10:51:58 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:51:58 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:52:24 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/lsof /var/lib/apt/lists/lock
+Jun 29 10:52:24 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:52:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:52:48 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/lsof /var/cache/apt/archives/lock
+Jun 29 10:52:48 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:52:48 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:53:25 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 1975
+Jun 29 10:53:25 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:53:25 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:53:35 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 1979
+Jun 29 10:53:35 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:53:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:53:43 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/kill -9 2309
+Jun 29 10:53:43 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:53:43 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:54:08 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/rm /var/lib/apt/lists/lock
+Jun 29 10:54:08 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:54:08 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:54:19 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/rm /var/cache/apt/archives/lock
+Jun 29 10:54:19 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:54:19 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:54:35 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/rm /var/lib/dpkg/lock
+Jun 29 10:54:35 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:54:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:54:50 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/dpkg --configure -a
+Jun 29 10:54:50 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:54:50 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:56:02 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/bin/rm /var/lib/dpkg/lock-frontend
+Jun 29 10:56:02 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:56:02 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:56:10 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/dpkg --configure -a
+Jun 29 10:56:10 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:56:10 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:56:27 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Jun 29 10:56:27 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 10:56:46 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 10:56:58 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt upgrade
+Jun 29 10:56:58 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 11:17:01 ubuntu CRON[2627]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 29 11:17:01 ubuntu CRON[2627]: pam_unix(cron:session): session closed for user root
+Jun 29 11:32:50 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 11:44:35 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/apt install python3.7
+Jun 29 11:44:35 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 11:44:42 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 11:46:33 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/killall apt
+Jun 29 11:46:33 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 11:46:33 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 11:46:56 ubuntu systemd-logind[1297]: System is rebooting.
+Jun 29 11:47:03 ubuntu systemd-logind[1305]: New seat seat0.
+Jun 29 11:47:03 ubuntu systemd-logind[1305]: Watching system buttons on /dev/input/event0 (SZH USB Keyboard)
+Jun 29 11:47:03 ubuntu systemd-logind[1305]: Watching system buttons on /dev/input/event1 (SZH USB Keyboard Consumer Control)
+Jun 29 11:47:03 ubuntu systemd-logind[1305]: Watching system buttons on /dev/input/event2 (SZH USB Keyboard System Control)
+Jun 29 11:47:07 ubuntu sshd[1449]: Server listening on 0.0.0.0 port 22.
+Jun 29 11:47:07 ubuntu sshd[1449]: Server listening on :: port 22.
+Jun 29 11:47:32 ubuntu login[1361]: pam_unix(login:session): session opened for user ubuntu by LOGIN(uid=0)
+Jun 29 11:47:32 ubuntu systemd-logind[1305]: New session 1 of user ubuntu.
+Jun 29 11:47:32 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jun 29 11:52:21 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/dpkg -i teamviewer-iot-ahent-armv7_2.10.18_armhf.deb
+Jun 29 11:52:21 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 11:52:21 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 11:57:42 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/dpkg -i teamviewer-iot-agent-armv7_2.10.18_armhf.deb
+Jun 29 11:57:42 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 11:57:42 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 12:08:59 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/dpkg -i teamviewer-iot-agent-armv7_2.10.18_armhf.deb
+Jun 29 12:08:59 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 12:08:59 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 12:17:01 ubuntu CRON[1635]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jun 29 12:17:01 ubuntu CRON[1635]: pam_unix(cron:session): session closed for user root
+Jun 29 12:27:28 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/dpkg -i teamviewer-iot-agent-armv7_2.10.18_armhf.deb
+Jun 29 12:27:28 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 12:27:31 ubuntu useradd[1674]: new user: name=tv_service, UID=999, GID=100, home=/home/tv_service, shell=/usr/sbin/nologin
+Jun 29 12:27:31 ubuntu useradd[1681]: new user: name=tv_script_runner, UID=998, GID=100, home=/home/tv_script_runner, shell=/usr/sbin/nologin
+Jun 29 12:27:31 ubuntu groupadd[1688]: group added to /etc/group: name=tv_api, GID=999
+Jun 29 12:27:31 ubuntu groupadd[1688]: group added to /etc/gshadow: name=tv_api
+Jun 29 12:27:31 ubuntu groupadd[1688]: new group: name=tv_api, GID=999
+Jun 29 12:27:37 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 12:27:37 ubuntu sudo:   ubuntu : TTY=tty1 ; PWD=/home/ubuntu/poc ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent assign -t 9097820-PAp17MJooE4j8b61QKet -g $My computers
+Jun 29 12:27:37 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jun 29 12:28:19 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jun 29 12:53:00 ubuntu systemd-logind[1305]: System is powering down.
+Jun 29 12:53:00 ubuntu sshd[1449]: Received signal 15; terminating.
+Jun 29 12:53:00 ubuntu systemd: pam_unix(systemd-user:session): session closed for user ubuntu
+Jun 29 12:53:11 ubuntu systemd-logind[1311]: New seat seat0.
+Jun 29 12:53:12 ubuntu sshd[1369]: Server listening on 0.0.0.0 port 22.
+Jun 29 12:53:12 ubuntu sshd[1369]: Server listening on :: port 22.
+Jul  2 06:15:27 ubuntu login[1933]: pam_securetty(login:auth): access denied: tty '/dev/pts/0' is not secure !
+Jul  2 06:15:36 ubuntu login[1933]: pam_unix(login:auth): check pass; user unknown
+Jul  2 06:15:36 ubuntu login[1933]: pam_unix(login:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/pts/0 ruser= rhost=
+Jul  2 06:15:44 ubuntu login[1934]: pam_securetty(login:auth): access denied: tty '/dev/pts/0' is not secure !
+Jul  2 06:15:51 ubuntu login[1934]: pam_unix(login:auth): check pass; user unknown
+Jul  2 06:15:51 ubuntu login[1934]: pam_unix(login:auth): authentication failure; logname= uid=0 euid=0 tty=/dev/pts/0 ruser= rhost=
+Jul  2 06:15:54 ubuntu login[1934]: FAILED LOGIN (1) on '/dev/pts/0' FOR 'UNKNOWN', User not known to the underlying authentication module
+Jul  2 06:16:00 ubuntu login[1934]: pam_securetty(login:auth): access denied: tty '/dev/pts/0' is not secure !
+Jul  2 06:16:06 ubuntu login[1934]: pam_unix(login:auth): check pass; user unknown
+Jul  2 06:16:09 ubuntu login[1934]: FAILED LOGIN (2) on '/dev/pts/0' FOR 'UNKNOWN', User not known to the underlying authentication module
+Jul  2 06:17:01 ubuntu CRON[1940]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  2 06:17:01 ubuntu CRON[1940]: pam_unix(cron:session): session closed for user root
+Jul  2 06:17:59 ubuntu login[1944]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  2 06:17:59 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  2 06:17:59 ubuntu systemd-logind[1311]: New session 2 of user ubuntu.
+Jul  2 06:18:20 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:18:20 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 06:18:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 06:19:12 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:19:12 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 06:19:19 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 06:19:28 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:19:28 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 06:19:43 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 06:25:01 ubuntu CRON[2845]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  2 06:25:11 ubuntu CRON[2845]: pam_unix(cron:session): session closed for user root
+Jul  2 06:26:57 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:26:57 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 06:27:14 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 06:33:25 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:33:25 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 06:33:45 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 06:57:11 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent install edge-management
+Jul  2 06:57:11 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 07:04:50 ubuntu groupadd[28245]: group added to /etc/group: name=docker, GID=998
+Jul  2 07:04:50 ubuntu groupadd[28245]: group added to /etc/gshadow: name=docker
+Jul  2 07:04:50 ubuntu groupadd[28245]: new group: name=docker, GID=998
+Jul  2 07:11:06 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 07:12:52 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent start edge-management
+Jul  2 07:12:52 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 07:12:52 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 07:13:39 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent start edge-management
+Jul  2 07:13:39 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 07:13:40 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 07:13:53 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/teamviewer-iot-agent restart
+Jul  2 07:13:53 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  2 07:13:53 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  2 07:14:12 ubuntu systemd-logind[1311]: Removed session 2.
+Jul  2 07:17:01 ubuntu CRON[30779]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  2 07:17:01 ubuntu CRON[30779]: pam_unix(cron:session): session closed for user root
+Jul  2 07:17:39 ubuntu login[30783]: pam_unix(login:session): session opened for user ubuntu by ubuntu(uid=0)
+Jul  2 07:17:39 ubuntu systemd-logind[1311]: New session 6 of user ubuntu.
+Jul  2 07:17:39 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  2 07:36:51 ubuntu systemd-logind[1311]: Removed session 6.
+Jul  2 07:36:51 ubuntu systemd: pam_unix(systemd-user:session): session closed for user ubuntu
+Jul  2 08:17:01 ubuntu CRON[30949]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  2 08:17:01 ubuntu CRON[30949]: pam_unix(cron:session): session closed for user root
+Jul  2 08:14:34 ubuntu systemd-logind[1321]: New seat seat0.
+Jul  2 08:14:37 ubuntu sshd[1389]: Server listening on 0.0.0.0 port 22.
+Jul  2 08:14:37 ubuntu sshd[1389]: Server listening on :: port 22.
+Jul  3 07:17:01 ubuntu CRON[6013]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 07:17:01 ubuntu CRON[6013]: pam_unix(cron:session): session closed for user root
+Jul  3 08:17:01 ubuntu CRON[7394]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 08:17:01 ubuntu CRON[7394]: pam_unix(cron:session): session closed for user root
+Jul  3 08:28:17 ubuntu systemd-logind[1321]: New seat seat0.
+Jul  3 08:28:19 ubuntu sshd[1372]: Server listening on 0.0.0.0 port 22.
+Jul  3 08:28:19 ubuntu sshd[1372]: Server listening on :: port 22.
+Jul  3 09:11:55 ubuntu login[1854]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  3 09:11:55 ubuntu systemd-logind[1321]: New session 1 of user ubuntu.
+Jul  3 09:11:55 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  3 09:12:25 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt install python3-pip
+Jul  3 09:12:25 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:17:01 ubuntu CRON[2027]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 09:17:01 ubuntu CRON[2027]: pam_unix(cron:session): session closed for user root
+Jul  3 09:19:42 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:26:50 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  3 09:26:50 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:26:52 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:28:22 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  3 09:28:22 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:28:23 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:29:22 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod4
+Jul  3 09:29:22 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:29:24 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:31:52 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt update
+Jul  3 09:31:52 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:32:10 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:32:10 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt dist-upgrade
+Jul  3 09:32:10 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:36:20 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:47:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod4
+Jul  3 09:47:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:47:08 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:47:15 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  3 09:47:15 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:47:17 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:47:59 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  3 09:47:59 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:48:00 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:49:08 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/xargs sed -i s/stretch/buster/g
+Jul  3 09:49:08 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:49:08 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:49:15 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/xargs sed -i s/stretch/buster/g
+Jul  3 09:49:15 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 09:49:15 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 09:49:39 ubuntu systemd-logind[1338]: New seat seat0.
+Jul  3 09:49:42 ubuntu sshd[1389]: Server listening on 0.0.0.0 port 22.
+Jul  3 09:49:42 ubuntu sshd[1389]: Server listening on :: port 22.
+Jul  3 10:17:01 ubuntu CRON[1846]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 10:17:01 ubuntu CRON[1846]: pam_unix(cron:session): session closed for user root
+Jul  3 10:43:04 ubuntu systemd-logind[1320]: New seat seat0.
+Jul  3 10:43:06 ubuntu sshd[1364]: Server listening on 0.0.0.0 port 22.
+Jul  3 10:43:06 ubuntu sshd[1364]: Server listening on :: port 22.
+Jul  3 11:42:10 ubuntu login[1829]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  3 11:42:10 ubuntu systemd-logind[1320]: New session 1 of user ubuntu.
+Jul  3 11:42:10 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  3 11:42:24 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  3 11:42:24 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:42:54 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:43:08 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get upgrade
+Jul  3 11:43:08 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:43:11 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:44:40 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install python3-dev python3-pip
+Jul  3 11:44:40 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:44:43 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:45:07 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/python3 -m pip install --upgrade pip setuptools wheel
+Jul  3 11:45:07 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:45:35 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:45:52 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/local/bin/pip3 install Adafruit_DHT
+Jul  3 11:45:52 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:46:05 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:56:59 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/python3 setup.py install
+Jul  3 11:56:59 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:56:59 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:57:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/python3 setup.py install
+Jul  3 11:57:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:57:06 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 11:57:16 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/python3 -m pip install --upgrade pip setuptools wheel
+Jul  3 11:57:16 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  3 11:57:25 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  3 12:06:17 ubuntu systemd-logind[1320]: Removed session 1.
+Jul  3 12:17:01 ubuntu CRON[2531]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 12:17:01 ubuntu CRON[2531]: pam_unix(cron:session): session closed for user root
+Jul  3 13:17:01 ubuntu CRON[2788]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 13:17:01 ubuntu CRON[2788]: pam_unix(cron:session): session closed for user root
+Jul  3 14:17:01 ubuntu CRON[2830]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 14:17:01 ubuntu CRON[2830]: pam_unix(cron:session): session closed for user root
+Jul  3 14:53:01 ubuntu CRON[2860]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  3 14:53:01 ubuntu CRON[2860]: pam_unix(cron:session): session closed for user root
+Jul  3 15:13:02 ubuntu systemd-logind[1322]: New seat seat0.
+Jul  3 15:13:03 ubuntu sshd[1377]: Server listening on 0.0.0.0 port 22.
+Jul  3 15:13:03 ubuntu sshd[1377]: Server listening on :: port 22.
+Jul  6 05:48:12 ubuntu login[2344]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  6 05:48:12 ubuntu systemd-logind[1322]: New session 1 of user ubuntu.
+Jul  6 05:48:12 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 05:54:06 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  6 05:54:06 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 05:54:07 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 05:55:07 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu ; USER=root ; COMMAND=/usr/bin/apt-get install libgpiod2
+Jul  6 05:55:07 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 05:55:09 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 05:57:12 ubuntu systemd-logind[1323]: New seat seat0.
+Jul  6 05:57:13 ubuntu sshd[1370]: Server listening on 0.0.0.0 port 22.
+Jul  6 05:57:13 ubuntu sshd[1370]: Server listening on :: port 22.
+Jul  6 06:17:01 ubuntu CRON[1882]: pam_unix(cron:session): session opened for user root by (uid=0)
+Jul  6 06:17:01 ubuntu CRON[1882]: pam_unix(cron:session): session closed for user root
+Jul  6 06:17:16 ubuntu login[1881]: pam_unix(login:session): session opened for user ubuntu by (uid=0)
+Jul  6 06:17:16 ubuntu systemd-logind[1323]: New session 2 of user ubuntu.
+Jul  6 06:17:16 ubuntu systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+Jul  6 06:18:04 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get update
+Jul  6 06:18:04 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:18:20 ubuntu sudo: pam_unix(sudo:session): session closed for user root
+Jul  6 06:18:34 ubuntu sudo:   ubuntu : TTY=pts/0 ; PWD=/home/ubuntu/Adafruit_Python_DHT ; USER=root ; COMMAND=/usr/bin/apt-get install build-essential python-dev
+Jul  6 06:18:34 ubuntu sudo: pam_unix(sudo:session): session opened for user root by ubuntu(uid=0)
+Jul  6 06:25:01 ubuntu CRON[2468]: pam_unix(cron:session): session opened for user root by (uid=0)

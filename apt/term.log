@@ -1,0 +1,3461 @@
+
+Log started: 2020-02-03  18:31:44
+Log ended: 2020-02-03  18:31:44
+
+Log started: 2020-06-29  11:35:06
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63641 files and directories currently installed.)
+Preparing to unpack .../ca-certificates_20190110~18.04.1_all.deb ...
+Unpacking ca-certificates (20190110~18.04.1) over (20180409) ...
+Setting up ca-certificates (20190110~18.04.1) ...
+Updating certificates in /etc/ssl/certs...
+2 added, 8 removed; done.
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ca-certificates (20190110~18.04.1) ...
+Updating certificates in /etc/ssl/certs...
+0 added, 0 removed; done.
+Running hooks in /etc/ca-certificates/update.d...
+done.
+Log ended: 2020-06-29  11:36:44
+
+Log started: 2020-06-29  11:36:58
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../git_1%3a2.17.1-1ubuntu0.7_armhf.deb ...
+Unpacking git (1:2.17.1-1ubuntu0.7) over (1:2.17.1-1ubuntu0.5) ...
+Setting up git (1:2.17.1-1ubuntu0.7) ...
+Log ended: 2020-06-29  11:37:02
+
+Log started: 2020-06-29  11:37:16
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../git-man_1%3a2.17.1-1ubuntu0.7_all.deb ...
+Unpacking git-man (1:2.17.1-1ubuntu0.7) over (1:2.17.1-1ubuntu0.5) ...
+Setting up git-man (1:2.17.1-1ubuntu0.7) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-06-29  11:37:22
+
+Log started: 2020-06-29  11:37:37
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../iproute2_4.15.0-2ubuntu1.1_armhf.deb ...
+Unpacking iproute2 (4.15.0-2ubuntu1.1) over (4.15.0-2ubuntu1) ...
+Setting up iproute2 (4.15.0-2ubuntu1.1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-06-29  11:37:41
+
+Log started: 2020-06-29  11:37:55
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libapt-inst2.0_1.6.12ubuntu0.1_armhf.deb ...
+Unpacking libapt-inst2.0:armhf (1.6.12ubuntu0.1) over (1.6.12) ...
+Setting up libapt-inst2.0:armhf (1.6.12ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:37:57
+
+Log started: 2020-06-29  11:38:11
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libcurl3-gnutls_7.58.0-2ubuntu3.9_armhf.deb ...
+Unpacking libcurl3-gnutls:armhf (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Setting up libcurl3-gnutls:armhf (7.58.0-2ubuntu3.9) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:38:12
+
+Log started: 2020-06-29  11:38:27
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libdns-export1100_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Setting up libdns-export1100 (1:9.11.3+dfsg-1ubuntu1.12) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:38:28
+
+Log started: 2020-06-29  11:38:42
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libdrm-common_2.4.99-1ubuntu1~18.04.2_all.deb ...
+Unpacking libdrm-common (2.4.99-1ubuntu1~18.04.2) over (2.4.99-1ubuntu1~18.04.1) ...
+Setting up libdrm-common (2.4.99-1ubuntu1~18.04.2) ...
+Log ended: 2020-06-29  11:38:43
+
+Log started: 2020-06-29  11:38:58
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libglib2.0-0_2.56.4-0ubuntu0.18.04.6_armhf.deb ...
+Unpacking libglib2.0-0:armhf (2.56.4-0ubuntu0.18.04.6) over (2.56.4-0ubuntu0.18.04.4) ...
+Setting up libglib2.0-0:armhf (2.56.4-0ubuntu0.18.04.6) ...
+No schema files found: doing nothing.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:38:59
+
+Log started: 2020-06-29  11:39:13
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libglib2.0-data_2.56.4-0ubuntu0.18.04.6_all.deb ...
+Unpacking libglib2.0-data (2.56.4-0ubuntu0.18.04.6) over (2.56.4-0ubuntu0.18.04.4) ...
+Setting up libglib2.0-data (2.56.4-0ubuntu0.18.04.6) ...
+Log ended: 2020-06-29  11:39:14
+
+Log started: 2020-06-29  11:39:29
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libicu60_60.2-3ubuntu3.1_armhf.deb ...
+Unpacking libicu60:armhf (60.2-3ubuntu3.1) over (60.2-3ubuntu3) ...
+Setting up libicu60:armhf (60.2-3ubuntu3.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:39:33
+
+Log started: 2020-06-29  11:39:47
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libisc-export169_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Setting up libisc-export169:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:39:48
+
+Log started: 2020-06-29  11:40:03
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libjson-c3_0.12.1-1.3ubuntu0.3_armhf.deb ...
+Unpacking libjson-c3:armhf (0.12.1-1.3ubuntu0.3) over (0.12.1-1.3) ...
+Setting up libjson-c3:armhf (0.12.1-1.3ubuntu0.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:40:04
+
+Log started: 2020-06-29  11:40:18
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libldap-common_2.4.45+dfsg-1ubuntu1.5_all.deb ...
+Unpacking libldap-common (2.4.45+dfsg-1ubuntu1.5) over (2.4.45+dfsg-1ubuntu1.4) ...
+Setting up libldap-common (2.4.45+dfsg-1ubuntu1.5) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-06-29  11:40:19
+
+Log started: 2020-06-29  11:40:34
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libsqlite3-0_3.22.0-1ubuntu0.4_armhf.deb ...
+Unpacking libsqlite3-0:armhf (3.22.0-1ubuntu0.4) over (3.22.0-1ubuntu0.2) ...
+Setting up libsqlite3-0:armhf (3.22.0-1ubuntu0.4) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:40:35
+
+Log started: 2020-06-29  11:40:50
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libssl1.1_1.1.1-1ubuntu2.1~18.04.6_armhf.deb ...
+Unpacking libssl1.1:armhf (1.1.1-1ubuntu2.1~18.04.6) over (1.1.1-1ubuntu2.1~18.04.5) ...
+Setting up libssl1.1:armhf (1.1.1-1ubuntu2.1~18.04.6) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:40:51
+
+Log started: 2020-06-29  11:41:06
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../libxml2_2.9.4+dfsg1-6.1ubuntu1.3_armhf.deb ...
+Unpacking libxml2:armhf (2.9.4+dfsg1-6.1ubuntu1.3) over (2.9.4+dfsg1-6.1ubuntu1.2) ...
+Setting up libxml2:armhf (2.9.4+dfsg1-6.1ubuntu1.3) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-06-29  11:41:07
+
+Log started: 2020-06-29  11:41:22
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../linux-base_4.5ubuntu1.1_all.deb ...
+Unpacking linux-base (4.5ubuntu1.1) over (4.5ubuntu1) ...
+Setting up linux-base (4.5ubuntu1.1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-06-29  11:41:24
+
+Log started: 2020-06-29  11:41:39
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63635 files and directories currently installed.)
+Preparing to unpack .../linux-firmware_1.173.18_all.deb ...
+Unpacking linux-firmware (1.173.18) over (1.173.14) ...
+Setting up linux-firmware (1.173.18) ...
+update-initramfs: Generating /boot/initrd.img-5.3.0-1017-raspi2
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1017-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1017-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1017-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1017-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: deferring update (trigger activated)
+Processing triggers for flash-kernel (3.98ubuntu11~18.04.1) ...
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1017-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1017-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: installing version 5.3.0-1017-raspi2
+Taking backup of vmlinuz.
+Installing new vmlinuz.
+Taking backup of initrd.img.
+Installing new initrd.img.
+Generating boot script u-boot image... done.
+Taking backup of boot.scr.
+Installing new boot.scr.
+Taking backup of bcm2710-rpi-3-b.dtb.
+Installing new bcm2710-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-b-rev2.dtb.
+Installing new bcm2835-rpi-b-rev2.dtb.
+Taking backup of bcm2835-rpi-a.dtb.
+Installing new bcm2835-rpi-a.dtb.
+Taking backup of bcm2710-rpi-cm3.dtb.
+Installing new bcm2710-rpi-cm3.dtb.
+Taking backup of bcm2835-rpi-b-plus.dtb.
+Installing new bcm2835-rpi-b-plus.dtb.
+Taking backup of bcm2838-rpi-4-b.dtb.
+Installing new bcm2838-rpi-4-b.dtb.
+Taking backup of bcm2837-rpi-3-b-plus.dtb.
+Installing new bcm2837-rpi-3-b-plus.dtb.
+Taking backup of bcm2835-rpi-zero-w.dtb.
+Installing new bcm2835-rpi-zero-w.dtb.
+Taking backup of bcm2837-rpi-cm3-io3.dtb.
+Installing new bcm2837-rpi-cm3-io3.dtb.
+Taking backup of bcm2837-rpi-3-a-plus.dtb.
+Installing new bcm2837-rpi-3-a-plus.dtb.
+Taking backup of bcm2708-rpi-zero.dtb.
+Installing new bcm2708-rpi-zero.dtb.
+Taking backup of bcm2837-rpi-3-b.dtb.
+Installing new bcm2837-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-a-plus.dtb.
+Installing new bcm2835-rpi-a-plus.dtb.
+Taking backup of bcm2709-rpi-2-b.dtb.
+Installing new bcm2709-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-zero.dtb.
+Installing new bcm2835-rpi-zero.dtb.
+Taking backup of bcm2711-rpi-4-b.dtb.
+Installing new bcm2711-rpi-4-b.dtb.
+Taking backup of bcm2835-rpi-b.dtb.
+Installing new bcm2835-rpi-b.dtb.
+Taking backup of bcm2708-rpi-zero-w.dtb.
+Installing new bcm2708-rpi-zero-w.dtb.
+Taking backup of bcm2708-rpi-b.dtb.
+Installing new bcm2708-rpi-b.dtb.
+Taking backup of bcm2710-rpi-2-b.dtb.
+Installing new bcm2710-rpi-2-b.dtb.
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Taking backup of bcm2708-rpi-cm.dtb.
+Installing new bcm2708-rpi-cm.dtb.
+Taking backup of bcm2836-rpi-2-b.dtb.
+Installing new bcm2836-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-cm1-io1.dtb.
+Installing new bcm2835-rpi-cm1-io1.dtb.
+Taking backup of bcm2708-rpi-b-plus.dtb.
+Installing new bcm2708-rpi-b-plus.dtb.
+Taking backup of i-sabre-q2m.dtbo.
+Installing new i-sabre-q2m.dtbo.
+Taking backup of ov5647.dtbo.
+Installing new ov5647.dtbo.
+Taking backup of ads7846.dtbo.
+Installing new ads7846.dtbo.
+Taking backup of jedec-spi-nor.dtbo.
+Installing new jedec-spi-nor.dtbo.
+Taking backup of dwc-otg.dtbo.
+Installing new dwc-otg.dtbo.
+Taking backup of pitft22.dtbo.
+Installing new pitft22.dtbo.
+Taking backup of uart2.dtbo.
+Installing new uart2.dtbo.
+Taking backup of spi2-3cs.dtbo.
+Installing new spi2-3cs.dtbo.
+Taking backup of i2c-mux.dtbo.
+Installing new i2c-mux.dtbo.
+Taking backup of media-center.dtbo.
+Installing new media-center.dtbo.
+Taking backup of spi5-2cs.dtbo.
+Installing new spi5-2cs.dtbo.
+Taking backup of rpi-cirrus-wm5102.dtbo.
+Installing new rpi-cirrus-wm5102.dtbo.
+Taking backup of adv7282m.dtbo.
+Installing new adv7282m.dtbo.
+Taking backup of bmp085_i2c-sensor.dtbo.
+Installing new bmp085_i2c-sensor.dtbo.
+Taking backup of spi2-2cs.dtbo.
+Installing new spi2-2cs.dtbo.
+Taking backup of adau7002-simple.dtbo.
+Installing new adau7002-simple.dtbo.
+Taking backup of balena-fin.dtbo.
+Installing new balena-fin.dtbo.
+Taking backup of dionaudio-loco-v2.dtbo.
+Installing new dionaudio-loco-v2.dtbo.
+Taking backup of vga666.dtbo.
+Installing new vga666.dtbo.
+Taking backup of pps-gpio.dtbo.
+Installing new pps-gpio.dtbo.
+Taking backup of i2c3.dtbo.
+Installing new i2c3.dtbo.
+Taking backup of dpi24.dtbo.
+Installing new dpi24.dtbo.
+Taking backup of piscreen.dtbo.
+Installing new piscreen.dtbo.
+Taking backup of sc16is752-i2c.dtbo.
+Installing new sc16is752-i2c.dtbo.
+Taking backup of sdtweak.dtbo.
+Installing new sdtweak.dtbo.
+Taking backup of udrc.dtbo.
+Installing new udrc.dtbo.
+Taking backup of goodix.dtbo.
+Installing new goodix.dtbo.
+Taking backup of gpio-no-irq.dtbo.
+Installing new gpio-no-irq.dtbo.
+Taking backup of mcp342x.dtbo.
+Installing new mcp342x.dtbo.
+Taking backup of piglow.dtbo.
+Installing new piglow.dtbo.
+Taking backup of pibell.dtbo.
+Installing new pibell.dtbo.
+Taking backup of allo-katana-dac-audio.dtbo.
+Installing new allo-katana-dac-audio.dtbo.
+Taking backup of i2c0-bcm2708.dtbo.
+Installing new i2c0-bcm2708.dtbo.
+Taking backup of audremap.dtbo.
+Installing new audremap.dtbo.
+Taking backup of draws.dtbo.
+Installing new draws.dtbo.
+Taking backup of allo-piano-dac-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-pcm512x-audio.dtbo.
+Taking backup of i2c-gpio.dtbo.
+Installing new i2c-gpio.dtbo.
+Taking backup of gpio-key.dtbo.
+Installing new gpio-key.dtbo.
+Taking backup of rpi-ft5406.dtbo.
+Installing new rpi-ft5406.dtbo.
+Taking backup of imx219.dtbo.
+Installing new imx219.dtbo.
+Taking backup of pitft35-resistive.dtbo.
+Installing new pitft35-resistive.dtbo.
+Taking backup of disable-bt.dtbo.
+Installing new disable-bt.dtbo.
+Taking backup of hifiberry-digi.dtbo.
+Installing new hifiberry-digi.dtbo.
+Taking backup of uart1.dtbo.
+Installing new uart1.dtbo.
+Taking backup of spi0-hw-cs.dtbo.
+Installing new spi0-hw-cs.dtbo.
+Taking backup of i2c-rtc.dtbo.
+Installing new i2c-rtc.dtbo.
+Taking backup of at86rf233.dtbo.
+Installing new at86rf233.dtbo.
+Taking backup of rpi-display.dtbo.
+Installing new rpi-display.dtbo.
+Taking backup of exc3000.dtbo.
+Installing new exc3000.dtbo.
+Taking backup of papirus.dtbo.
+Installing new papirus.dtbo.
+Taking backup of hy28b.dtbo.
+Installing new hy28b.dtbo.
+Taking backup of iqaudio-digi-wm8804-audio.dtbo.
+Installing new iqaudio-digi-wm8804-audio.dtbo.
+Taking backup of googlevoicehat-soundcard.dtbo.
+Installing new googlevoicehat-soundcard.dtbo.
+Taking backup of gpio-shutdown.dtbo.
+Installing new gpio-shutdown.dtbo.
+Taking backup of spi-gpio40-45.dtbo.
+Installing new spi-gpio40-45.dtbo.
+Taking backup of pi3-act-led.dtbo.
+Installing new pi3-act-led.dtbo.
+Taking backup of akkordion-iqdacplus.dtbo.
+Installing new akkordion-iqdacplus.dtbo.
+Taking backup of vc4-kms-kippah-7inch.dtbo.
+Installing new vc4-kms-kippah-7inch.dtbo.
+Taking backup of mcp3202.dtbo.
+Installing new mcp3202.dtbo.
+Taking backup of mbed-dac.dtbo.
+Installing new mbed-dac.dtbo.
+Taking backup of i2c1-bcm2708.dtbo.
+Installing new i2c1-bcm2708.dtbo.
+Taking backup of spi6-2cs.dtbo.
+Installing new spi6-2cs.dtbo.
+Taking backup of spi3-2cs.dtbo.
+Installing new spi3-2cs.dtbo.
+Taking backup of spi6-1cs.dtbo.
+Installing new spi6-1cs.dtbo.
+Taking backup of tpm-slb9670.dtbo.
+Installing new tpm-slb9670.dtbo.
+Taking backup of sdhost.dtbo.
+Installing new sdhost.dtbo.
+Taking backup of hifiberry-dacplusadc.dtbo.
+Installing new hifiberry-dacplusadc.dtbo.
+Taking backup of spi3-1cs.dtbo.
+Installing new spi3-1cs.dtbo.
+Taking backup of smi-nand.dtbo.
+Installing new smi-nand.dtbo.
+Taking backup of pitft28-resistive.dtbo.
+Installing new pitft28-resistive.dtbo.
+Taking backup of pisound.dtbo.
+Installing new pisound.dtbo.
+Taking backup of justboom-digi.dtbo.
+Installing new justboom-digi.dtbo.
+Taking backup of dwc2.dtbo.
+Installing new dwc2.dtbo.
+Taking backup of gpio-ir.dtbo.
+Installing new gpio-ir.dtbo.
+Taking backup of uart5.dtbo.
+Installing new uart5.dtbo.
+Taking backup of ltc294x.dtbo.
+Installing new ltc294x.dtbo.
+Taking backup of hifiberry-dacplusadcpro.dtbo.
+Installing new hifiberry-dacplusadcpro.dtbo.
+Taking backup of tc358743.dtbo.
+Installing new tc358743.dtbo.
+Taking backup of uart0.dtbo.
+Installing new uart0.dtbo.
+Taking backup of sc16is750-i2c.dtbo.
+Installing new sc16is750-i2c.dtbo.
+Taking backup of allo-piano-dac-plus-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-plus-pcm512x-audio.dtbo.
+Taking backup of disable-wifi.dtbo.
+Installing new disable-wifi.dtbo.
+Taking backup of sdio.dtbo.
+Installing new sdio.dtbo.
+Taking backup of pwm.dtbo.
+Installing new pwm.dtbo.
+Taking backup of applepi-dac.dtbo.
+Installing new applepi-dac.dtbo.
+Taking backup of rotary-encoder.dtbo.
+Installing new rotary-encoder.dtbo.
+Taking backup of mcp23s17.dtbo.
+Installing new mcp23s17.dtbo.
+Taking backup of hifiberry-dacplusdsp.dtbo.
+Installing new hifiberry-dacplusdsp.dtbo.
+Taking backup of hy28a.dtbo.
+Installing new hy28a.dtbo.
+Taking backup of i2c-pwm-pca9685a.dtbo.
+Installing new i2c-pwm-pca9685a.dtbo.
+Taking backup of i2c6.dtbo.
+Installing new i2c6.dtbo.
+Taking backup of audioinjector-ultra.dtbo.
+Installing new audioinjector-ultra.dtbo.
+Taking backup of enc28j60-spi2.dtbo.
+Installing new enc28j60-spi2.dtbo.
+Taking backup of pi3-disable-bt.dtbo.
+Installing new pi3-disable-bt.dtbo.
+Taking backup of spi-gpio35-39.dtbo.
+Installing new spi-gpio35-39.dtbo.
+Taking backup of i2c1.dtbo.
+Installing new i2c1.dtbo.
+Taking backup of smi-dev.dtbo.
+Installing new smi-dev.dtbo.
+Taking backup of justboom-dac.dtbo.
+Installing new justboom-dac.dtbo.
+Taking backup of superaudioboard.dtbo.
+Installing new superaudioboard.dtbo.
+Taking backup of rpi-dac.dtbo.
+Installing new rpi-dac.dtbo.
+Taking backup of mcp23017.dtbo.
+Installing new mcp23017.dtbo.
+Taking backup of tinylcd35.dtbo.
+Installing new tinylcd35.dtbo.
+Taking backup of sx150x.dtbo.
+Installing new sx150x.dtbo.
+Taking backup of sc16is752-spi1.dtbo.
+Installing new sc16is752-spi1.dtbo.
+Taking backup of hifiberry-amp.dtbo.
+Installing new hifiberry-amp.dtbo.
+Taking backup of piscreen2r.dtbo.
+Installing new piscreen2r.dtbo.
+Taking backup of spi0-cs.dtbo.
+Installing new spi0-cs.dtbo.
+Taking backup of tc358743-audio.dtbo.
+Installing new tc358743-audio.dtbo.
+Taking backup of gpio-poweroff.dtbo.
+Installing new gpio-poweroff.dtbo.
+Taking backup of allo-digione.dtbo.
+Installing new allo-digione.dtbo.
+Taking backup of dionaudio-loco.dtbo.
+Installing new dionaudio-loco.dtbo.
+Taking backup of ilitek251x.dtbo.
+Installing new ilitek251x.dtbo.
+Taking backup of hy28b-2017.dtbo.
+Installing new hy28b-2017.dtbo.
+Taking backup of i2c-rtc-gpio.dtbo.
+Installing new i2c-rtc-gpio.dtbo.
+Taking backup of gpio-fan.dtbo.
+Installing new gpio-fan.dtbo.
+Taking backup of qca7000.dtbo.
+Installing new qca7000.dtbo.
+Taking backup of miniuart-bt.dtbo.
+Installing new miniuart-bt.dtbo.
+Taking backup of uart4.dtbo.
+Installing new uart4.dtbo.
+Taking backup of spi4-2cs.dtbo.
+Installing new spi4-2cs.dtbo.
+Taking backup of pwm-2chan.dtbo.
+Installing new pwm-2chan.dtbo.
+Taking backup of smi.dtbo.
+Installing new smi.dtbo.
+Taking backup of midi-uart1.dtbo.
+Installing new midi-uart1.dtbo.
+Taking backup of act-led.dtbo.
+Installing new act-led.dtbo.
+Taking backup of pi3-disable-wifi.dtbo.
+Installing new pi3-disable-wifi.dtbo.
+Taking backup of mcp2515-can1.dtbo.
+Installing new mcp2515-can1.dtbo.
+Taking backup of spi4-1cs.dtbo.
+Installing new spi4-1cs.dtbo.
+Taking backup of i2c-sensor.dtbo.
+Installing new i2c-sensor.dtbo.
+Taking backup of spi1-1cs.dtbo.
+Installing new spi1-1cs.dtbo.
+Taking backup of upstream.dtbo.
+Installing new upstream.dtbo.
+Taking backup of rpi-poe.dtbo.
+Installing new rpi-poe.dtbo.
+Taking backup of rpi-backlight.dtbo.
+Installing new rpi-backlight.dtbo.
+Taking backup of pwm-ir-tx.dtbo.
+Installing new pwm-ir-tx.dtbo.
+Taking backup of i2c5.dtbo.
+Installing new i2c5.dtbo.
+Taking backup of dht11.dtbo.
+Installing new dht11.dtbo.
+Taking backup of gpio-no-bank0-irq.dtbo.
+Installing new gpio-no-bank0-irq.dtbo.
+Taking backup of pi3-miniuart-bt.dtbo.
+Installing new pi3-miniuart-bt.dtbo.
+Taking backup of hifiberry-dacplus.dtbo.
+Installing new hifiberry-dacplus.dtbo.
+Taking backup of wittypi.dtbo.
+Installing new wittypi.dtbo.
+Taking backup of w1-gpio.dtbo.
+Installing new w1-gpio.dtbo.
+Taking backup of i2c0.dtbo.
+Installing new i2c0.dtbo.
+Taking backup of i2s-gpio28-31.dtbo.
+Installing new i2s-gpio28-31.dtbo.
+Taking backup of spi1-3cs.dtbo.
+Installing new spi1-3cs.dtbo.
+Taking backup of audioinjector-addons.dtbo.
+Installing new audioinjector-addons.dtbo.
+Taking backup of audioinjector-wm8731-audio.dtbo.
+Installing new audioinjector-wm8731-audio.dtbo.
+Taking backup of pitft28-capacitive.dtbo.
+Installing new pitft28-capacitive.dtbo.
+Taking backup of spi1-2cs.dtbo.
+Installing new spi1-2cs.dtbo.
+Taking backup of fe-pi-audio.dtbo.
+Installing new fe-pi-audio.dtbo.
+Taking backup of i2c-bcm2708.dtbo.
+Installing new i2c-bcm2708.dtbo.
+Taking backup of hd44780-lcd.dtbo.
+Installing new hd44780-lcd.dtbo.
+Taking backup of vc4-kms-v3d.dtbo.
+Installing new vc4-kms-v3d.dtbo.
+Taking backup of adau1977-adc.dtbo.
+Installing new adau1977-adc.dtbo.
+Taking backup of rra-digidac1-wm8741-audio.dtbo.
+Installing new rra-digidac1-wm8741-audio.dtbo.
+Taking backup of uart3.dtbo.
+Installing new uart3.dtbo.
+Taking backup of mpu6050.dtbo.
+Installing new mpu6050.dtbo.
+Taking backup of hifiberry-digi-pro.dtbo.
+Installing new hifiberry-digi-pro.dtbo.
+Taking backup of rpi-tv.dtbo.
+Installing new rpi-tv.dtbo.
+Taking backup of midi-uart0.dtbo.
+Installing new midi-uart0.dtbo.
+Taking backup of mcp2515-can0.dtbo.
+Installing new mcp2515-can0.dtbo.
+Taking backup of gpio-ir-tx.dtbo.
+Installing new gpio-ir-tx.dtbo.
+Taking backup of adv728x-m.dtbo.
+Installing new adv728x-m.dtbo.
+Taking backup of dpi18.dtbo.
+Installing new dpi18.dtbo.
+Taking backup of enc28j60.dtbo.
+Installing new enc28j60.dtbo.
+Taking backup of audiosense-pi.dtbo.
+Installing new audiosense-pi.dtbo.
+Taking backup of mcp3008.dtbo.
+Installing new mcp3008.dtbo.
+Taking backup of iqaudio-dac.dtbo.
+Installing new iqaudio-dac.dtbo.
+Taking backup of ads1115.dtbo.
+Installing new ads1115.dtbo.
+Taking backup of vc4-fkms-v3d.dtbo.
+Installing new vc4-fkms-v3d.dtbo.
+Taking backup of rpi-sense.dtbo.
+Installing new rpi-sense.dtbo.
+Taking backup of allo-boss-dac-pcm512x-audio.dtbo.
+Installing new allo-boss-dac-pcm512x-audio.dtbo.
+Taking backup of i2c4.dtbo.
+Installing new i2c4.dtbo.
+Taking backup of ssd1306.dtbo.
+Installing new ssd1306.dtbo.
+Taking backup of iqaudio-codec.dtbo.
+Installing new iqaudio-codec.dtbo.
+Taking backup of rpi-proto.dtbo.
+Installing new rpi-proto.dtbo.
+Taking backup of mmc.dtbo.
+Installing new mmc.dtbo.
+Taking backup of w1-gpio-pullup.dtbo.
+Installing new w1-gpio-pullup.dtbo.
+Taking backup of ads1015.dtbo.
+Installing new ads1015.dtbo.
+Taking backup of max98357a.dtbo.
+Installing new max98357a.dtbo.
+Taking backup of spi5-1cs.dtbo.
+Installing new spi5-1cs.dtbo.
+Taking backup of mz61581.dtbo.
+Installing new mz61581.dtbo.
+Taking backup of iqaudio-dacplus.dtbo.
+Installing new iqaudio-dacplus.dtbo.
+Taking backup of hifiberry-dac.dtbo.
+Installing new hifiberry-dac.dtbo.
+Taking backup of spi-rtc.dtbo.
+Installing new spi-rtc.dtbo.
+Taking backup of spi2-1cs.dtbo.
+Installing new spi2-1cs.dtbo.
+Log ended: 2020-06-29  11:43:23
+
+Log started: 2020-06-29  11:43:43
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63646 files and directories currently installed.)
+Preparing to unpack .../openssl_1.1.1-1ubuntu2.1~18.04.6_armhf.deb ...
+Unpacking openssl (1.1.1-1ubuntu2.1~18.04.6) over (1.1.1-1ubuntu2.1~18.04.5) ...
+Setting up openssl (1.1.1-1ubuntu2.1~18.04.6) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-06-29  11:43:47
+
+Log started: 2020-06-29  11:44:02
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63646 files and directories currently installed.)
+Preparing to unpack .../python3-apport_2.20.9-0ubuntu7.14_all.deb ...
+Unpacking python3-apport (2.20.9-0ubuntu7.14) over (2.20.9-0ubuntu7.9) ...
+Setting up python3-apport (2.20.9-0ubuntu7.14) ...
+Log ended: 2020-06-29  11:44:04
+
+Log started: 2020-06-29  11:44:19
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63646 files and directories currently installed.)
+Preparing to unpack .../python3-problem-report_2.20.9-0ubuntu7.14_all.deb ...
+Unpacking python3-problem-report (2.20.9-0ubuntu7.14) over (2.20.9-0ubuntu7.9) ...
+Setting up python3-problem-report (2.20.9-0ubuntu7.14) ...
+Log ended: 2020-06-29  11:44:20
+
+Log started: 2020-06-29  11:44:35
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63646 files and directories currently installed.)
+Preparing to unpack .../python3-twisted-bin_17.9.0-2ubuntu0.1_armhf.deb ...
+Unpacking python3-twisted-bin:armhf (17.9.0-2ubuntu0.1) over (17.9.0-2) ...
+dpkg: error: dpkg status database is locked by another process
+Log ended: 2020-06-29  11:44:36
+
+Log started: 2020-07-02  06:32:05
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63697 files and directories currently installed.)
+Preparing to unpack .../libldap-2.4-2_2.4.45+dfsg-1ubuntu1.5_armhf.deb ...
+Unpacking libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.5) over (2.4.45+dfsg-1ubuntu1.4) ...
+Setting up python3-twisted-bin:armhf (17.9.0-2ubuntu0.1) ...
+Setting up libldap-2.4-2:armhf (2.4.45+dfsg-1ubuntu1.5) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:32:07
+
+Log started: 2020-07-02  06:32:20
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63697 files and directories currently installed.)
+Preparing to unpack .../libseccomp2_2.4.3-1ubuntu3.18.04.2_armhf.deb ...
+Unpacking libseccomp2:armhf (2.4.3-1ubuntu3.18.04.2) over (2.4.1-0ubuntu0.18.04.2) ...
+Setting up libseccomp2:armhf (2.4.3-1ubuntu3.18.04.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:32:21
+
+Log started: 2020-07-02  06:32:35
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63697 files and directories currently installed.)
+Preparing to unpack .../python3-twisted_17.9.0-2ubuntu0.1_all.deb ...
+Unpacking python3-twisted (17.9.0-2ubuntu0.1) over (17.9.0-2) ...
+Setting up python3-twisted (17.9.0-2ubuntu0.1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-02  06:32:50
+
+Log started: 2020-07-02  06:33:05
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63698 files and directories currently installed.)
+Preparing to unpack .../rsync_3.1.2-2.1ubuntu1.1_armhf.deb ...
+Unpacking rsync (3.1.2-2.1ubuntu1.1) over (3.1.2-2.1ubuntu1) ...
+Setting up rsync (3.1.2-2.1ubuntu1.1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+ureadahead will be reprofiled on next reboot
+Processing triggers for systemd (237-3ubuntu10.33) ...
+Log ended: 2020-07-02  06:33:11
+
+Log started: 2020-07-02  06:33:25
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63698 files and directories currently installed.)
+Preparing to unpack .../systemd-sysv_237-3ubuntu10.38_armhf.deb ...
+Unpacking systemd-sysv (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Setting up systemd-sysv (237-3ubuntu10.38) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-02  06:33:27
+
+Log started: 2020-07-02  06:33:54
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63698 files and directories currently installed.)
+Preparing to unpack .../tzdata_2020a-0ubuntu0.18.04_all.deb ...
+Unpacking tzdata (2020a-0ubuntu0.18.04) over (2019c-0ubuntu0.18.04) ...
+Setting up tzdata (2020a-0ubuntu0.18.04) ...
+
+Current default time zone: 'Etc/UTC'
+Local time is now:      Thu Jul  2 06:33:56 UTC 2020.
+Universal Time is now:  Thu Jul  2 06:33:56 UTC 2020.
+Run 'dpkg-reconfigure tzdata' if you wish to change it.
+
+Log ended: 2020-07-02  06:33:57
+
+Log started: 2020-07-02  06:34:10
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63701 files and directories currently installed.)
+Preparing to unpack .../xxd_2%3a8.0.1453-1ubuntu1.3_armhf.deb ...
+Unpacking xxd (2:8.0.1453-1ubuntu1.3) over (2:8.0.1453-1ubuntu1.1) ...
+Setting up xxd (2:8.0.1453-1ubuntu1.3) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-02  06:34:12
+
+Log started: 2020-07-02  06:34:26
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63701 files and directories currently installed.)
+Preparing to unpack .../apport_2.20.9-0ubuntu7.14_all.deb ...
+Unpacking apport (2.20.9-0ubuntu7.14) over (2.20.9-0ubuntu7.9) ...
+Setting up apport (2.20.9-0ubuntu7.14) ...
+Installing new version of config file /etc/init.d/apport ...
+apport-autoreport.service is a disabled or a static unit, not starting it.
+Processing triggers for ureadahead (0.100.0-21) ...
+Processing triggers for systemd (237-3ubuntu10.33) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-02  06:34:37
+
+Log started: 2020-07-02  06:34:51
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../curl_7.58.0-2ubuntu3.9_armhf.deb ...
+Unpacking curl (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Preparing to unpack .../libcurl4_7.58.0-2ubuntu3.9_armhf.deb ...
+Unpacking libcurl4:armhf (7.58.0-2ubuntu3.9) over (7.58.0-2ubuntu3.8) ...
+Setting up libcurl4:armhf (7.58.0-2ubuntu3.9) ...
+Setting up curl (7.58.0-2ubuntu3.9) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:34:53
+
+Log started: 2020-07-02  06:35:08
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../dbus_1.12.2-1ubuntu1.2_armhf.deb ...
+Unpacking dbus (1.12.2-1ubuntu1.2) over (1.12.2-1ubuntu1.1) ...
+Preparing to unpack .../libdbus-1-3_1.12.2-1ubuntu1.2_armhf.deb ...
+Unpacking libdbus-1-3:armhf (1.12.2-1ubuntu1.2) over (1.12.2-1ubuntu1.1) ...
+Setting up libdbus-1-3:armhf (1.12.2-1ubuntu1.2) ...
+Setting up dbus (1.12.2-1ubuntu1.2) ...
+A reboot is required to replace the running dbus-daemon.
+Please reboot the system when convenient.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.33) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-02  06:35:14
+
+Log started: 2020-07-02  06:35:28
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libdrm2_2.4.99-1ubuntu1~18.04.2_armhf.deb ...
+Unpacking libdrm2:armhf (2.4.99-1ubuntu1~18.04.2) over (2.4.99-1ubuntu1~18.04.1) ...
+Setting up libdrm2:armhf (2.4.99-1ubuntu1~18.04.2) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:35:29
+
+Log started: 2020-07-02  06:35:44
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../udev_237-3ubuntu10.38_armhf.deb ...
+Unpacking udev (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Preparing to unpack .../libudev1_237-3ubuntu10.38_armhf.deb ...
+Unpacking libudev1:armhf (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Setting up libudev1:armhf (237-3ubuntu10.38) ...
+Setting up udev (237-3ubuntu10.38) ...
+update-initramfs: deferring update (trigger activated)
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.33) ...
+Processing triggers for initramfs-tools (0.130ubuntu3.9) ...
+update-initramfs: Generating /boot/initrd.img-5.3.0-1017-raspi2
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1017-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1017-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1017-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1017-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: installing version 5.3.0-1017-raspi2
+Taking backup of vmlinuz.
+Installing new vmlinuz.
+Taking backup of initrd.img.
+Installing new initrd.img.
+Generating boot script u-boot image... done.
+Taking backup of boot.scr.
+Installing new boot.scr.
+Taking backup of bcm2710-rpi-3-b.dtb.
+Installing new bcm2710-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-b-rev2.dtb.
+Installing new bcm2835-rpi-b-rev2.dtb.
+Taking backup of bcm2835-rpi-a.dtb.
+Installing new bcm2835-rpi-a.dtb.
+Taking backup of bcm2710-rpi-cm3.dtb.
+Installing new bcm2710-rpi-cm3.dtb.
+Taking backup of bcm2835-rpi-b-plus.dtb.
+Installing new bcm2835-rpi-b-plus.dtb.
+Taking backup of bcm2838-rpi-4-b.dtb.
+Installing new bcm2838-rpi-4-b.dtb.
+Taking backup of bcm2837-rpi-3-b-plus.dtb.
+Installing new bcm2837-rpi-3-b-plus.dtb.
+Taking backup of bcm2835-rpi-zero-w.dtb.
+Installing new bcm2835-rpi-zero-w.dtb.
+Taking backup of bcm2837-rpi-cm3-io3.dtb.
+Installing new bcm2837-rpi-cm3-io3.dtb.
+Taking backup of bcm2837-rpi-3-a-plus.dtb.
+Installing new bcm2837-rpi-3-a-plus.dtb.
+Taking backup of bcm2708-rpi-zero.dtb.
+Installing new bcm2708-rpi-zero.dtb.
+Taking backup of bcm2837-rpi-3-b.dtb.
+Installing new bcm2837-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-a-plus.dtb.
+Installing new bcm2835-rpi-a-plus.dtb.
+Taking backup of bcm2709-rpi-2-b.dtb.
+Installing new bcm2709-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-zero.dtb.
+Installing new bcm2835-rpi-zero.dtb.
+Taking backup of bcm2711-rpi-4-b.dtb.
+Installing new bcm2711-rpi-4-b.dtb.
+Taking backup of bcm2835-rpi-b.dtb.
+Installing new bcm2835-rpi-b.dtb.
+Taking backup of bcm2708-rpi-zero-w.dtb.
+Installing new bcm2708-rpi-zero-w.dtb.
+Taking backup of bcm2708-rpi-b.dtb.
+Installing new bcm2708-rpi-b.dtb.
+Taking backup of bcm2710-rpi-2-b.dtb.
+Installing new bcm2710-rpi-2-b.dtb.
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Taking backup of bcm2708-rpi-cm.dtb.
+Installing new bcm2708-rpi-cm.dtb.
+Taking backup of bcm2836-rpi-2-b.dtb.
+Installing new bcm2836-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-cm1-io1.dtb.
+Installing new bcm2835-rpi-cm1-io1.dtb.
+Taking backup of bcm2708-rpi-b-plus.dtb.
+Installing new bcm2708-rpi-b-plus.dtb.
+Taking backup of i-sabre-q2m.dtbo.
+Installing new i-sabre-q2m.dtbo.
+Taking backup of ov5647.dtbo.
+Installing new ov5647.dtbo.
+Taking backup of ads7846.dtbo.
+Installing new ads7846.dtbo.
+Taking backup of jedec-spi-nor.dtbo.
+Installing new jedec-spi-nor.dtbo.
+Taking backup of dwc-otg.dtbo.
+Installing new dwc-otg.dtbo.
+Taking backup of pitft22.dtbo.
+Installing new pitft22.dtbo.
+Taking backup of uart2.dtbo.
+Installing new uart2.dtbo.
+Taking backup of spi2-3cs.dtbo.
+Installing new spi2-3cs.dtbo.
+Taking backup of i2c-mux.dtbo.
+Installing new i2c-mux.dtbo.
+Taking backup of media-center.dtbo.
+Installing new media-center.dtbo.
+Taking backup of spi5-2cs.dtbo.
+Installing new spi5-2cs.dtbo.
+Taking backup of rpi-cirrus-wm5102.dtbo.
+Installing new rpi-cirrus-wm5102.dtbo.
+Taking backup of adv7282m.dtbo.
+Installing new adv7282m.dtbo.
+Taking backup of bmp085_i2c-sensor.dtbo.
+Installing new bmp085_i2c-sensor.dtbo.
+Taking backup of spi2-2cs.dtbo.
+Installing new spi2-2cs.dtbo.
+Taking backup of adau7002-simple.dtbo.
+Installing new adau7002-simple.dtbo.
+Taking backup of balena-fin.dtbo.
+Installing new balena-fin.dtbo.
+Taking backup of dionaudio-loco-v2.dtbo.
+Installing new dionaudio-loco-v2.dtbo.
+Taking backup of vga666.dtbo.
+Installing new vga666.dtbo.
+Taking backup of pps-gpio.dtbo.
+Installing new pps-gpio.dtbo.
+Taking backup of i2c3.dtbo.
+Installing new i2c3.dtbo.
+Taking backup of dpi24.dtbo.
+Installing new dpi24.dtbo.
+Taking backup of piscreen.dtbo.
+Installing new piscreen.dtbo.
+Taking backup of sc16is752-i2c.dtbo.
+Installing new sc16is752-i2c.dtbo.
+Taking backup of sdtweak.dtbo.
+Installing new sdtweak.dtbo.
+Taking backup of udrc.dtbo.
+Installing new udrc.dtbo.
+Taking backup of goodix.dtbo.
+Installing new goodix.dtbo.
+Taking backup of gpio-no-irq.dtbo.
+Installing new gpio-no-irq.dtbo.
+Taking backup of mcp342x.dtbo.
+Installing new mcp342x.dtbo.
+Taking backup of piglow.dtbo.
+Installing new piglow.dtbo.
+Taking backup of pibell.dtbo.
+Installing new pibell.dtbo.
+Taking backup of allo-katana-dac-audio.dtbo.
+Installing new allo-katana-dac-audio.dtbo.
+Taking backup of i2c0-bcm2708.dtbo.
+Installing new i2c0-bcm2708.dtbo.
+Taking backup of audremap.dtbo.
+Installing new audremap.dtbo.
+Taking backup of draws.dtbo.
+Installing new draws.dtbo.
+Taking backup of allo-piano-dac-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-pcm512x-audio.dtbo.
+Taking backup of i2c-gpio.dtbo.
+Installing new i2c-gpio.dtbo.
+Taking backup of gpio-key.dtbo.
+Installing new gpio-key.dtbo.
+Taking backup of rpi-ft5406.dtbo.
+Installing new rpi-ft5406.dtbo.
+Taking backup of imx219.dtbo.
+Installing new imx219.dtbo.
+Taking backup of pitft35-resistive.dtbo.
+Installing new pitft35-resistive.dtbo.
+Taking backup of disable-bt.dtbo.
+Installing new disable-bt.dtbo.
+Taking backup of hifiberry-digi.dtbo.
+Installing new hifiberry-digi.dtbo.
+Taking backup of uart1.dtbo.
+Installing new uart1.dtbo.
+Taking backup of spi0-hw-cs.dtbo.
+Installing new spi0-hw-cs.dtbo.
+Taking backup of i2c-rtc.dtbo.
+Installing new i2c-rtc.dtbo.
+Taking backup of at86rf233.dtbo.
+Installing new at86rf233.dtbo.
+Taking backup of rpi-display.dtbo.
+Installing new rpi-display.dtbo.
+Taking backup of exc3000.dtbo.
+Installing new exc3000.dtbo.
+Taking backup of papirus.dtbo.
+Installing new papirus.dtbo.
+Taking backup of hy28b.dtbo.
+Installing new hy28b.dtbo.
+Taking backup of iqaudio-digi-wm8804-audio.dtbo.
+Installing new iqaudio-digi-wm8804-audio.dtbo.
+Taking backup of googlevoicehat-soundcard.dtbo.
+Installing new googlevoicehat-soundcard.dtbo.
+Taking backup of gpio-shutdown.dtbo.
+Installing new gpio-shutdown.dtbo.
+Taking backup of spi-gpio40-45.dtbo.
+Installing new spi-gpio40-45.dtbo.
+Taking backup of pi3-act-led.dtbo.
+Installing new pi3-act-led.dtbo.
+Taking backup of akkordion-iqdacplus.dtbo.
+Installing new akkordion-iqdacplus.dtbo.
+Taking backup of vc4-kms-kippah-7inch.dtbo.
+Installing new vc4-kms-kippah-7inch.dtbo.
+Taking backup of mcp3202.dtbo.
+Installing new mcp3202.dtbo.
+Taking backup of mbed-dac.dtbo.
+Installing new mbed-dac.dtbo.
+Taking backup of i2c1-bcm2708.dtbo.
+Installing new i2c1-bcm2708.dtbo.
+Taking backup of spi6-2cs.dtbo.
+Installing new spi6-2cs.dtbo.
+Taking backup of spi3-2cs.dtbo.
+Installing new spi3-2cs.dtbo.
+Taking backup of spi6-1cs.dtbo.
+Installing new spi6-1cs.dtbo.
+Taking backup of tpm-slb9670.dtbo.
+Installing new tpm-slb9670.dtbo.
+Taking backup of sdhost.dtbo.
+Installing new sdhost.dtbo.
+Taking backup of hifiberry-dacplusadc.dtbo.
+Installing new hifiberry-dacplusadc.dtbo.
+Taking backup of spi3-1cs.dtbo.
+Installing new spi3-1cs.dtbo.
+Taking backup of smi-nand.dtbo.
+Installing new smi-nand.dtbo.
+Taking backup of pitft28-resistive.dtbo.
+Installing new pitft28-resistive.dtbo.
+Taking backup of pisound.dtbo.
+Installing new pisound.dtbo.
+Taking backup of justboom-digi.dtbo.
+Installing new justboom-digi.dtbo.
+Taking backup of dwc2.dtbo.
+Installing new dwc2.dtbo.
+Taking backup of gpio-ir.dtbo.
+Installing new gpio-ir.dtbo.
+Taking backup of uart5.dtbo.
+Installing new uart5.dtbo.
+Taking backup of ltc294x.dtbo.
+Installing new ltc294x.dtbo.
+Taking backup of hifiberry-dacplusadcpro.dtbo.
+Installing new hifiberry-dacplusadcpro.dtbo.
+Taking backup of tc358743.dtbo.
+Installing new tc358743.dtbo.
+Taking backup of uart0.dtbo.
+Installing new uart0.dtbo.
+Taking backup of sc16is750-i2c.dtbo.
+Installing new sc16is750-i2c.dtbo.
+Taking backup of allo-piano-dac-plus-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-plus-pcm512x-audio.dtbo.
+Taking backup of disable-wifi.dtbo.
+Installing new disable-wifi.dtbo.
+Taking backup of sdio.dtbo.
+Installing new sdio.dtbo.
+Taking backup of pwm.dtbo.
+Installing new pwm.dtbo.
+Taking backup of applepi-dac.dtbo.
+Installing new applepi-dac.dtbo.
+Taking backup of rotary-encoder.dtbo.
+Installing new rotary-encoder.dtbo.
+Taking backup of mcp23s17.dtbo.
+Installing new mcp23s17.dtbo.
+Taking backup of hifiberry-dacplusdsp.dtbo.
+Installing new hifiberry-dacplusdsp.dtbo.
+Taking backup of hy28a.dtbo.
+Installing new hy28a.dtbo.
+Taking backup of i2c-pwm-pca9685a.dtbo.
+Installing new i2c-pwm-pca9685a.dtbo.
+Taking backup of i2c6.dtbo.
+Installing new i2c6.dtbo.
+Taking backup of audioinjector-ultra.dtbo.
+Installing new audioinjector-ultra.dtbo.
+Taking backup of enc28j60-spi2.dtbo.
+Installing new enc28j60-spi2.dtbo.
+Taking backup of pi3-disable-bt.dtbo.
+Installing new pi3-disable-bt.dtbo.
+Taking backup of spi-gpio35-39.dtbo.
+Installing new spi-gpio35-39.dtbo.
+Taking backup of i2c1.dtbo.
+Installing new i2c1.dtbo.
+Taking backup of smi-dev.dtbo.
+Installing new smi-dev.dtbo.
+Taking backup of justboom-dac.dtbo.
+Installing new justboom-dac.dtbo.
+Taking backup of superaudioboard.dtbo.
+Installing new superaudioboard.dtbo.
+Taking backup of rpi-dac.dtbo.
+Installing new rpi-dac.dtbo.
+Taking backup of mcp23017.dtbo.
+Installing new mcp23017.dtbo.
+Taking backup of tinylcd35.dtbo.
+Installing new tinylcd35.dtbo.
+Taking backup of sx150x.dtbo.
+Installing new sx150x.dtbo.
+Taking backup of sc16is752-spi1.dtbo.
+Installing new sc16is752-spi1.dtbo.
+Taking backup of hifiberry-amp.dtbo.
+Installing new hifiberry-amp.dtbo.
+Taking backup of piscreen2r.dtbo.
+Installing new piscreen2r.dtbo.
+Taking backup of spi0-cs.dtbo.
+Installing new spi0-cs.dtbo.
+Taking backup of tc358743-audio.dtbo.
+Installing new tc358743-audio.dtbo.
+Taking backup of gpio-poweroff.dtbo.
+Installing new gpio-poweroff.dtbo.
+Taking backup of allo-digione.dtbo.
+Installing new allo-digione.dtbo.
+Taking backup of dionaudio-loco.dtbo.
+Installing new dionaudio-loco.dtbo.
+Taking backup of ilitek251x.dtbo.
+Installing new ilitek251x.dtbo.
+Taking backup of hy28b-2017.dtbo.
+Installing new hy28b-2017.dtbo.
+Taking backup of i2c-rtc-gpio.dtbo.
+Installing new i2c-rtc-gpio.dtbo.
+Taking backup of gpio-fan.dtbo.
+Installing new gpio-fan.dtbo.
+Taking backup of qca7000.dtbo.
+Installing new qca7000.dtbo.
+Taking backup of miniuart-bt.dtbo.
+Installing new miniuart-bt.dtbo.
+Taking backup of uart4.dtbo.
+Installing new uart4.dtbo.
+Taking backup of spi4-2cs.dtbo.
+Installing new spi4-2cs.dtbo.
+Taking backup of pwm-2chan.dtbo.
+Installing new pwm-2chan.dtbo.
+Taking backup of smi.dtbo.
+Installing new smi.dtbo.
+Taking backup of midi-uart1.dtbo.
+Installing new midi-uart1.dtbo.
+Taking backup of act-led.dtbo.
+Installing new act-led.dtbo.
+Taking backup of pi3-disable-wifi.dtbo.
+Installing new pi3-disable-wifi.dtbo.
+Taking backup of mcp2515-can1.dtbo.
+Installing new mcp2515-can1.dtbo.
+Taking backup of spi4-1cs.dtbo.
+Installing new spi4-1cs.dtbo.
+Taking backup of i2c-sensor.dtbo.
+Installing new i2c-sensor.dtbo.
+Taking backup of spi1-1cs.dtbo.
+Installing new spi1-1cs.dtbo.
+Taking backup of upstream.dtbo.
+Installing new upstream.dtbo.
+Taking backup of rpi-poe.dtbo.
+Installing new rpi-poe.dtbo.
+Taking backup of rpi-backlight.dtbo.
+Installing new rpi-backlight.dtbo.
+Taking backup of pwm-ir-tx.dtbo.
+Installing new pwm-ir-tx.dtbo.
+Taking backup of i2c5.dtbo.
+Installing new i2c5.dtbo.
+Taking backup of dht11.dtbo.
+Installing new dht11.dtbo.
+Taking backup of gpio-no-bank0-irq.dtbo.
+Installing new gpio-no-bank0-irq.dtbo.
+Taking backup of pi3-miniuart-bt.dtbo.
+Installing new pi3-miniuart-bt.dtbo.
+Taking backup of hifiberry-dacplus.dtbo.
+Installing new hifiberry-dacplus.dtbo.
+Taking backup of wittypi.dtbo.
+Installing new wittypi.dtbo.
+Taking backup of w1-gpio.dtbo.
+Installing new w1-gpio.dtbo.
+Taking backup of i2c0.dtbo.
+Installing new i2c0.dtbo.
+Taking backup of i2s-gpio28-31.dtbo.
+Installing new i2s-gpio28-31.dtbo.
+Taking backup of spi1-3cs.dtbo.
+Installing new spi1-3cs.dtbo.
+Taking backup of audioinjector-addons.dtbo.
+Installing new audioinjector-addons.dtbo.
+Taking backup of audioinjector-wm8731-audio.dtbo.
+Installing new audioinjector-wm8731-audio.dtbo.
+Taking backup of pitft28-capacitive.dtbo.
+Installing new pitft28-capacitive.dtbo.
+Taking backup of spi1-2cs.dtbo.
+Installing new spi1-2cs.dtbo.
+Taking backup of fe-pi-audio.dtbo.
+Installing new fe-pi-audio.dtbo.
+Taking backup of i2c-bcm2708.dtbo.
+Installing new i2c-bcm2708.dtbo.
+Taking backup of hd44780-lcd.dtbo.
+Installing new hd44780-lcd.dtbo.
+Taking backup of vc4-kms-v3d.dtbo.
+Installing new vc4-kms-v3d.dtbo.
+Taking backup of adau1977-adc.dtbo.
+Installing new adau1977-adc.dtbo.
+Taking backup of rra-digidac1-wm8741-audio.dtbo.
+Installing new rra-digidac1-wm8741-audio.dtbo.
+Taking backup of uart3.dtbo.
+Installing new uart3.dtbo.
+Taking backup of mpu6050.dtbo.
+Installing new mpu6050.dtbo.
+Taking backup of hifiberry-digi-pro.dtbo.
+Installing new hifiberry-digi-pro.dtbo.
+Taking backup of rpi-tv.dtbo.
+Installing new rpi-tv.dtbo.
+Taking backup of midi-uart0.dtbo.
+Installing new midi-uart0.dtbo.
+Taking backup of mcp2515-can0.dtbo.
+Installing new mcp2515-can0.dtbo.
+Taking backup of gpio-ir-tx.dtbo.
+Installing new gpio-ir-tx.dtbo.
+Taking backup of adv728x-m.dtbo.
+Installing new adv728x-m.dtbo.
+Taking backup of dpi18.dtbo.
+Installing new dpi18.dtbo.
+Taking backup of enc28j60.dtbo.
+Installing new enc28j60.dtbo.
+Taking backup of audiosense-pi.dtbo.
+Installing new audiosense-pi.dtbo.
+Taking backup of mcp3008.dtbo.
+Installing new mcp3008.dtbo.
+Taking backup of iqaudio-dac.dtbo.
+Installing new iqaudio-dac.dtbo.
+Taking backup of ads1115.dtbo.
+Installing new ads1115.dtbo.
+Taking backup of vc4-fkms-v3d.dtbo.
+Installing new vc4-fkms-v3d.dtbo.
+Taking backup of rpi-sense.dtbo.
+Installing new rpi-sense.dtbo.
+Taking backup of allo-boss-dac-pcm512x-audio.dtbo.
+Installing new allo-boss-dac-pcm512x-audio.dtbo.
+Taking backup of i2c4.dtbo.
+Installing new i2c4.dtbo.
+Taking backup of ssd1306.dtbo.
+Installing new ssd1306.dtbo.
+Taking backup of iqaudio-codec.dtbo.
+Installing new iqaudio-codec.dtbo.
+Taking backup of rpi-proto.dtbo.
+Installing new rpi-proto.dtbo.
+Taking backup of mmc.dtbo.
+Installing new mmc.dtbo.
+Taking backup of w1-gpio-pullup.dtbo.
+Installing new w1-gpio-pullup.dtbo.
+Taking backup of ads1015.dtbo.
+Installing new ads1015.dtbo.
+Taking backup of max98357a.dtbo.
+Installing new max98357a.dtbo.
+Taking backup of spi5-1cs.dtbo.
+Installing new spi5-1cs.dtbo.
+Taking backup of mz61581.dtbo.
+Installing new mz61581.dtbo.
+Taking backup of iqaudio-dacplus.dtbo.
+Installing new iqaudio-dacplus.dtbo.
+Taking backup of hifiberry-dac.dtbo.
+Installing new hifiberry-dac.dtbo.
+Taking backup of spi-rtc.dtbo.
+Installing new spi-rtc.dtbo.
+Taking backup of spi2-1cs.dtbo.
+Installing new spi2-1cs.dtbo.
+Log ended: 2020-07-02  06:37:01
+
+Log started: 2020-07-02  06:37:16
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libapt-pkg5.0_1.6.12ubuntu0.1_armhf.deb ...
+Unpacking libapt-pkg5.0:armhf (1.6.12ubuntu0.1) over (1.6.12) ...
+Setting up libapt-pkg5.0:armhf (1.6.12ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../apt_1.6.12ubuntu0.1_armhf.deb ...
+Unpacking apt (1.6.12ubuntu0.1) over (1.6.12) ...
+Setting up apt (1.6.12ubuntu0.1) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../apt-utils_1.6.12ubuntu0.1_armhf.deb ...
+Unpacking apt-utils (1.6.12ubuntu0.1) over (1.6.12) ...
+Setting up apt-utils (1.6.12ubuntu0.1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:37:28
+
+Log started: 2020-07-02  06:37:42
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../file_1%3a5.32-2ubuntu0.4_armhf.deb ...
+Unpacking file (1:5.32-2ubuntu0.4) over (1:5.32-2ubuntu0.3) ...
+Preparing to unpack .../libmagic1_1%3a5.32-2ubuntu0.4_armhf.deb ...
+Unpacking libmagic1:armhf (1:5.32-2ubuntu0.4) over (1:5.32-2ubuntu0.3) ...
+Preparing to unpack .../libmagic-mgc_1%3a5.32-2ubuntu0.4_armhf.deb ...
+Unpacking libmagic-mgc (1:5.32-2ubuntu0.4) over (1:5.32-2ubuntu0.3) ...
+Setting up libmagic-mgc (1:5.32-2ubuntu0.4) ...
+Setting up libmagic1:armhf (1:5.32-2ubuntu0.4) ...
+Setting up file (1:5.32-2ubuntu0.4) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:37:44
+
+Log started: 2020-07-02  06:38:00
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../gcc-8-base_8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking gcc-8-base:armhf (8.4.0-1ubuntu1~18.04) over (8.3.0-6ubuntu1~18.04.1) ...
+Setting up gcc-8-base:armhf (8.4.0-1ubuntu1~18.04) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libstdc++6_8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking libstdc++6:armhf (8.4.0-1ubuntu1~18.04) over (8.3.0-6ubuntu1~18.04.1) ...
+Setting up libstdc++6:armhf (8.4.0-1ubuntu1~18.04) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libgcc1_1%3a8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking libgcc1:armhf (1:8.4.0-1ubuntu1~18.04) over (1:8.3.0-6ubuntu1~18.04.1) ...
+Setting up libgcc1:armhf (1:8.4.0-1ubuntu1~18.04) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:38:02
+
+Log started: 2020-07-02  06:38:16
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libbinutils_2.30-21ubuntu1~18.04.3_armhf.deb ...
+Unpacking libbinutils:armhf (2.30-21ubuntu1~18.04.3) over (2.30-21ubuntu1~18.04.2) ...
+Preparing to unpack .../binutils-common_2.30-21ubuntu1~18.04.3_armhf.deb ...
+Unpacking binutils-common:armhf (2.30-21ubuntu1~18.04.3) over (2.30-21ubuntu1~18.04.2) ...
+Preparing to unpack .../binutils_2.30-21ubuntu1~18.04.3_armhf.deb ...
+Unpacking binutils (2.30-21ubuntu1~18.04.3) over (2.30-21ubuntu1~18.04.2) ...
+Preparing to unpack .../binutils-arm-linux-gnueabihf_2.30-21ubuntu1~18.04.3_armhf.deb ...
+Unpacking binutils-arm-linux-gnueabihf (2.30-21ubuntu1~18.04.3) over (2.30-21ubuntu1~18.04.2) ...
+Setting up binutils-common:armhf (2.30-21ubuntu1~18.04.3) ...
+Setting up libbinutils:armhf (2.30-21ubuntu1~18.04.3) ...
+Setting up binutils-arm-linux-gnueabihf (2.30-21ubuntu1~18.04.3) ...
+Setting up binutils (2.30-21ubuntu1~18.04.3) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:38:20
+
+Log started: 2020-07-02  06:38:35
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libnss-systemd_237-3ubuntu10.38_armhf.deb ...
+Unpacking libnss-systemd:armhf (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Preparing to unpack .../libpam-systemd_237-3ubuntu10.38_armhf.deb ...
+Unpacking libpam-systemd:armhf (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Preparing to unpack .../systemd_237-3ubuntu10.38_armhf.deb ...
+Unpacking systemd (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Preparing to unpack .../libsystemd0_237-3ubuntu10.38_armhf.deb ...
+Unpacking libsystemd0:armhf (237-3ubuntu10.38) over (237-3ubuntu10.33) ...
+Setting up libsystemd0:armhf (237-3ubuntu10.38) ...
+Setting up systemd (237-3ubuntu10.38) ...
+Setting up libnss-systemd:armhf (237-3ubuntu10.38) ...
+Setting up libpam-systemd:armhf (237-3ubuntu10.38) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for dbus (1.12.2-1ubuntu1.2) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-02  06:38:48
+
+Log started: 2020-07-02  06:39:02
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../vim_2%3a8.0.1453-1ubuntu1.3_armhf.deb ...
+Unpacking vim (2:8.0.1453-1ubuntu1.3) over (2:8.0.1453-1ubuntu1.1) ...
+Preparing to unpack .../vim-tiny_2%3a8.0.1453-1ubuntu1.3_armhf.deb ...
+Unpacking vim-tiny (2:8.0.1453-1ubuntu1.3) over (2:8.0.1453-1ubuntu1.1) ...
+Preparing to unpack .../vim-runtime_2%3a8.0.1453-1ubuntu1.3_all.deb ...
+Unpacking vim-runtime (2:8.0.1453-1ubuntu1.3) over (2:8.0.1453-1ubuntu1.1) ...
+Preparing to unpack .../vim-common_2%3a8.0.1453-1ubuntu1.3_all.deb ...
+Unpacking vim-common (2:8.0.1453-1ubuntu1.3) over (2:8.0.1453-1ubuntu1.1) ...
+Setting up vim-common (2:8.0.1453-1ubuntu1.3) ...
+Setting up vim-runtime (2:8.0.1453-1ubuntu1.3) ...
+Setting up vim-tiny (2:8.0.1453-1ubuntu1.3) ...
+Setting up vim (2:8.0.1453-1ubuntu1.3) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-02  06:39:12
+
+Log started: 2020-07-02  06:39:27
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../libpython3.6_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython3.6:armhf (3.6.9-1~18.04ubuntu1) over (3.6.9-1~18.04) ...
+Preparing to unpack .../python3.6_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking python3.6 (3.6.9-1~18.04ubuntu1) over (3.6.9-1~18.04) ...
+Preparing to unpack .../libpython3.6-stdlib_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1) over (3.6.9-1~18.04) ...
+Preparing to unpack .../python3.6-minimal_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking python3.6-minimal (3.6.9-1~18.04ubuntu1) over (3.6.9-1~18.04) ...
+Preparing to unpack .../libpython3.6-minimal_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1) over (3.6.9-1~18.04) ...
+Setting up libpython3.6-minimal:armhf (3.6.9-1~18.04ubuntu1) ...
+Setting up libpython3.6-stdlib:armhf (3.6.9-1~18.04ubuntu1) ...
+Setting up python3.6-minimal (3.6.9-1~18.04ubuntu1) ...
+Setting up libpython3.6:armhf (3.6.9-1~18.04ubuntu1) ...
+Setting up python3.6 (3.6.9-1~18.04ubuntu1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Log ended: 2020-07-02  06:39:40
+
+Log started: 2020-07-02  06:39:55
+Selecting previously unselected package linux-raspi2-5.3-headers-5.3.0-1027.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 63707 files and directories currently installed.)
+Preparing to unpack .../0-linux-raspi2-5.3-headers-5.3.0-1027_5.3.0-1027.29~18.04.1_armhf.deb ...
+Unpacking linux-raspi2-5.3-headers-5.3.0-1027 (5.3.0-1027.29~18.04.1) ...
+Selecting previously unselected package linux-headers-5.3.0-1027-raspi2.
+Preparing to unpack .../1-linux-headers-5.3.0-1027-raspi2_5.3.0-1027.29~18.04.1_armhf.deb ...
+Unpacking linux-headers-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+Selecting previously unselected package linux-modules-5.3.0-1027-raspi2.
+Preparing to unpack .../2-linux-modules-5.3.0-1027-raspi2_5.3.0-1027.29~18.04.1_armhf.deb ...
+Unpacking linux-modules-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+Selecting previously unselected package linux-image-5.3.0-1027-raspi2.
+Preparing to unpack .../3-linux-image-5.3.0-1027-raspi2_5.3.0-1027.29~18.04.1_armhf.deb ...
+Unpacking linux-image-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+Preparing to unpack .../4-linux-raspi2-hwe-18.04_5.3.0.1027.16_armhf.deb ...
+Unpacking linux-raspi2-hwe-18.04 (5.3.0.1027.16) over (5.3.0.1017.6) ...
+Preparing to unpack .../5-linux-image-raspi2-hwe-18.04_5.3.0.1027.16_armhf.deb ...
+Unpacking linux-image-raspi2-hwe-18.04 (5.3.0.1027.16) over (5.3.0.1017.6) ...
+Preparing to unpack .../6-linux-headers-raspi2-hwe-18.04_5.3.0.1027.16_armhf.deb ...
+Unpacking linux-headers-raspi2-hwe-18.04 (5.3.0.1027.16) over (5.3.0.1017.6) ...
+Setting up linux-raspi2-5.3-headers-5.3.0-1027 (5.3.0-1027.29~18.04.1) ...
+Setting up linux-modules-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+Setting up linux-headers-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+Setting up linux-image-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+I: /boot/vmlinuz is now a symlink to vmlinuz-5.3.0-1027-raspi2
+I: /boot/initrd.img is now a symlink to initrd.img-5.3.0-1027-raspi2
+Setting up linux-headers-raspi2-hwe-18.04 (5.3.0.1027.16) ...
+Setting up linux-image-raspi2-hwe-18.04 (5.3.0.1027.16) ...
+Setting up linux-raspi2-hwe-18.04 (5.3.0.1027.16) ...
+Processing triggers for linux-image-5.3.0-1027-raspi2 (5.3.0-1027.29~18.04.1) ...
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-5.3.0-1027-raspi2
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: deferring update (trigger activated)
+/etc/kernel/postinst.d/zz-flash-kernel:
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: deferring update (trigger activated)
+Processing triggers for flash-kernel (3.98ubuntu11~18.04.1) ...
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: installing version 5.3.0-1027-raspi2
+Taking backup of vmlinuz.
+Installing new vmlinuz.
+Taking backup of initrd.img.
+Installing new initrd.img.
+Generating boot script u-boot image... done.
+Taking backup of boot.scr.
+Installing new boot.scr.
+Taking backup of bcm2710-rpi-3-b.dtb.
+Installing new bcm2710-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-b-rev2.dtb.
+Installing new bcm2835-rpi-b-rev2.dtb.
+Taking backup of bcm2835-rpi-a.dtb.
+Installing new bcm2835-rpi-a.dtb.
+Taking backup of bcm2710-rpi-cm3.dtb.
+Installing new bcm2710-rpi-cm3.dtb.
+Taking backup of bcm2835-rpi-b-plus.dtb.
+Installing new bcm2835-rpi-b-plus.dtb.
+Taking backup of bcm2838-rpi-4-b.dtb.
+Installing new bcm2838-rpi-4-b.dtb.
+Taking backup of bcm2837-rpi-3-b-plus.dtb.
+Installing new bcm2837-rpi-3-b-plus.dtb.
+Taking backup of bcm2835-rpi-zero-w.dtb.
+Installing new bcm2835-rpi-zero-w.dtb.
+Taking backup of bcm2837-rpi-cm3-io3.dtb.
+Installing new bcm2837-rpi-cm3-io3.dtb.
+Taking backup of bcm2837-rpi-3-a-plus.dtb.
+Installing new bcm2837-rpi-3-a-plus.dtb.
+Taking backup of bcm2708-rpi-zero.dtb.
+Installing new bcm2708-rpi-zero.dtb.
+Taking backup of bcm2837-rpi-3-b.dtb.
+Installing new bcm2837-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-a-plus.dtb.
+Installing new bcm2835-rpi-a-plus.dtb.
+Taking backup of bcm2709-rpi-2-b.dtb.
+Installing new bcm2709-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-zero.dtb.
+Installing new bcm2835-rpi-zero.dtb.
+Taking backup of bcm2711-rpi-4-b.dtb.
+Installing new bcm2711-rpi-4-b.dtb.
+Taking backup of bcm2835-rpi-b.dtb.
+Installing new bcm2835-rpi-b.dtb.
+Taking backup of bcm2708-rpi-zero-w.dtb.
+Installing new bcm2708-rpi-zero-w.dtb.
+Taking backup of bcm2708-rpi-b.dtb.
+Installing new bcm2708-rpi-b.dtb.
+Taking backup of bcm2710-rpi-2-b.dtb.
+Installing new bcm2710-rpi-2-b.dtb.
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Taking backup of bcm2708-rpi-cm.dtb.
+Installing new bcm2708-rpi-cm.dtb.
+Taking backup of bcm2836-rpi-2-b.dtb.
+Installing new bcm2836-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-cm1-io1.dtb.
+Installing new bcm2835-rpi-cm1-io1.dtb.
+Taking backup of bcm2708-rpi-b-plus.dtb.
+Installing new bcm2708-rpi-b-plus.dtb.
+Taking backup of i-sabre-q2m.dtbo.
+Installing new i-sabre-q2m.dtbo.
+Taking backup of jedec-spi-nor.dtbo.
+Installing new jedec-spi-nor.dtbo.
+Taking backup of ov5647.dtbo.
+Installing new ov5647.dtbo.
+Taking backup of ads7846.dtbo.
+Installing new ads7846.dtbo.
+Taking backup of dwc-otg.dtbo.
+Installing new dwc-otg.dtbo.
+Taking backup of pitft22.dtbo.
+Installing new pitft22.dtbo.
+Taking backup of uart2.dtbo.
+Installing new uart2.dtbo.
+Taking backup of spi2-3cs.dtbo.
+Installing new spi2-3cs.dtbo.
+Taking backup of media-center.dtbo.
+Installing new media-center.dtbo.
+Taking backup of spi5-2cs.dtbo.
+Installing new spi5-2cs.dtbo.
+Taking backup of i2c-mux.dtbo.
+Installing new i2c-mux.dtbo.
+Taking backup of adv7282m.dtbo.
+Installing new adv7282m.dtbo.
+Taking backup of rpi-cirrus-wm5102.dtbo.
+Installing new rpi-cirrus-wm5102.dtbo.
+Taking backup of spi2-2cs.dtbo.
+Installing new spi2-2cs.dtbo.
+Taking backup of bmp085_i2c-sensor.dtbo.
+Installing new bmp085_i2c-sensor.dtbo.
+Taking backup of dionaudio-loco-v2.dtbo.
+Installing new dionaudio-loco-v2.dtbo.
+Taking backup of adau7002-simple.dtbo.
+Installing new adau7002-simple.dtbo.
+Taking backup of balena-fin.dtbo.
+Installing new balena-fin.dtbo.
+Taking backup of pps-gpio.dtbo.
+Installing new pps-gpio.dtbo.
+Taking backup of vga666.dtbo.
+Installing new vga666.dtbo.
+Taking backup of i2c3.dtbo.
+Installing new i2c3.dtbo.
+Taking backup of dpi24.dtbo.
+Installing new dpi24.dtbo.
+Taking backup of piscreen.dtbo.
+Installing new piscreen.dtbo.
+Taking backup of sc16is752-i2c.dtbo.
+Installing new sc16is752-i2c.dtbo.
+Taking backup of sdtweak.dtbo.
+Installing new sdtweak.dtbo.
+Taking backup of udrc.dtbo.
+Installing new udrc.dtbo.
+Taking backup of gpio-no-irq.dtbo.
+Installing new gpio-no-irq.dtbo.
+Taking backup of goodix.dtbo.
+Installing new goodix.dtbo.
+Taking backup of mcp342x.dtbo.
+Installing new mcp342x.dtbo.
+Taking backup of piglow.dtbo.
+Installing new piglow.dtbo.
+Taking backup of pibell.dtbo.
+Installing new pibell.dtbo.
+Taking backup of allo-katana-dac-audio.dtbo.
+Installing new allo-katana-dac-audio.dtbo.
+Taking backup of audremap.dtbo.
+Installing new audremap.dtbo.
+Taking backup of i2c0-bcm2708.dtbo.
+Installing new i2c0-bcm2708.dtbo.
+Taking backup of draws.dtbo.
+Installing new draws.dtbo.
+Taking backup of allo-piano-dac-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-pcm512x-audio.dtbo.
+Taking backup of i2c-gpio.dtbo.
+Installing new i2c-gpio.dtbo.
+Taking backup of gpio-key.dtbo.
+Installing new gpio-key.dtbo.
+Taking backup of imx219.dtbo.
+Installing new imx219.dtbo.
+Taking backup of rpi-ft5406.dtbo.
+Installing new rpi-ft5406.dtbo.
+Taking backup of disable-bt.dtbo.
+Installing new disable-bt.dtbo.
+Taking backup of pitft35-resistive.dtbo.
+Installing new pitft35-resistive.dtbo.
+Taking backup of hifiberry-digi.dtbo.
+Installing new hifiberry-digi.dtbo.
+Taking backup of uart1.dtbo.
+Installing new uart1.dtbo.
+Taking backup of spi0-hw-cs.dtbo.
+Installing new spi0-hw-cs.dtbo.
+Taking backup of i2c-rtc.dtbo.
+Installing new i2c-rtc.dtbo.
+Taking backup of at86rf233.dtbo.
+Installing new at86rf233.dtbo.
+Taking backup of rpi-display.dtbo.
+Installing new rpi-display.dtbo.
+Taking backup of exc3000.dtbo.
+Installing new exc3000.dtbo.
+Taking backup of hy28b.dtbo.
+Installing new hy28b.dtbo.
+Taking backup of iqaudio-digi-wm8804-audio.dtbo.
+Installing new iqaudio-digi-wm8804-audio.dtbo.
+Taking backup of papirus.dtbo.
+Installing new papirus.dtbo.
+Taking backup of googlevoicehat-soundcard.dtbo.
+Installing new googlevoicehat-soundcard.dtbo.
+Taking backup of gpio-shutdown.dtbo.
+Installing new gpio-shutdown.dtbo.
+Taking backup of pi3-act-led.dtbo.
+Installing new pi3-act-led.dtbo.
+Taking backup of spi-gpio40-45.dtbo.
+Installing new spi-gpio40-45.dtbo.
+Taking backup of vc4-kms-kippah-7inch.dtbo.
+Installing new vc4-kms-kippah-7inch.dtbo.
+Taking backup of akkordion-iqdacplus.dtbo.
+Installing new akkordion-iqdacplus.dtbo.
+Taking backup of mcp3202.dtbo.
+Installing new mcp3202.dtbo.
+Taking backup of i2c1-bcm2708.dtbo.
+Installing new i2c1-bcm2708.dtbo.
+Taking backup of mbed-dac.dtbo.
+Installing new mbed-dac.dtbo.
+Taking backup of spi6-2cs.dtbo.
+Installing new spi6-2cs.dtbo.
+Taking backup of spi3-2cs.dtbo.
+Installing new spi3-2cs.dtbo.
+Taking backup of tpm-slb9670.dtbo.
+Installing new tpm-slb9670.dtbo.
+Taking backup of sdhost.dtbo.
+Installing new sdhost.dtbo.
+Taking backup of spi6-1cs.dtbo.
+Installing new spi6-1cs.dtbo.
+Taking backup of hifiberry-dacplusadc.dtbo.
+Installing new hifiberry-dacplusadc.dtbo.
+Taking backup of spi3-1cs.dtbo.
+Installing new spi3-1cs.dtbo.
+Taking backup of smi-nand.dtbo.
+Installing new smi-nand.dtbo.
+Taking backup of pisound.dtbo.
+Installing new pisound.dtbo.
+Taking backup of pitft28-resistive.dtbo.
+Installing new pitft28-resistive.dtbo.
+Taking backup of justboom-digi.dtbo.
+Installing new justboom-digi.dtbo.
+Taking backup of dwc2.dtbo.
+Installing new dwc2.dtbo.
+Taking backup of uart5.dtbo.
+Installing new uart5.dtbo.
+Taking backup of ltc294x.dtbo.
+Installing new ltc294x.dtbo.
+Taking backup of gpio-ir.dtbo.
+Installing new gpio-ir.dtbo.
+Taking backup of hifiberry-dacplusadcpro.dtbo.
+Installing new hifiberry-dacplusadcpro.dtbo.
+Taking backup of sc16is750-i2c.dtbo.
+Installing new sc16is750-i2c.dtbo.
+Taking backup of uart0.dtbo.
+Installing new uart0.dtbo.
+Taking backup of tc358743.dtbo.
+Installing new tc358743.dtbo.
+Taking backup of disable-wifi.dtbo.
+Installing new disable-wifi.dtbo.
+Taking backup of pwm.dtbo.
+Installing new pwm.dtbo.
+Taking backup of sdio.dtbo.
+Installing new sdio.dtbo.
+Taking backup of allo-piano-dac-plus-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-plus-pcm512x-audio.dtbo.
+Taking backup of applepi-dac.dtbo.
+Installing new applepi-dac.dtbo.
+Taking backup of mcp23s17.dtbo.
+Installing new mcp23s17.dtbo.
+Taking backup of rotary-encoder.dtbo.
+Installing new rotary-encoder.dtbo.
+Taking backup of hy28a.dtbo.
+Installing new hy28a.dtbo.
+Taking backup of hifiberry-dacplusdsp.dtbo.
+Installing new hifiberry-dacplusdsp.dtbo.
+Taking backup of i2c-pwm-pca9685a.dtbo.
+Installing new i2c-pwm-pca9685a.dtbo.
+Taking backup of audioinjector-ultra.dtbo.
+Installing new audioinjector-ultra.dtbo.
+Taking backup of i2c6.dtbo.
+Installing new i2c6.dtbo.
+Taking backup of enc28j60-spi2.dtbo.
+Installing new enc28j60-spi2.dtbo.
+Taking backup of spi-gpio35-39.dtbo.
+Installing new spi-gpio35-39.dtbo.
+Taking backup of pi3-disable-bt.dtbo.
+Installing new pi3-disable-bt.dtbo.
+Taking backup of i2c1.dtbo.
+Installing new i2c1.dtbo.
+Taking backup of smi-dev.dtbo.
+Installing new smi-dev.dtbo.
+Taking backup of justboom-dac.dtbo.
+Installing new justboom-dac.dtbo.
+Taking backup of superaudioboard.dtbo.
+Installing new superaudioboard.dtbo.
+Taking backup of tinylcd35.dtbo.
+Installing new tinylcd35.dtbo.
+Taking backup of mcp23017.dtbo.
+Installing new mcp23017.dtbo.
+Taking backup of rpi-dac.dtbo.
+Installing new rpi-dac.dtbo.
+Taking backup of sx150x.dtbo.
+Installing new sx150x.dtbo.
+Taking backup of hifiberry-amp.dtbo.
+Installing new hifiberry-amp.dtbo.
+Taking backup of sc16is752-spi1.dtbo.
+Installing new sc16is752-spi1.dtbo.
+Taking backup of tc358743-audio.dtbo.
+Installing new tc358743-audio.dtbo.
+Taking backup of gpio-poweroff.dtbo.
+Installing new gpio-poweroff.dtbo.
+Taking backup of piscreen2r.dtbo.
+Installing new piscreen2r.dtbo.
+Taking backup of spi0-cs.dtbo.
+Installing new spi0-cs.dtbo.
+Taking backup of ilitek251x.dtbo.
+Installing new ilitek251x.dtbo.
+Taking backup of dionaudio-loco.dtbo.
+Installing new dionaudio-loco.dtbo.
+Taking backup of allo-digione.dtbo.
+Installing new allo-digione.dtbo.
+Taking backup of hy28b-2017.dtbo.
+Installing new hy28b-2017.dtbo.
+Taking backup of i2c-rtc-gpio.dtbo.
+Installing new i2c-rtc-gpio.dtbo.
+Taking backup of qca7000.dtbo.
+Installing new qca7000.dtbo.
+Taking backup of gpio-fan.dtbo.
+Installing new gpio-fan.dtbo.
+Taking backup of miniuart-bt.dtbo.
+Installing new miniuart-bt.dtbo.
+Taking backup of uart4.dtbo.
+Installing new uart4.dtbo.
+Taking backup of spi4-2cs.dtbo.
+Installing new spi4-2cs.dtbo.
+Taking backup of pwm-2chan.dtbo.
+Installing new pwm-2chan.dtbo.
+Taking backup of smi.dtbo.
+Installing new smi.dtbo.
+Taking backup of act-led.dtbo.
+Installing new act-led.dtbo.
+Taking backup of pi3-disable-wifi.dtbo.
+Installing new pi3-disable-wifi.dtbo.
+Taking backup of midi-uart1.dtbo.
+Installing new midi-uart1.dtbo.
+Taking backup of mcp2515-can1.dtbo.
+Installing new mcp2515-can1.dtbo.
+Taking backup of spi4-1cs.dtbo.
+Installing new spi4-1cs.dtbo.
+Taking backup of i2c-sensor.dtbo.
+Installing new i2c-sensor.dtbo.
+Taking backup of upstream.dtbo.
+Installing new upstream.dtbo.
+Taking backup of spi1-1cs.dtbo.
+Installing new spi1-1cs.dtbo.
+Taking backup of rpi-poe.dtbo.
+Installing new rpi-poe.dtbo.
+Taking backup of rpi-backlight.dtbo.
+Installing new rpi-backlight.dtbo.
+Taking backup of pwm-ir-tx.dtbo.
+Installing new pwm-ir-tx.dtbo.
+Taking backup of i2c5.dtbo.
+Installing new i2c5.dtbo.
+Taking backup of dht11.dtbo.
+Installing new dht11.dtbo.
+Taking backup of hifiberry-dacplus.dtbo.
+Installing new hifiberry-dacplus.dtbo.
+Taking backup of pi3-miniuart-bt.dtbo.
+Installing new pi3-miniuart-bt.dtbo.
+Taking backup of gpio-no-bank0-irq.dtbo.
+Installing new gpio-no-bank0-irq.dtbo.
+Taking backup of w1-gpio.dtbo.
+Installing new w1-gpio.dtbo.
+Taking backup of wittypi.dtbo.
+Installing new wittypi.dtbo.
+Taking backup of i2c0.dtbo.
+Installing new i2c0.dtbo.
+Taking backup of i2s-gpio28-31.dtbo.
+Installing new i2s-gpio28-31.dtbo.
+Taking backup of spi1-3cs.dtbo.
+Installing new spi1-3cs.dtbo.
+Taking backup of audioinjector-addons.dtbo.
+Installing new audioinjector-addons.dtbo.
+Taking backup of pitft28-capacitive.dtbo.
+Installing new pitft28-capacitive.dtbo.
+Taking backup of audioinjector-wm8731-audio.dtbo.
+Installing new audioinjector-wm8731-audio.dtbo.
+Taking backup of spi1-2cs.dtbo.
+Installing new spi1-2cs.dtbo.
+Taking backup of i2c-bcm2708.dtbo.
+Installing new i2c-bcm2708.dtbo.
+Taking backup of fe-pi-audio.dtbo.
+Installing new fe-pi-audio.dtbo.
+Taking backup of vc4-kms-v3d.dtbo.
+Installing new vc4-kms-v3d.dtbo.
+Taking backup of hd44780-lcd.dtbo.
+Installing new hd44780-lcd.dtbo.
+Taking backup of adau1977-adc.dtbo.
+Installing new adau1977-adc.dtbo.
+Taking backup of rra-digidac1-wm8741-audio.dtbo.
+Installing new rra-digidac1-wm8741-audio.dtbo.
+Taking backup of mpu6050.dtbo.
+Installing new mpu6050.dtbo.
+Taking backup of uart3.dtbo.
+Installing new uart3.dtbo.
+Taking backup of hifiberry-digi-pro.dtbo.
+Installing new hifiberry-digi-pro.dtbo.
+Taking backup of midi-uart0.dtbo.
+Installing new midi-uart0.dtbo.
+Taking backup of rpi-tv.dtbo.
+Installing new rpi-tv.dtbo.
+Taking backup of mcp2515-can0.dtbo.
+Installing new mcp2515-can0.dtbo.
+Taking backup of gpio-ir-tx.dtbo.
+Installing new gpio-ir-tx.dtbo.
+Taking backup of dpi18.dtbo.
+Installing new dpi18.dtbo.
+Taking backup of adv728x-m.dtbo.
+Installing new adv728x-m.dtbo.
+Taking backup of enc28j60.dtbo.
+Installing new enc28j60.dtbo.
+Taking backup of audiosense-pi.dtbo.
+Installing new audiosense-pi.dtbo.
+Taking backup of mcp3008.dtbo.
+Installing new mcp3008.dtbo.
+Taking backup of vc4-fkms-v3d.dtbo.
+Installing new vc4-fkms-v3d.dtbo.
+Taking backup of iqaudio-dac.dtbo.
+Installing new iqaudio-dac.dtbo.
+Taking backup of ads1115.dtbo.
+Installing new ads1115.dtbo.
+Taking backup of rpi-sense.dtbo.
+Installing new rpi-sense.dtbo.
+Taking backup of ssd1306.dtbo.
+Installing new ssd1306.dtbo.
+Taking backup of allo-boss-dac-pcm512x-audio.dtbo.
+Installing new allo-boss-dac-pcm512x-audio.dtbo.
+Taking backup of i2c4.dtbo.
+Installing new i2c4.dtbo.
+Taking backup of iqaudio-codec.dtbo.
+Installing new iqaudio-codec.dtbo.
+Taking backup of rpi-proto.dtbo.
+Installing new rpi-proto.dtbo.
+Taking backup of mmc.dtbo.
+Installing new mmc.dtbo.
+Taking backup of w1-gpio-pullup.dtbo.
+Installing new w1-gpio-pullup.dtbo.
+Taking backup of ads1015.dtbo.
+Installing new ads1015.dtbo.
+Taking backup of max98357a.dtbo.
+Installing new max98357a.dtbo.
+Taking backup of spi5-1cs.dtbo.
+Installing new spi5-1cs.dtbo.
+Taking backup of iqaudio-dacplus.dtbo.
+Installing new iqaudio-dacplus.dtbo.
+Taking backup of mz61581.dtbo.
+Installing new mz61581.dtbo.
+Taking backup of hifiberry-dac.dtbo.
+Installing new hifiberry-dac.dtbo.
+Taking backup of spi-rtc.dtbo.
+Installing new spi-rtc.dtbo.
+Taking backup of spi2-1cs.dtbo.
+Installing new spi2-1cs.dtbo.
+Log ended: 2020-07-02  06:41:58
+
+Log started: 2020-07-02  06:42:18
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 96331 files and directories currently installed.)
+Preparing to unpack .../0-libirs160_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libirs160:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../1-dnsutils_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking dnsutils (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../2-bind9-host_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking bind9-host (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../3-libbind9-160_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libbind9-160:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../4-libisccfg160_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libisccfg160:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../5-libisccc160_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libisccc160:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../6-libdns1100_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libdns1100:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../7-libisc169_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking libisc169:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Preparing to unpack .../8-liblwres160_1%3a9.11.3+dfsg-1ubuntu1.12_armhf.deb ...
+Unpacking liblwres160:armhf (1:9.11.3+dfsg-1ubuntu1.12) over (1:9.11.3+dfsg-1ubuntu1.11) ...
+Setting up libisc169:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libisccc160:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libdns1100:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up liblwres160:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libisccfg160:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libirs160:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up libbind9-160:armhf (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up bind9-host (1:9.11.3+dfsg-1ubuntu1.12) ...
+Setting up dnsutils (1:9.11.3+dfsg-1ubuntu1.12) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-02  06:42:24
+
+Log started: 2020-07-02  06:57:33
+Selecting previously unselected package apt-transport-https.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 96331 files and directories currently installed.)
+Preparing to unpack .../apt-transport-https_1.6.12ubuntu0.1_all.deb ...
+Unpacking apt-transport-https (1.6.12ubuntu0.1) ...
+Setting up apt-transport-https (1.6.12ubuntu0.1) ...
+Log ended: 2020-07-02  06:57:37
+
+Log started: 2020-07-02  07:04:20
+Selecting previously unselected package containerd.io.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 96335 files and directories currently installed.)
+Preparing to unpack .../containerd.io_1.2.13-2_armhf.deb ...
+Unpacking containerd.io (1.2.13-2) ...
+Selecting previously unselected package docker-ce-cli.
+Preparing to unpack .../docker-ce-cli_5%3a19.03.12~3-0~ubuntu-bionic_armhf.deb ...
+Unpacking docker-ce-cli (5:19.03.12~3-0~ubuntu-bionic) ...
+Selecting previously unselected package docker-ce.
+Preparing to unpack .../docker-ce_5%3a19.03.12~3-0~ubuntu-bionic_armhf.deb ...
+Unpacking docker-ce (5:19.03.12~3-0~ubuntu-bionic) ...
+Setting up containerd.io (1.2.13-2) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/containerd.service → /lib/systemd/system/containerd.service.
+Setting up docker-ce-cli (5:19.03.12~3-0~ubuntu-bionic) ...
+Setting up docker-ce (5:19.03.12~3-0~ubuntu-bionic) ...
+Created symlink /etc/systemd/system/multi-user.target.wants/docker.service → /lib/systemd/system/docker.service.
+Created symlink /etc/systemd/system/sockets.target.wants/docker.socket → /lib/systemd/system/docker.socket.
+Processing triggers for systemd (237-3ubuntu10.38) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+Log ended: 2020-07-02  07:05:04
+
+Log started: 2020-07-03  09:18:18
+Selecting previously unselected package libc-dev-bin.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 96565 files and directories currently installed.)
+Preparing to unpack .../00-libc-dev-bin_2.27-3ubuntu1_armhf.deb ...
+Unpacking libc-dev-bin (2.27-3ubuntu1) ...
+Selecting previously unselected package linux-libc-dev:armhf.
+Preparing to unpack .../01-linux-libc-dev_4.15.0-109.110_armhf.deb ...
+Unpacking linux-libc-dev:armhf (4.15.0-109.110) ...
+Selecting previously unselected package libc6-dev:armhf.
+Preparing to unpack .../02-libc6-dev_2.27-3ubuntu1_armhf.deb ...
+Unpacking libc6-dev:armhf (2.27-3ubuntu1) ...
+Selecting previously unselected package gcc-7-base:armhf.
+Preparing to unpack .../03-gcc-7-base_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking gcc-7-base:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package libisl19:armhf.
+Preparing to unpack .../04-libisl19_0.19-1_armhf.deb ...
+Unpacking libisl19:armhf (0.19-1) ...
+Selecting previously unselected package libmpc3:armhf.
+Preparing to unpack .../05-libmpc3_1.1.0-1_armhf.deb ...
+Unpacking libmpc3:armhf (1.1.0-1) ...
+Selecting previously unselected package cpp-7.
+Preparing to unpack .../06-cpp-7_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking cpp-7 (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package cpp.
+Preparing to unpack .../07-cpp_4%3a7.4.0-1ubuntu2.3_armhf.deb ...
+Unpacking cpp (4:7.4.0-1ubuntu2.3) ...
+Selecting previously unselected package libcc1-0:armhf.
+Preparing to unpack .../08-libcc1-0_8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking libcc1-0:armhf (8.4.0-1ubuntu1~18.04) ...
+Selecting previously unselected package libgomp1:armhf.
+Preparing to unpack .../09-libgomp1_8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking libgomp1:armhf (8.4.0-1ubuntu1~18.04) ...
+Selecting previously unselected package libatomic1:armhf.
+Preparing to unpack .../10-libatomic1_8.4.0-1ubuntu1~18.04_armhf.deb ...
+Unpacking libatomic1:armhf (8.4.0-1ubuntu1~18.04) ...
+Selecting previously unselected package libasan4:armhf.
+Preparing to unpack .../11-libasan4_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking libasan4:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package libubsan0:armhf.
+Preparing to unpack .../12-libubsan0_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking libubsan0:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package libcilkrts5:armhf.
+Preparing to unpack .../13-libcilkrts5_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking libcilkrts5:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package libgcc-7-dev:armhf.
+Preparing to unpack .../14-libgcc-7-dev_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking libgcc-7-dev:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package gcc-7.
+Preparing to unpack .../15-gcc-7_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking gcc-7 (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package gcc.
+Preparing to unpack .../16-gcc_4%3a7.4.0-1ubuntu2.3_armhf.deb ...
+Unpacking gcc (4:7.4.0-1ubuntu2.3) ...
+Selecting previously unselected package libstdc++-7-dev:armhf.
+Preparing to unpack .../17-libstdc++-7-dev_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking libstdc++-7-dev:armhf (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package g++-7.
+Preparing to unpack .../18-g++-7_7.5.0-3ubuntu1~18.04_armhf.deb ...
+Unpacking g++-7 (7.5.0-3ubuntu1~18.04) ...
+Selecting previously unselected package g++.
+Preparing to unpack .../19-g++_4%3a7.4.0-1ubuntu2.3_armhf.deb ...
+Unpacking g++ (4:7.4.0-1ubuntu2.3) ...
+Selecting previously unselected package make.
+Preparing to unpack .../20-make_4.1-9.1ubuntu1_armhf.deb ...
+Unpacking make (4.1-9.1ubuntu1) ...
+Selecting previously unselected package libdpkg-perl.
+Preparing to unpack .../21-libdpkg-perl_1.19.0.5ubuntu2.3_all.deb ...
+Unpacking libdpkg-perl (1.19.0.5ubuntu2.3) ...
+Selecting previously unselected package dpkg-dev.
+Preparing to unpack .../22-dpkg-dev_1.19.0.5ubuntu2.3_all.deb ...
+Unpacking dpkg-dev (1.19.0.5ubuntu2.3) ...
+Selecting previously unselected package build-essential.
+Preparing to unpack .../23-build-essential_12.4ubuntu1_armhf.deb ...
+Unpacking build-essential (12.4ubuntu1) ...
+Selecting previously unselected package python3-lib2to3.
+Preparing to unpack .../24-python3-lib2to3_3.6.9-1~18.04_all.deb ...
+Unpacking python3-lib2to3 (3.6.9-1~18.04) ...
+Selecting previously unselected package python3-distutils.
+Preparing to unpack .../25-python3-distutils_3.6.9-1~18.04_all.deb ...
+Unpacking python3-distutils (3.6.9-1~18.04) ...
+Selecting previously unselected package dh-python.
+Preparing to unpack .../26-dh-python_3.20180325ubuntu2_all.deb ...
+Unpacking dh-python (3.20180325ubuntu2) ...
+Selecting previously unselected package libfakeroot:armhf.
+Preparing to unpack .../27-libfakeroot_1.22-2ubuntu1_armhf.deb ...
+Unpacking libfakeroot:armhf (1.22-2ubuntu1) ...
+Selecting previously unselected package fakeroot.
+Preparing to unpack .../28-fakeroot_1.22-2ubuntu1_armhf.deb ...
+Unpacking fakeroot (1.22-2ubuntu1) ...
+Selecting previously unselected package libalgorithm-diff-perl.
+Preparing to unpack .../29-libalgorithm-diff-perl_1.19.03-1_all.deb ...
+Unpacking libalgorithm-diff-perl (1.19.03-1) ...
+Selecting previously unselected package libalgorithm-diff-xs-perl.
+Preparing to unpack .../30-libalgorithm-diff-xs-perl_0.04-5_armhf.deb ...
+Unpacking libalgorithm-diff-xs-perl (0.04-5) ...
+Selecting previously unselected package libalgorithm-merge-perl.
+Preparing to unpack .../31-libalgorithm-merge-perl_0.08-3_all.deb ...
+Unpacking libalgorithm-merge-perl (0.08-3) ...
+Selecting previously unselected package libexpat1-dev:armhf.
+Preparing to unpack .../32-libexpat1-dev_2.2.5-3ubuntu0.2_armhf.deb ...
+Unpacking libexpat1-dev:armhf (2.2.5-3ubuntu0.2) ...
+Selecting previously unselected package libfile-fcntllock-perl.
+Preparing to unpack .../33-libfile-fcntllock-perl_0.22-3build2_armhf.deb ...
+Unpacking libfile-fcntllock-perl (0.22-3build2) ...
+Selecting previously unselected package libpython3.6-dev:armhf.
+Preparing to unpack .../34-libpython3.6-dev_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython3.6-dev:armhf (3.6.9-1~18.04ubuntu1) ...
+Selecting previously unselected package libpython3-dev:armhf.
+Preparing to unpack .../35-libpython3-dev_3.6.7-1~18.04_armhf.deb ...
+Unpacking libpython3-dev:armhf (3.6.7-1~18.04) ...
+Selecting previously unselected package manpages-dev.
+Preparing to unpack .../36-manpages-dev_4.15-1_all.deb ...
+Unpacking manpages-dev (4.15-1) ...
+Selecting previously unselected package python-pip-whl.
+Preparing to unpack .../37-python-pip-whl_9.0.1-2.3~ubuntu1.18.04.1_all.deb ...
+Unpacking python-pip-whl (9.0.1-2.3~ubuntu1.18.04.1) ...
+Selecting previously unselected package python3-crypto.
+Preparing to unpack .../38-python3-crypto_2.6.1-8ubuntu2_armhf.deb ...
+Unpacking python3-crypto (2.6.1-8ubuntu2) ...
+Selecting previously unselected package python3.6-dev.
+Preparing to unpack .../39-python3.6-dev_3.6.9-1~18.04ubuntu1_armhf.deb ...
+Unpacking python3.6-dev (3.6.9-1~18.04ubuntu1) ...
+Selecting previously unselected package python3-dev.
+Preparing to unpack .../40-python3-dev_3.6.7-1~18.04_armhf.deb ...
+Unpacking python3-dev (3.6.7-1~18.04) ...
+Selecting previously unselected package python3-secretstorage.
+Preparing to unpack .../41-python3-secretstorage_2.3.1-2_all.deb ...
+Unpacking python3-secretstorage (2.3.1-2) ...
+Selecting previously unselected package python3-keyring.
+Preparing to unpack .../42-python3-keyring_10.6.0-1_all.deb ...
+Unpacking python3-keyring (10.6.0-1) ...
+Selecting previously unselected package python3-keyrings.alt.
+Preparing to unpack .../43-python3-keyrings.alt_3.0-1_all.deb ...
+Unpacking python3-keyrings.alt (3.0-1) ...
+Selecting previously unselected package python3-pip.
+Preparing to unpack .../44-python3-pip_9.0.1-2.3~ubuntu1.18.04.1_all.deb ...
+Unpacking python3-pip (9.0.1-2.3~ubuntu1.18.04.1) ...
+Selecting previously unselected package python3-setuptools.
+Preparing to unpack .../45-python3-setuptools_39.0.1-2_all.deb ...
+Unpacking python3-setuptools (39.0.1-2) ...
+Selecting previously unselected package python3-wheel.
+Preparing to unpack .../46-python3-wheel_0.30.0-0.2_all.deb ...
+Unpacking python3-wheel (0.30.0-0.2) ...
+Selecting previously unselected package python3-xdg.
+Preparing to unpack .../47-python3-xdg_0.25-4ubuntu1_all.deb ...
+Unpacking python3-xdg (0.25-4ubuntu1) ...
+Setting up libgomp1:armhf (8.4.0-1ubuntu1~18.04) ...
+Setting up libatomic1:armhf (8.4.0-1ubuntu1~18.04) ...
+Setting up python-pip-whl (9.0.1-2.3~ubuntu1.18.04.1) ...
+Setting up libcc1-0:armhf (8.4.0-1ubuntu1~18.04) ...
+Setting up make (4.1-9.1ubuntu1) ...
+Setting up python3-crypto (2.6.1-8ubuntu2) ...
+Setting up python3-xdg (0.25-4ubuntu1) ...
+Setting up python3-keyrings.alt (3.0-1) ...
+Setting up linux-libc-dev:armhf (4.15.0-109.110) ...
+Setting up libdpkg-perl (1.19.0.5ubuntu2.3) ...
+Setting up python3-wheel (0.30.0-0.2) ...
+Setting up gcc-7-base:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up libfile-fcntllock-perl (0.22-3build2) ...
+Setting up dpkg-dev (1.19.0.5ubuntu2.3) ...
+Setting up libfakeroot:armhf (1.22-2ubuntu1) ...
+Setting up libalgorithm-diff-perl (1.19.03-1) ...
+Setting up libmpc3:armhf (1.1.0-1) ...
+Setting up libc-dev-bin (2.27-3ubuntu1) ...
+Setting up python3-lib2to3 (3.6.9-1~18.04) ...
+Setting up python3-secretstorage (2.3.1-2) ...
+Setting up manpages-dev (4.15-1) ...
+Setting up libc6-dev:armhf (2.27-3ubuntu1) ...
+Setting up python3-distutils (3.6.9-1~18.04) ...
+Setting up libisl19:armhf (0.19-1) ...
+Setting up libasan4:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up python3-keyring (10.6.0-1) ...
+Setting up libcilkrts5:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up libubsan0:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up fakeroot (1.22-2ubuntu1) ...
+update-alternatives: using /usr/bin/fakeroot-sysv to provide /usr/bin/fakeroot (fakeroot) in auto mode
+Setting up libgcc-7-dev:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up cpp-7 (7.5.0-3ubuntu1~18.04) ...
+Setting up libstdc++-7-dev:armhf (7.5.0-3ubuntu1~18.04) ...
+Setting up libalgorithm-merge-perl (0.08-3) ...
+Setting up libalgorithm-diff-xs-perl (0.04-5) ...
+Setting up python3-pip (9.0.1-2.3~ubuntu1.18.04.1) ...
+Setting up libexpat1-dev:armhf (2.2.5-3ubuntu0.2) ...
+Setting up python3-setuptools (39.0.1-2) ...
+Setting up dh-python (3.20180325ubuntu2) ...
+Setting up cpp (4:7.4.0-1ubuntu2.3) ...
+Setting up gcc-7 (7.5.0-3ubuntu1~18.04) ...
+Setting up g++-7 (7.5.0-3ubuntu1~18.04) ...
+Setting up gcc (4:7.4.0-1ubuntu2.3) ...
+Setting up libpython3.6-dev:armhf (3.6.9-1~18.04ubuntu1) ...
+Setting up g++ (4:7.4.0-1ubuntu2.3) ...
+update-alternatives: using /usr/bin/g++ to provide /usr/bin/c++ (c++) in auto mode
+Setting up python3.6-dev (3.6.9-1~18.04ubuntu1) ...
+Setting up libpython3-dev:armhf (3.6.7-1~18.04) ...
+Setting up build-essential (12.4ubuntu1) ...
+Setting up python3-dev (3.6.7-1~18.04) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-03  09:19:34
+
+Log started: 2020-07-03  09:33:04
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../bsdutils_1%3a2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking bsdutils (1:2.31.1-0.4ubuntu3.6) over (1:2.31.1-0.4ubuntu3.5) ...
+Setting up bsdutils (1:2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libuuid1_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking libuuid1:armhf (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up libuuid1:armhf (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libblkid1_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking libblkid1:armhf (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up libblkid1:armhf (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libfdisk1_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking libfdisk1:armhf (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up libfdisk1:armhf (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libmount1_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking libmount1:armhf (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up libmount1:armhf (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libsmartcols1_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking libsmartcols1:armhf (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up libsmartcols1:armhf (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../fdisk_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking fdisk (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up fdisk (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../util-linux_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking util-linux (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Setting up util-linux (2.31.1-0.4ubuntu3.6) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libnss-systemd_237-3ubuntu10.41_armhf.deb ...
+Unpacking libnss-systemd:armhf (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Preparing to unpack .../libsystemd0_237-3ubuntu10.41_armhf.deb ...
+Unpacking libsystemd0:armhf (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Setting up libsystemd0:armhf (237-3ubuntu10.41) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../libpam-systemd_237-3ubuntu10.41_armhf.deb ...
+Unpacking libpam-systemd:armhf (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Preparing to unpack .../systemd_237-3ubuntu10.41_armhf.deb ...
+Unpacking systemd (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Preparing to unpack .../udev_237-3ubuntu10.41_armhf.deb ...
+Unpacking udev (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Preparing to unpack .../libudev1_237-3ubuntu10.41_armhf.deb ...
+Unpacking libudev1:armhf (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Setting up libudev1:armhf (237-3ubuntu10.41) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../kmod_24-1ubuntu3.4_armhf.deb ...
+Unpacking kmod (24-1ubuntu3.4) over (24-1ubuntu3.2) ...
+Preparing to unpack .../libkmod2_24-1ubuntu3.4_armhf.deb ...
+Unpacking libkmod2:armhf (24-1ubuntu3.4) over (24-1ubuntu3.2) ...
+Setting up libkmod2:armhf (24-1ubuntu3.4) ...
+Setting up systemd (237-3ubuntu10.41) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102767 files and directories currently installed.)
+Preparing to unpack .../systemd-sysv_237-3ubuntu10.41_armhf.deb ...
+Unpacking systemd-sysv (237-3ubuntu10.41) over (237-3ubuntu10.38) ...
+Preparing to unpack .../mount_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking mount (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Preparing to unpack .../uuid-runtime_2.31.1-0.4ubuntu3.6_armhf.deb ...
+Unpacking uuid-runtime (2.31.1-0.4ubuntu3.6) over (2.31.1-0.4ubuntu3.5) ...
+Preparing to unpack .../open-iscsi_2.0.874-5ubuntu2.10_armhf.deb ...
+Unpacking open-iscsi (2.0.874-5ubuntu2.10) over (2.0.874-5ubuntu2.7) ...
+Preparing to unpack .../libgnutls30_3.5.18-1ubuntu1.4_armhf.deb ...
+Unpacking libgnutls30:armhf (3.5.18-1ubuntu1.4) over (3.5.18-1ubuntu1.3) ...
+Setting up libgnutls30:armhf (3.5.18-1ubuntu1.4) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102769 files and directories currently installed.)
+Preparing to unpack .../00-distro-info-data_0.37ubuntu0.7_all.deb ...
+Unpacking distro-info-data (0.37ubuntu0.7) over (0.37ubuntu0.6) ...
+Preparing to unpack .../01-libdevmapper1.02.1_2%3a1.02.145-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking libdevmapper1.02.1:armhf (2:1.02.145-4.1ubuntu3.18.04.3) over (2:1.02.145-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../02-dmsetup_2%3a1.02.145-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking dmsetup (2:1.02.145-4.1ubuntu3.18.04.3) over (2:1.02.145-4.1ubuntu3.18.04.2) ...
+Selecting previously unselected package libnetplan0:armhf.
+Preparing to unpack .../03-libnetplan0_0.99-0ubuntu3~18.04.3_armhf.deb ...
+Unpacking libnetplan0:armhf (0.99-0ubuntu3~18.04.3) ...
+Preparing to unpack .../04-netplan.io_0.99-0ubuntu3~18.04.3_armhf.deb ...
+Unpacking netplan.io (0.99-0ubuntu3~18.04.3) over (0.98-0ubuntu1~18.04.1) ...
+Preparing to unpack .../05-nplan_0.99-0ubuntu3~18.04.3_all.deb ...
+Unpacking nplan (0.99-0ubuntu3~18.04.3) over (0.98-0ubuntu1~18.04.1) ...
+Preparing to unpack .../06-dmidecode_3.1-1ubuntu0.1_armhf.deb ...
+Unpacking dmidecode (3.1-1ubuntu0.1) over (3.1-1) ...
+Preparing to unpack .../07-libdrm-common_2.4.101-2~18.04.1_all.deb ...
+Unpacking libdrm-common (2.4.101-2~18.04.1) over (2.4.99-1ubuntu1~18.04.2) ...
+Preparing to unpack .../08-libdrm2_2.4.101-2~18.04.1_armhf.deb ...
+Unpacking libdrm2:armhf (2.4.101-2~18.04.1) over (2.4.99-1ubuntu1~18.04.2) ...
+Preparing to unpack .../09-libxau6_1%3a1.0.8-1ubuntu1_armhf.deb ...
+Unpacking libxau6:armhf (1:1.0.8-1ubuntu1) over (1:1.0.8-1) ...
+Preparing to unpack .../10-python-apt-common_1.6.5ubuntu0.3_all.deb ...
+Unpacking python-apt-common (1.6.5ubuntu0.3) over (1.6.5ubuntu0.2) ...
+Preparing to unpack .../11-python3-apt_1.6.5ubuntu0.3_armhf.deb ...
+Unpacking python3-apt (1.6.5ubuntu0.3) over (1.6.5ubuntu0.2) ...
+Preparing to unpack .../12-python3-update-manager_1%3a18.04.11.13_all.deb ...
+Unpacking python3-update-manager (1:18.04.11.13) over (1:18.04.11.10) ...
+Preparing to unpack .../13-update-manager-core_1%3a18.04.11.13_all.deb ...
+Unpacking update-manager-core (1:18.04.11.13) over (1:18.04.11.10) ...
+Preparing to unpack .../14-python3-problem-report_2.20.9-0ubuntu7.15_all.deb ...
+Unpacking python3-problem-report (2.20.9-0ubuntu7.15) over (2.20.9-0ubuntu7.14) ...
+Preparing to unpack .../15-python3-apport_2.20.9-0ubuntu7.15_all.deb ...
+Unpacking python3-apport (2.20.9-0ubuntu7.15) over (2.20.9-0ubuntu7.14) ...
+Preparing to unpack .../16-apport_2.20.9-0ubuntu7.15_all.deb ...
+Unpacking apport (2.20.9-0ubuntu7.15) over (2.20.9-0ubuntu7.14) ...
+Preparing to unpack .../17-libdevmapper-event1.02.1_2%3a1.02.145-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking libdevmapper-event1.02.1:armhf (2:1.02.145-4.1ubuntu3.18.04.3) over (2:1.02.145-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../18-liblvm2cmd2.02_2.02.176-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking liblvm2cmd2.02:armhf (2.02.176-4.1ubuntu3.18.04.3) over (2.02.176-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../19-dmeventd_2%3a1.02.145-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking dmeventd (2:1.02.145-4.1ubuntu3.18.04.3) over (2:1.02.145-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../20-landscape-common_18.01-0ubuntu3.5_armhf.deb ...
+Unpacking landscape-common (18.01-0ubuntu3.5) over (18.01-0ubuntu3.4) ...
+Preparing to unpack .../21-liblvm2app2.2_2.02.176-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking liblvm2app2.2:armhf (2.02.176-4.1ubuntu3.18.04.3) over (2.02.176-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../22-lvm2_2.02.176-4.1ubuntu3.18.04.3_armhf.deb ...
+Unpacking lvm2 (2.02.176-4.1ubuntu3.18.04.3) over (2.02.176-4.1ubuntu3.18.04.2) ...
+Preparing to unpack .../23-lxcfs_3.0.3-0ubuntu1~18.04.2_armhf.deb ...
+Unpacking lxcfs (3.0.3-0ubuntu1~18.04.2) over (3.0.3-0ubuntu1~18.04.1) ...
+Preparing to unpack .../24-software-properties-common_0.96.24.32.13_all.deb ...
+Unpacking software-properties-common (0.96.24.32.13) over (0.96.24.32.12) ...
+Preparing to unpack .../25-python3-software-properties_0.96.24.32.13_all.deb ...
+Unpacking python3-software-properties (0.96.24.32.13) over (0.96.24.32.12) ...
+Preparing to unpack .../26-sosreport_3.9-1ubuntu0.18.04.3_armhf.deb ...
+Unpacking sosreport (3.9-1ubuntu0.18.04.3) over (3.6-1ubuntu0.18.04.4) ...
+Preparing to unpack .../27-unattended-upgrades_1.1ubuntu1.18.04.14_all.deb ...
+Unpacking unattended-upgrades (1.1ubuntu1.18.04.14) over (1.1ubuntu1.18.04.13) ...
+Setting up python-apt-common (1.6.5ubuntu0.3) ...
+Setting up libnss-systemd:armhf (237-3ubuntu10.41) ...
+Setting up kmod (24-1ubuntu3.4) ...
+Installing new version of config file /etc/modprobe.d/blacklist-framebuffer.conf ...
+Setting up python3-apt (1.6.5ubuntu0.3) ...
+Setting up landscape-common (18.01-0ubuntu3.5) ...
+Setting up dmidecode (3.1-1ubuntu0.1) ...
+Setting up systemd-sysv (237-3ubuntu10.41) ...
+Setting up python3-update-manager (1:18.04.11.13) ...
+Setting up mount (2.31.1-0.4ubuntu3.6) ...
+Setting up distro-info-data (0.37ubuntu0.7) ...
+Setting up libdevmapper1.02.1:armhf (2:1.02.145-4.1ubuntu3.18.04.3) ...
+Setting up uuid-runtime (2.31.1-0.4ubuntu3.6) ...
+Setting up libdrm-common (2.4.101-2~18.04.1) ...
+Setting up libdevmapper-event1.02.1:armhf (2:1.02.145-4.1ubuntu3.18.04.3) ...
+Setting up python3-problem-report (2.20.9-0ubuntu7.15) ...
+Setting up udev (237-3ubuntu10.41) ...
+update-initramfs: deferring update (trigger activated)
+Setting up sosreport (3.9-1ubuntu0.18.04.3) ...
+Installing new version of config file /etc/sos.conf ...
+Setting up unattended-upgrades (1.1ubuntu1.18.04.14) ...
+Replacing config file /etc/apt/apt.conf.d/50unattended-upgrades with new version
+Setting up lxcfs (3.0.3-0ubuntu1~18.04.2) ...
+Setting up dmsetup (2:1.02.145-4.1ubuntu3.18.04.3) ...
+update-initramfs: deferring update (trigger activated)
+Setting up liblvm2app2.2:armhf (2.02.176-4.1ubuntu3.18.04.3) ...
+Setting up python3-software-properties (0.96.24.32.13) ...
+Setting up libnetplan0:armhf (0.99-0ubuntu3~18.04.3) ...
+Setting up libxau6:armhf (1:1.0.8-1ubuntu1) ...
+Setting up software-properties-common (0.96.24.32.13) ...
+Setting up update-manager-core (1:18.04.11.13) ...
+Setting up libpam-systemd:armhf (237-3ubuntu10.41) ...
+Setting up netplan.io (0.99-0ubuntu3~18.04.3) ...
+Setting up python3-apport (2.20.9-0ubuntu7.15) ...
+Setting up open-iscsi (2.0.874-5ubuntu2.10) ...
+Installing new version of config file /etc/iscsi/iscsid.conf ...
+Setting up libdrm2:armhf (2.4.101-2~18.04.1) ...
+Setting up nplan (0.99-0ubuntu3~18.04.3) ...
+Setting up apport (2.20.9-0ubuntu7.15) ...
+apport-autoreport.service is a disabled or a static unit, not starting it.
+Setting up liblvm2cmd2.02:armhf (2.02.176-4.1ubuntu3.18.04.3) ...
+Setting up dmeventd (2:1.02.145-4.1ubuntu3.18.04.3) ...
+dm-event.service is a disabled or a static unit not running, not starting it.
+Setting up lvm2 (2.02.176-4.1ubuntu3.18.04.3) ...
+update-initramfs: deferring update (trigger activated)
+Processing triggers for initramfs-tools (0.130ubuntu3.9) ...
+update-initramfs: Generating /boot/initrd.img-5.3.0-1027-raspi2
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1027-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1027-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: installing version 5.3.0-1027-raspi2
+Taking backup of vmlinuz.
+Installing new vmlinuz.
+Taking backup of initrd.img.
+Installing new initrd.img.
+Generating boot script u-boot image... done.
+Taking backup of boot.scr.
+Installing new boot.scr.
+Taking backup of bcm2710-rpi-3-b.dtb.
+Installing new bcm2710-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-b-rev2.dtb.
+Installing new bcm2835-rpi-b-rev2.dtb.
+Taking backup of bcm2835-rpi-a.dtb.
+Installing new bcm2835-rpi-a.dtb.
+Taking backup of bcm2710-rpi-cm3.dtb.
+Installing new bcm2710-rpi-cm3.dtb.
+Taking backup of bcm2835-rpi-b-plus.dtb.
+Installing new bcm2835-rpi-b-plus.dtb.
+Taking backup of bcm2838-rpi-4-b.dtb.
+Installing new bcm2838-rpi-4-b.dtb.
+Taking backup of bcm2837-rpi-3-b-plus.dtb.
+Installing new bcm2837-rpi-3-b-plus.dtb.
+Taking backup of bcm2835-rpi-zero-w.dtb.
+Installing new bcm2835-rpi-zero-w.dtb.
+Taking backup of bcm2837-rpi-cm3-io3.dtb.
+Installing new bcm2837-rpi-cm3-io3.dtb.
+Taking backup of bcm2837-rpi-3-a-plus.dtb.
+Installing new bcm2837-rpi-3-a-plus.dtb.
+Taking backup of bcm2708-rpi-zero.dtb.
+Installing new bcm2708-rpi-zero.dtb.
+Taking backup of bcm2837-rpi-3-b.dtb.
+Installing new bcm2837-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-a-plus.dtb.
+Installing new bcm2835-rpi-a-plus.dtb.
+Taking backup of bcm2709-rpi-2-b.dtb.
+Installing new bcm2709-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-zero.dtb.
+Installing new bcm2835-rpi-zero.dtb.
+Taking backup of bcm2711-rpi-4-b.dtb.
+Installing new bcm2711-rpi-4-b.dtb.
+Taking backup of bcm2835-rpi-b.dtb.
+Installing new bcm2835-rpi-b.dtb.
+Taking backup of bcm2708-rpi-zero-w.dtb.
+Installing new bcm2708-rpi-zero-w.dtb.
+Taking backup of bcm2708-rpi-b.dtb.
+Installing new bcm2708-rpi-b.dtb.
+Taking backup of bcm2710-rpi-2-b.dtb.
+Installing new bcm2710-rpi-2-b.dtb.
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Taking backup of bcm2708-rpi-cm.dtb.
+Installing new bcm2708-rpi-cm.dtb.
+Taking backup of bcm2836-rpi-2-b.dtb.
+Installing new bcm2836-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-cm1-io1.dtb.
+Installing new bcm2835-rpi-cm1-io1.dtb.
+Taking backup of bcm2708-rpi-b-plus.dtb.
+Installing new bcm2708-rpi-b-plus.dtb.
+Taking backup of i-sabre-q2m.dtbo.
+Installing new i-sabre-q2m.dtbo.
+Taking backup of jedec-spi-nor.dtbo.
+Installing new jedec-spi-nor.dtbo.
+Taking backup of ov5647.dtbo.
+Installing new ov5647.dtbo.
+Taking backup of ads7846.dtbo.
+Installing new ads7846.dtbo.
+Taking backup of dwc-otg.dtbo.
+Installing new dwc-otg.dtbo.
+Taking backup of pitft22.dtbo.
+Installing new pitft22.dtbo.
+Taking backup of uart2.dtbo.
+Installing new uart2.dtbo.
+Taking backup of spi2-3cs.dtbo.
+Installing new spi2-3cs.dtbo.
+Taking backup of media-center.dtbo.
+Installing new media-center.dtbo.
+Taking backup of spi5-2cs.dtbo.
+Installing new spi5-2cs.dtbo.
+Taking backup of i2c-mux.dtbo.
+Installing new i2c-mux.dtbo.
+Taking backup of adv7282m.dtbo.
+Installing new adv7282m.dtbo.
+Taking backup of rpi-cirrus-wm5102.dtbo.
+Installing new rpi-cirrus-wm5102.dtbo.
+Taking backup of spi2-2cs.dtbo.
+Installing new spi2-2cs.dtbo.
+Taking backup of bmp085_i2c-sensor.dtbo.
+Installing new bmp085_i2c-sensor.dtbo.
+Taking backup of dionaudio-loco-v2.dtbo.
+Installing new dionaudio-loco-v2.dtbo.
+Taking backup of adau7002-simple.dtbo.
+Installing new adau7002-simple.dtbo.
+Taking backup of balena-fin.dtbo.
+Installing new balena-fin.dtbo.
+Taking backup of pps-gpio.dtbo.
+Installing new pps-gpio.dtbo.
+Taking backup of vga666.dtbo.
+Installing new vga666.dtbo.
+Taking backup of i2c3.dtbo.
+Installing new i2c3.dtbo.
+Taking backup of dpi24.dtbo.
+Installing new dpi24.dtbo.
+Taking backup of piscreen.dtbo.
+Installing new piscreen.dtbo.
+Taking backup of sc16is752-i2c.dtbo.
+Installing new sc16is752-i2c.dtbo.
+Taking backup of sdtweak.dtbo.
+Installing new sdtweak.dtbo.
+Taking backup of udrc.dtbo.
+Installing new udrc.dtbo.
+Taking backup of gpio-no-irq.dtbo.
+Installing new gpio-no-irq.dtbo.
+Taking backup of goodix.dtbo.
+Installing new goodix.dtbo.
+Taking backup of mcp342x.dtbo.
+Installing new mcp342x.dtbo.
+Taking backup of piglow.dtbo.
+Installing new piglow.dtbo.
+Taking backup of pibell.dtbo.
+Installing new pibell.dtbo.
+Taking backup of allo-katana-dac-audio.dtbo.
+Installing new allo-katana-dac-audio.dtbo.
+Taking backup of audremap.dtbo.
+Installing new audremap.dtbo.
+Taking backup of i2c0-bcm2708.dtbo.
+Installing new i2c0-bcm2708.dtbo.
+Taking backup of draws.dtbo.
+Installing new draws.dtbo.
+Taking backup of allo-piano-dac-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-pcm512x-audio.dtbo.
+Taking backup of i2c-gpio.dtbo.
+Installing new i2c-gpio.dtbo.
+Taking backup of gpio-key.dtbo.
+Installing new gpio-key.dtbo.
+Taking backup of imx219.dtbo.
+Installing new imx219.dtbo.
+Taking backup of rpi-ft5406.dtbo.
+Installing new rpi-ft5406.dtbo.
+Taking backup of disable-bt.dtbo.
+Installing new disable-bt.dtbo.
+Taking backup of pitft35-resistive.dtbo.
+Installing new pitft35-resistive.dtbo.
+Taking backup of hifiberry-digi.dtbo.
+Installing new hifiberry-digi.dtbo.
+Taking backup of uart1.dtbo.
+Installing new uart1.dtbo.
+Taking backup of spi0-hw-cs.dtbo.
+Installing new spi0-hw-cs.dtbo.
+Taking backup of i2c-rtc.dtbo.
+Installing new i2c-rtc.dtbo.
+Taking backup of at86rf233.dtbo.
+Installing new at86rf233.dtbo.
+Taking backup of rpi-display.dtbo.
+Installing new rpi-display.dtbo.
+Taking backup of exc3000.dtbo.
+Installing new exc3000.dtbo.
+Taking backup of hy28b.dtbo.
+Installing new hy28b.dtbo.
+Taking backup of iqaudio-digi-wm8804-audio.dtbo.
+Installing new iqaudio-digi-wm8804-audio.dtbo.
+Taking backup of papirus.dtbo.
+Installing new papirus.dtbo.
+Taking backup of googlevoicehat-soundcard.dtbo.
+Installing new googlevoicehat-soundcard.dtbo.
+Taking backup of gpio-shutdown.dtbo.
+Installing new gpio-shutdown.dtbo.
+Taking backup of pi3-act-led.dtbo.
+Installing new pi3-act-led.dtbo.
+Taking backup of spi-gpio40-45.dtbo.
+Installing new spi-gpio40-45.dtbo.
+Taking backup of vc4-kms-kippah-7inch.dtbo.
+Installing new vc4-kms-kippah-7inch.dtbo.
+Taking backup of akkordion-iqdacplus.dtbo.
+Installing new akkordion-iqdacplus.dtbo.
+Taking backup of mcp3202.dtbo.
+Installing new mcp3202.dtbo.
+Taking backup of i2c1-bcm2708.dtbo.
+Installing new i2c1-bcm2708.dtbo.
+Taking backup of mbed-dac.dtbo.
+Installing new mbed-dac.dtbo.
+Taking backup of spi6-2cs.dtbo.
+Installing new spi6-2cs.dtbo.
+Taking backup of spi3-2cs.dtbo.
+Installing new spi3-2cs.dtbo.
+Taking backup of tpm-slb9670.dtbo.
+Installing new tpm-slb9670.dtbo.
+Taking backup of sdhost.dtbo.
+Installing new sdhost.dtbo.
+Taking backup of spi6-1cs.dtbo.
+Installing new spi6-1cs.dtbo.
+Taking backup of hifiberry-dacplusadc.dtbo.
+Installing new hifiberry-dacplusadc.dtbo.
+Taking backup of spi3-1cs.dtbo.
+Installing new spi3-1cs.dtbo.
+Taking backup of smi-nand.dtbo.
+Installing new smi-nand.dtbo.
+Taking backup of pisound.dtbo.
+Installing new pisound.dtbo.
+Taking backup of pitft28-resistive.dtbo.
+Installing new pitft28-resistive.dtbo.
+Taking backup of justboom-digi.dtbo.
+Installing new justboom-digi.dtbo.
+Taking backup of dwc2.dtbo.
+Installing new dwc2.dtbo.
+Taking backup of uart5.dtbo.
+Installing new uart5.dtbo.
+Taking backup of ltc294x.dtbo.
+Installing new ltc294x.dtbo.
+Taking backup of gpio-ir.dtbo.
+Installing new gpio-ir.dtbo.
+Taking backup of hifiberry-dacplusadcpro.dtbo.
+Installing new hifiberry-dacplusadcpro.dtbo.
+Taking backup of sc16is750-i2c.dtbo.
+Installing new sc16is750-i2c.dtbo.
+Taking backup of uart0.dtbo.
+Installing new uart0.dtbo.
+Taking backup of tc358743.dtbo.
+Installing new tc358743.dtbo.
+Taking backup of disable-wifi.dtbo.
+Installing new disable-wifi.dtbo.
+Taking backup of pwm.dtbo.
+Installing new pwm.dtbo.
+Taking backup of sdio.dtbo.
+Installing new sdio.dtbo.
+Taking backup of allo-piano-dac-plus-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-plus-pcm512x-audio.dtbo.
+Taking backup of applepi-dac.dtbo.
+Installing new applepi-dac.dtbo.
+Taking backup of mcp23s17.dtbo.
+Installing new mcp23s17.dtbo.
+Taking backup of rotary-encoder.dtbo.
+Installing new rotary-encoder.dtbo.
+Taking backup of hy28a.dtbo.
+Installing new hy28a.dtbo.
+Taking backup of hifiberry-dacplusdsp.dtbo.
+Installing new hifiberry-dacplusdsp.dtbo.
+Taking backup of i2c-pwm-pca9685a.dtbo.
+Installing new i2c-pwm-pca9685a.dtbo.
+Taking backup of audioinjector-ultra.dtbo.
+Installing new audioinjector-ultra.dtbo.
+Taking backup of i2c6.dtbo.
+Installing new i2c6.dtbo.
+Taking backup of enc28j60-spi2.dtbo.
+Installing new enc28j60-spi2.dtbo.
+Taking backup of spi-gpio35-39.dtbo.
+Installing new spi-gpio35-39.dtbo.
+Taking backup of pi3-disable-bt.dtbo.
+Installing new pi3-disable-bt.dtbo.
+Taking backup of i2c1.dtbo.
+Installing new i2c1.dtbo.
+Taking backup of smi-dev.dtbo.
+Installing new smi-dev.dtbo.
+Taking backup of justboom-dac.dtbo.
+Installing new justboom-dac.dtbo.
+Taking backup of superaudioboard.dtbo.
+Installing new superaudioboard.dtbo.
+Taking backup of tinylcd35.dtbo.
+Installing new tinylcd35.dtbo.
+Taking backup of mcp23017.dtbo.
+Installing new mcp23017.dtbo.
+Taking backup of rpi-dac.dtbo.
+Installing new rpi-dac.dtbo.
+Taking backup of sx150x.dtbo.
+Installing new sx150x.dtbo.
+Taking backup of hifiberry-amp.dtbo.
+Installing new hifiberry-amp.dtbo.
+Taking backup of sc16is752-spi1.dtbo.
+Installing new sc16is752-spi1.dtbo.
+Taking backup of tc358743-audio.dtbo.
+Installing new tc358743-audio.dtbo.
+Taking backup of gpio-poweroff.dtbo.
+Installing new gpio-poweroff.dtbo.
+Taking backup of piscreen2r.dtbo.
+Installing new piscreen2r.dtbo.
+Taking backup of spi0-cs.dtbo.
+Installing new spi0-cs.dtbo.
+Taking backup of ilitek251x.dtbo.
+Installing new ilitek251x.dtbo.
+Taking backup of dionaudio-loco.dtbo.
+Installing new dionaudio-loco.dtbo.
+Taking backup of allo-digione.dtbo.
+Installing new allo-digione.dtbo.
+Taking backup of hy28b-2017.dtbo.
+Installing new hy28b-2017.dtbo.
+Taking backup of i2c-rtc-gpio.dtbo.
+Installing new i2c-rtc-gpio.dtbo.
+Taking backup of qca7000.dtbo.
+Installing new qca7000.dtbo.
+Taking backup of gpio-fan.dtbo.
+Installing new gpio-fan.dtbo.
+Taking backup of miniuart-bt.dtbo.
+Installing new miniuart-bt.dtbo.
+Taking backup of uart4.dtbo.
+Installing new uart4.dtbo.
+Taking backup of spi4-2cs.dtbo.
+Installing new spi4-2cs.dtbo.
+Taking backup of pwm-2chan.dtbo.
+Installing new pwm-2chan.dtbo.
+Taking backup of smi.dtbo.
+Installing new smi.dtbo.
+Taking backup of act-led.dtbo.
+Installing new act-led.dtbo.
+Taking backup of pi3-disable-wifi.dtbo.
+Installing new pi3-disable-wifi.dtbo.
+Taking backup of midi-uart1.dtbo.
+Installing new midi-uart1.dtbo.
+Taking backup of mcp2515-can1.dtbo.
+Installing new mcp2515-can1.dtbo.
+Taking backup of spi4-1cs.dtbo.
+Installing new spi4-1cs.dtbo.
+Taking backup of i2c-sensor.dtbo.
+Installing new i2c-sensor.dtbo.
+Taking backup of upstream.dtbo.
+Installing new upstream.dtbo.
+Taking backup of spi1-1cs.dtbo.
+Installing new spi1-1cs.dtbo.
+Taking backup of rpi-poe.dtbo.
+Installing new rpi-poe.dtbo.
+Taking backup of rpi-backlight.dtbo.
+Installing new rpi-backlight.dtbo.
+Taking backup of pwm-ir-tx.dtbo.
+Installing new pwm-ir-tx.dtbo.
+Taking backup of i2c5.dtbo.
+Installing new i2c5.dtbo.
+Taking backup of dht11.dtbo.
+Installing new dht11.dtbo.
+Taking backup of hifiberry-dacplus.dtbo.
+Installing new hifiberry-dacplus.dtbo.
+Taking backup of pi3-miniuart-bt.dtbo.
+Installing new pi3-miniuart-bt.dtbo.
+Taking backup of gpio-no-bank0-irq.dtbo.
+Installing new gpio-no-bank0-irq.dtbo.
+Taking backup of w1-gpio.dtbo.
+Installing new w1-gpio.dtbo.
+Taking backup of wittypi.dtbo.
+Installing new wittypi.dtbo.
+Taking backup of i2c0.dtbo.
+Installing new i2c0.dtbo.
+Taking backup of i2s-gpio28-31.dtbo.
+Installing new i2s-gpio28-31.dtbo.
+Taking backup of spi1-3cs.dtbo.
+Installing new spi1-3cs.dtbo.
+Taking backup of audioinjector-addons.dtbo.
+Installing new audioinjector-addons.dtbo.
+Taking backup of pitft28-capacitive.dtbo.
+Installing new pitft28-capacitive.dtbo.
+Taking backup of audioinjector-wm8731-audio.dtbo.
+Installing new audioinjector-wm8731-audio.dtbo.
+Taking backup of spi1-2cs.dtbo.
+Installing new spi1-2cs.dtbo.
+Taking backup of i2c-bcm2708.dtbo.
+Installing new i2c-bcm2708.dtbo.
+Taking backup of fe-pi-audio.dtbo.
+Installing new fe-pi-audio.dtbo.
+Taking backup of vc4-kms-v3d.dtbo.
+Installing new vc4-kms-v3d.dtbo.
+Taking backup of hd44780-lcd.dtbo.
+Installing new hd44780-lcd.dtbo.
+Taking backup of adau1977-adc.dtbo.
+Installing new adau1977-adc.dtbo.
+Taking backup of rra-digidac1-wm8741-audio.dtbo.
+Installing new rra-digidac1-wm8741-audio.dtbo.
+Taking backup of mpu6050.dtbo.
+Installing new mpu6050.dtbo.
+Taking backup of uart3.dtbo.
+Installing new uart3.dtbo.
+Taking backup of hifiberry-digi-pro.dtbo.
+Installing new hifiberry-digi-pro.dtbo.
+Taking backup of midi-uart0.dtbo.
+Installing new midi-uart0.dtbo.
+Taking backup of rpi-tv.dtbo.
+Installing new rpi-tv.dtbo.
+Taking backup of mcp2515-can0.dtbo.
+Installing new mcp2515-can0.dtbo.
+Taking backup of gpio-ir-tx.dtbo.
+Installing new gpio-ir-tx.dtbo.
+Taking backup of dpi18.dtbo.
+Installing new dpi18.dtbo.
+Taking backup of adv728x-m.dtbo.
+Installing new adv728x-m.dtbo.
+Taking backup of enc28j60.dtbo.
+Installing new enc28j60.dtbo.
+Taking backup of audiosense-pi.dtbo.
+Installing new audiosense-pi.dtbo.
+Taking backup of mcp3008.dtbo.
+Installing new mcp3008.dtbo.
+Taking backup of vc4-fkms-v3d.dtbo.
+Installing new vc4-fkms-v3d.dtbo.
+Taking backup of iqaudio-dac.dtbo.
+Installing new iqaudio-dac.dtbo.
+Taking backup of ads1115.dtbo.
+Installing new ads1115.dtbo.
+Taking backup of rpi-sense.dtbo.
+Installing new rpi-sense.dtbo.
+Taking backup of ssd1306.dtbo.
+Installing new ssd1306.dtbo.
+Taking backup of allo-boss-dac-pcm512x-audio.dtbo.
+Installing new allo-boss-dac-pcm512x-audio.dtbo.
+Taking backup of i2c4.dtbo.
+Installing new i2c4.dtbo.
+Taking backup of iqaudio-codec.dtbo.
+Installing new iqaudio-codec.dtbo.
+Taking backup of rpi-proto.dtbo.
+Installing new rpi-proto.dtbo.
+Taking backup of mmc.dtbo.
+Installing new mmc.dtbo.
+Taking backup of w1-gpio-pullup.dtbo.
+Installing new w1-gpio-pullup.dtbo.
+Taking backup of ads1015.dtbo.
+Installing new ads1015.dtbo.
+Taking backup of max98357a.dtbo.
+Installing new max98357a.dtbo.
+Taking backup of spi5-1cs.dtbo.
+Installing new spi5-1cs.dtbo.
+Taking backup of iqaudio-dacplus.dtbo.
+Installing new iqaudio-dacplus.dtbo.
+Taking backup of mz61581.dtbo.
+Installing new mz61581.dtbo.
+Taking backup of hifiberry-dac.dtbo.
+Installing new hifiberry-dac.dtbo.
+Taking backup of spi-rtc.dtbo.
+Installing new spi-rtc.dtbo.
+Taking backup of spi2-1cs.dtbo.
+Installing new spi2-1cs.dtbo.
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for dbus (1.12.2-1ubuntu1.2) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+ureadahead will be reprofiled on next reboot
+Log ended: 2020-07-03  09:36:12
+
+Log started: 2020-07-06  06:28:31
+Selecting previously unselected package libpython2.7-minimal:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 102825 files and directories currently installed.)
+Preparing to unpack .../0-libpython2.7-minimal_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python2.7-minimal.
+Preparing to unpack .../1-python2.7-minimal_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking python2.7-minimal (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python-minimal.
+Preparing to unpack .../2-python-minimal_2.7.15~rc1-1_armhf.deb ...
+Unpacking python-minimal (2.7.15~rc1-1) ...
+Selecting previously unselected package libpython2.7-stdlib:armhf.
+Preparing to unpack .../3-libpython2.7-stdlib_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python2.7.
+Preparing to unpack .../4-python2.7_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking python2.7 (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package libpython-stdlib:armhf.
+Preparing to unpack .../5-libpython-stdlib_2.7.15~rc1-1_armhf.deb ...
+Unpacking libpython-stdlib:armhf (2.7.15~rc1-1) ...
+Setting up libpython2.7-minimal:armhf (2.7.17-1~18.04ubuntu1) ...
+Setting up python2.7-minimal (2.7.17-1~18.04ubuntu1) ...
+Linking and byte-compiling packages for runtime python2.7...
+Setting up python-minimal (2.7.15~rc1-1) ...
+Selecting previously unselected package python.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 103575 files and directories currently installed.)
+Preparing to unpack .../0-python_2.7.15~rc1-1_armhf.deb ...
+Unpacking python (2.7.15~rc1-1) ...
+Selecting previously unselected package libpython2.7:armhf.
+Preparing to unpack .../1-libpython2.7_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython2.7:armhf (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package libpython2.7-dev:armhf.
+Preparing to unpack .../2-libpython2.7-dev_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking libpython2.7-dev:armhf (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package libpython-dev:armhf.
+Preparing to unpack .../3-libpython-dev_2.7.15~rc1-1_armhf.deb ...
+Unpacking libpython-dev:armhf (2.7.15~rc1-1) ...
+Selecting previously unselected package python2.7-dev.
+Preparing to unpack .../4-python2.7-dev_2.7.17-1~18.04ubuntu1_armhf.deb ...
+Unpacking python2.7-dev (2.7.17-1~18.04ubuntu1) ...
+Selecting previously unselected package python-dev.
+Preparing to unpack .../5-python-dev_2.7.15~rc1-1_armhf.deb ...
+Unpacking python-dev (2.7.15~rc1-1) ...
+Setting up libpython2.7-stdlib:armhf (2.7.17-1~18.04ubuntu1) ...
+Setting up python2.7 (2.7.17-1~18.04ubuntu1) ...
+Setting up libpython-stdlib:armhf (2.7.15~rc1-1) ...
+Setting up libpython2.7:armhf (2.7.17-1~18.04ubuntu1) ...
+Setting up libpython2.7-dev:armhf (2.7.17-1~18.04ubuntu1) ...
+Setting up python2.7-dev (2.7.17-1~18.04ubuntu1) ...
+Setting up python (2.7.15~rc1-1) ...
+Setting up libpython-dev:armhf (2.7.15~rc1-1) ...
+Setting up python-dev (2.7.15~rc1-1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-06  06:28:51
+
+Log started: 2020-07-06  07:17:32
+Selecting previously unselected package python-pkg-resources.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 103770 files and directories currently installed.)
+Preparing to unpack .../python-pkg-resources_39.0.1-2_all.deb ...
+Unpacking python-pkg-resources (39.0.1-2) ...
+Selecting previously unselected package python-setuptools.
+Preparing to unpack .../python-setuptools_39.0.1-2_all.deb ...
+Unpacking python-setuptools (39.0.1-2) ...
+Setting up python-pkg-resources (39.0.1-2) ...
+Setting up python-setuptools (39.0.1-2) ...
+Log ended: 2020-07-06  07:17:34
+
+Log started: 2020-07-07  07:56:55
+Selecting previously unselected package lua5.1.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 103902 files and directories currently installed.)
+Preparing to unpack .../0-lua5.1_5.1.5-8.1build2_armhf.deb ...
+Unpacking lua5.1 (5.1.5-8.1build2) ...
+Selecting previously unselected package libasound2-data.
+Preparing to unpack .../1-libasound2-data_1.1.3-5ubuntu0.5_all.deb ...
+Unpacking libasound2-data (1.1.3-5ubuntu0.5) ...
+Selecting previously unselected package libasound2:armhf.
+Preparing to unpack .../2-libasound2_1.1.3-5ubuntu0.5_armhf.deb ...
+Unpacking libasound2:armhf (1.1.3-5ubuntu0.5) ...
+Selecting previously unselected package libfftw3-single3:armhf.
+Preparing to unpack .../3-libfftw3-single3_3.3.7-1_armhf.deb ...
+Unpacking libfftw3-single3:armhf (3.3.7-1) ...
+Selecting previously unselected package libsamplerate0:armhf.
+Preparing to unpack .../4-libsamplerate0_0.1.9-1_armhf.deb ...
+Unpacking libsamplerate0:armhf (0.1.9-1) ...
+Selecting previously unselected package alsa-utils.
+Preparing to unpack .../5-alsa-utils_1.1.3-1ubuntu1_armhf.deb ...
+Unpacking alsa-utils (1.1.3-1ubuntu1) ...
+Setting up libasound2-data (1.1.3-5ubuntu0.5) ...
+Setting up libasound2:armhf (1.1.3-5ubuntu0.5) ...
+Setting up lua5.1 (5.1.5-8.1build2) ...
+update-alternatives: using /usr/bin/lua5.1 to provide /usr/bin/lua (lua-interpreter) in auto mode
+update-alternatives: using /usr/bin/luac5.1 to provide /usr/bin/luac (lua-compiler) in auto mode
+Setting up libfftw3-single3:armhf (3.3.7-1) ...
+Setting up libsamplerate0:armhf (0.1.9-1) ...
+Setting up alsa-utils (1.1.3-1ubuntu1) ...
+alsa-restore.service is a disabled or a static unit, not starting it.
+alsa-state.service is a disabled or a static unit, not starting it.
+Setting up raspi-config (20180406+1) ...
+Processing triggers for systemd (237-3ubuntu10.41) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for ureadahead (0.100.0-21) ...
+ureadahead will be reprofiled on next reboot
+Processing triggers for libc-bin (2.27-3ubuntu1) ...
+Log ended: 2020-07-07  07:57:06
+
+Log started: 2020-07-07  07:58:45
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104225 files and directories currently installed.)
+Preparing to unpack .../libc6-dev_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc6-dev:armhf (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Preparing to unpack .../libc-dev-bin_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc-dev-bin (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Preparing to unpack .../libc6_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc6:armhf (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc6:armhf (2.27-3ubuntu1.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104225 files and directories currently installed.)
+Preparing to unpack .../locales_2.27-3ubuntu1.2_all.deb ...
+Unpacking locales (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Preparing to unpack .../libc-bin_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking libc-bin (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Setting up libc-bin (2.27-3ubuntu1.2) ...
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104225 files and directories currently installed.)
+Preparing to unpack .../linux-base_4.5ubuntu1.2_all.deb ...
+Unpacking linux-base (4.5ubuntu1.2) over (4.5ubuntu1.1) ...
+Preparing to unpack .../multiarch-support_2.27-3ubuntu1.2_armhf.deb ...
+Unpacking multiarch-support (2.27-3ubuntu1.2) over (2.27-3ubuntu1) ...
+Preparing to unpack .../snapd_2.45.1+18.04_armhf.deb ...
+Unpacking snapd (2.45.1+18.04) over (2.42.1+18.04) ...
+Preparing to unpack .../sosreport_3.9.1-1ubuntu0.18.04.1_armhf.deb ...
+Unpacking sosreport (3.9.1-1ubuntu0.18.04.1) over (3.9-1ubuntu0.18.04.3) ...
+Setting up multiarch-support (2.27-3ubuntu1.2) ...
+Setting up linux-base (4.5ubuntu1.2) ...
+Setting up snapd (2.45.1+18.04) ...
+Installing new version of config file /etc/apparmor.d/usr.lib.snapd.snap-confine.real ...
+Created symlink /etc/systemd/system/multi-user.target.wants/snapd.apparmor.service → /lib/systemd/system/snapd.apparmor.service.
+Created symlink /etc/systemd/system/multi-user.target.wants/snapd.recovery-chooser-trigger.service → /lib/systemd/system/snapd.recovery-chooser-trigger.service.
+snapd.failure.service is a disabled or a static unit, not starting it.
+snapd.snap-repair.service is a disabled or a static unit, not starting it.
+Setting up sosreport (3.9.1-1ubuntu0.18.04.1) ...
+Setting up libc-dev-bin (2.27-3ubuntu1.2) ...
+Setting up libc6-dev:armhf (2.27-3ubuntu1.2) ...
+Setting up locales (2.27-3ubuntu1.2) ...
+Generating locales (this might take a while)...
+  en_US.UTF-8... done
+Generation complete.
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Log ended: 2020-07-07  07:59:25
+
+Log started: 2020-07-07  08:01:19
+Selecting previously unselected package libpython-all-dev:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104240 files and directories currently installed.)
+Preparing to unpack .../00-libpython-all-dev_2.7.15~rc1-1_armhf.deb ...
+Unpacking libpython-all-dev:armhf (2.7.15~rc1-1) ...
+Selecting previously unselected package python-all.
+Preparing to unpack .../01-python-all_2.7.15~rc1-1_armhf.deb ...
+Unpacking python-all (2.7.15~rc1-1) ...
+Selecting previously unselected package python-all-dev.
+Preparing to unpack .../02-python-all-dev_2.7.15~rc1-1_armhf.deb ...
+Unpacking python-all-dev (2.7.15~rc1-1) ...
+Selecting previously unselected package python-asn1crypto.
+Preparing to unpack .../03-python-asn1crypto_0.24.0-1_all.deb ...
+Unpacking python-asn1crypto (0.24.0-1) ...
+Selecting previously unselected package python-cffi-backend.
+Preparing to unpack .../04-python-cffi-backend_1.11.5-1_armhf.deb ...
+Unpacking python-cffi-backend (1.11.5-1) ...
+Selecting previously unselected package python-crypto.
+Preparing to unpack .../05-python-crypto_2.6.1-8ubuntu2_armhf.deb ...
+Unpacking python-crypto (2.6.1-8ubuntu2) ...
+Selecting previously unselected package python-enum34.
+Preparing to unpack .../06-python-enum34_1.1.6-2_all.deb ...
+Unpacking python-enum34 (1.1.6-2) ...
+Selecting previously unselected package python-idna.
+Preparing to unpack .../07-python-idna_2.6-1_all.deb ...
+Unpacking python-idna (2.6-1) ...
+Selecting previously unselected package python-ipaddress.
+Preparing to unpack .../08-python-ipaddress_1.0.17-1_all.deb ...
+Unpacking python-ipaddress (1.0.17-1) ...
+Selecting previously unselected package python-six.
+Preparing to unpack .../09-python-six_1.11.0-2_all.deb ...
+Unpacking python-six (1.11.0-2) ...
+Selecting previously unselected package python-cryptography.
+Preparing to unpack .../10-python-cryptography_2.1.4-1ubuntu1.3_armhf.deb ...
+Unpacking python-cryptography (2.1.4-1ubuntu1.3) ...
+Selecting previously unselected package python-dbus.
+Preparing to unpack .../11-python-dbus_1.2.6-1_armhf.deb ...
+Unpacking python-dbus (1.2.6-1) ...
+Selecting previously unselected package python-gi.
+Preparing to unpack .../12-python-gi_3.26.1-2ubuntu1_armhf.deb ...
+Unpacking python-gi (3.26.1-2ubuntu1) ...
+Selecting previously unselected package python-secretstorage.
+Preparing to unpack .../13-python-secretstorage_2.3.1-2_all.deb ...
+Unpacking python-secretstorage (2.3.1-2) ...
+Selecting previously unselected package python-keyring.
+Preparing to unpack .../14-python-keyring_10.6.0-1_all.deb ...
+Unpacking python-keyring (10.6.0-1) ...
+Selecting previously unselected package python-keyrings.alt.
+Preparing to unpack .../15-python-keyrings.alt_3.0-1_all.deb ...
+Unpacking python-keyrings.alt (3.0-1) ...
+Selecting previously unselected package python-pip.
+Preparing to unpack .../16-python-pip_9.0.1-2.3~ubuntu1.18.04.1_all.deb ...
+Unpacking python-pip (9.0.1-2.3~ubuntu1.18.04.1) ...
+Selecting previously unselected package python-wheel.
+Preparing to unpack .../17-python-wheel_0.30.0-0.2_all.deb ...
+Unpacking python-wheel (0.30.0-0.2) ...
+Selecting previously unselected package python-xdg.
+Preparing to unpack .../18-python-xdg_0.25-4ubuntu1_all.deb ...
+Unpacking python-xdg (0.25-4ubuntu1) ...
+Setting up python-idna (2.6-1) ...
+Setting up python-asn1crypto (0.24.0-1) ...
+Setting up python-crypto (2.6.1-8ubuntu2) ...
+Setting up python-wheel (0.30.0-0.2) ...
+Setting up libpython-all-dev:armhf (2.7.15~rc1-1) ...
+Setting up python-cffi-backend (1.11.5-1) ...
+Setting up python-gi (3.26.1-2ubuntu1) ...
+Setting up python-six (1.11.0-2) ...
+Setting up python-enum34 (1.1.6-2) ...
+Setting up python-dbus (1.2.6-1) ...
+Setting up python-ipaddress (1.0.17-1) ...
+Setting up python-pip (9.0.1-2.3~ubuntu1.18.04.1) ...
+Setting up python-all (2.7.15~rc1-1) ...
+Setting up python-xdg (0.25-4ubuntu1) ...
+Setting up python-keyrings.alt (3.0-1) ...
+Setting up python-all-dev (2.7.15~rc1-1) ...
+Setting up python-cryptography (2.1.4-1ubuntu1.3) ...
+Setting up python-secretstorage (2.3.1-2) ...
+Setting up python-keyring (10.6.0-1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-07  08:01:32
+
+Log started: 2020-07-07  08:04:06
+Selecting previously unselected package libpython3.7-minimal:armhf.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 104903 files and directories currently installed.)
+Preparing to unpack .../libpython3.7-minimal_3.7.5-2~18.04_armhf.deb ...
+Unpacking libpython3.7-minimal:armhf (3.7.5-2~18.04) ...
+Selecting previously unselected package python3.7-minimal.
+Preparing to unpack .../python3.7-minimal_3.7.5-2~18.04_armhf.deb ...
+Unpacking python3.7-minimal (3.7.5-2~18.04) ...
+Selecting previously unselected package libpython3.7-stdlib:armhf.
+Preparing to unpack .../libpython3.7-stdlib_3.7.5-2~18.04_armhf.deb ...
+Unpacking libpython3.7-stdlib:armhf (3.7.5-2~18.04) ...
+Selecting previously unselected package python3.7.
+Preparing to unpack .../python3.7_3.7.5-2~18.04_armhf.deb ...
+Unpacking python3.7 (3.7.5-2~18.04) ...
+Setting up libpython3.7-minimal:armhf (3.7.5-2~18.04) ...
+Setting up python3.7-minimal (3.7.5-2~18.04) ...
+Setting up libpython3.7-stdlib:armhf (3.7.5-2~18.04) ...
+Setting up python3.7 (3.7.5-2~18.04) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-07  08:04:17
+
+Log started: 2020-07-10  12:14:52
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105517 files and directories currently installed.)
+Preparing to unpack .../python3-httplib2_0.9.2+dfsg-1ubuntu0.2_all.deb ...
+Unpacking python3-httplib2 (0.9.2+dfsg-1ubuntu0.2) over (0.9.2+dfsg-1ubuntu0.1) ...
+Setting up python3-httplib2 (0.9.2+dfsg-1ubuntu0.2) ...
+Log ended: 2020-07-10  12:14:55
+
+Log started: 2020-07-10  12:15:09
+Selecting previously unselected package linux-raspi2-5.3-headers-5.3.0-1028.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 105517 files and directories currently installed.)
+Preparing to unpack .../0-linux-raspi2-5.3-headers-5.3.0-1028_5.3.0-1028.30~18.04.2_armhf.deb ...
+Unpacking linux-raspi2-5.3-headers-5.3.0-1028 (5.3.0-1028.30~18.04.2) ...
+Selecting previously unselected package linux-headers-5.3.0-1028-raspi2.
+Preparing to unpack .../1-linux-headers-5.3.0-1028-raspi2_5.3.0-1028.30~18.04.2_armhf.deb ...
+Unpacking linux-headers-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+Selecting previously unselected package linux-modules-5.3.0-1028-raspi2.
+Preparing to unpack .../2-linux-modules-5.3.0-1028-raspi2_5.3.0-1028.30~18.04.2_armhf.deb ...
+Unpacking linux-modules-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+Selecting previously unselected package linux-image-5.3.0-1028-raspi2.
+Preparing to unpack .../3-linux-image-5.3.0-1028-raspi2_5.3.0-1028.30~18.04.2_armhf.deb ...
+Unpacking linux-image-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+Preparing to unpack .../4-linux-raspi2-hwe-18.04_5.3.0.1028.17_armhf.deb ...
+Unpacking linux-raspi2-hwe-18.04 (5.3.0.1028.17) over (5.3.0.1027.16) ...
+Preparing to unpack .../5-linux-image-raspi2-hwe-18.04_5.3.0.1028.17_armhf.deb ...
+Unpacking linux-image-raspi2-hwe-18.04 (5.3.0.1028.17) over (5.3.0.1027.16) ...
+Preparing to unpack .../6-linux-headers-raspi2-hwe-18.04_5.3.0.1028.17_armhf.deb ...
+Unpacking linux-headers-raspi2-hwe-18.04 (5.3.0.1028.17) over (5.3.0.1027.16) ...
+Setting up linux-raspi2-5.3-headers-5.3.0-1028 (5.3.0-1028.30~18.04.2) ...
+Setting up linux-modules-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+Setting up linux-headers-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+Setting up linux-image-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+I: /boot/vmlinuz.old is now a symlink to vmlinuz-5.3.0-1027-raspi2
+I: /boot/initrd.img.old is now a symlink to initrd.img-5.3.0-1027-raspi2
+I: /boot/vmlinuz is now a symlink to vmlinuz-5.3.0-1028-raspi2
+I: /boot/initrd.img is now a symlink to initrd.img-5.3.0-1028-raspi2
+Setting up linux-headers-raspi2-hwe-18.04 (5.3.0.1028.17) ...
+Setting up linux-image-raspi2-hwe-18.04 (5.3.0.1028.17) ...
+Setting up linux-raspi2-hwe-18.04 (5.3.0.1028.17) ...
+Processing triggers for linux-image-5.3.0-1028-raspi2 (5.3.0-1028.30~18.04.2) ...
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-5.3.0-1028-raspi2
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1028-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1028-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1028-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1028-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: deferring update (trigger activated)
+/etc/kernel/postinst.d/zz-flash-kernel:
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1028-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1028-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Installing /lib/firmware/5.3.0-1028-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1028-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: deferring update (trigger activated)
+Processing triggers for flash-kernel (3.98ubuntu11~18.04.1) ...
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+Installing /lib/firmware/5.3.0-1028-raspi2/device-tree/bcm2710-rpi-3-b-plus.dtb into /boot/dtbs/5.3.0-1028-raspi2/./bcm2710-rpi-3-b-plus.dtb
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+flash-kernel: installing version 5.3.0-1028-raspi2
+Taking backup of vmlinuz.
+Installing new vmlinuz.
+Taking backup of initrd.img.
+Installing new initrd.img.
+Generating boot script u-boot image... done.
+Taking backup of boot.scr.
+Installing new boot.scr.
+Taking backup of bcm2710-rpi-3-b.dtb.
+Installing new bcm2710-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-b-rev2.dtb.
+Installing new bcm2835-rpi-b-rev2.dtb.
+Taking backup of bcm2835-rpi-a.dtb.
+Installing new bcm2835-rpi-a.dtb.
+Taking backup of bcm2710-rpi-cm3.dtb.
+Installing new bcm2710-rpi-cm3.dtb.
+Taking backup of bcm2835-rpi-b-plus.dtb.
+Installing new bcm2835-rpi-b-plus.dtb.
+Taking backup of bcm2838-rpi-4-b.dtb.
+Installing new bcm2838-rpi-4-b.dtb.
+Taking backup of bcm2837-rpi-3-b-plus.dtb.
+Installing new bcm2837-rpi-3-b-plus.dtb.
+Taking backup of bcm2835-rpi-zero-w.dtb.
+Installing new bcm2835-rpi-zero-w.dtb.
+Taking backup of bcm2837-rpi-cm3-io3.dtb.
+Installing new bcm2837-rpi-cm3-io3.dtb.
+Taking backup of bcm2837-rpi-3-a-plus.dtb.
+Installing new bcm2837-rpi-3-a-plus.dtb.
+Taking backup of bcm2708-rpi-zero.dtb.
+Installing new bcm2708-rpi-zero.dtb.
+Taking backup of bcm2837-rpi-3-b.dtb.
+Installing new bcm2837-rpi-3-b.dtb.
+Taking backup of bcm2835-rpi-a-plus.dtb.
+Installing new bcm2835-rpi-a-plus.dtb.
+Taking backup of bcm2709-rpi-2-b.dtb.
+Installing new bcm2709-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-zero.dtb.
+Installing new bcm2835-rpi-zero.dtb.
+Taking backup of bcm2711-rpi-4-b.dtb.
+Installing new bcm2711-rpi-4-b.dtb.
+Taking backup of bcm2835-rpi-b.dtb.
+Installing new bcm2835-rpi-b.dtb.
+Taking backup of bcm2708-rpi-zero-w.dtb.
+Installing new bcm2708-rpi-zero-w.dtb.
+Taking backup of bcm2708-rpi-b.dtb.
+Installing new bcm2708-rpi-b.dtb.
+Taking backup of bcm2710-rpi-2-b.dtb.
+Installing new bcm2710-rpi-2-b.dtb.
+Taking backup of bcm2710-rpi-3-b-plus.dtb.
+Installing new bcm2710-rpi-3-b-plus.dtb.
+Taking backup of bcm2708-rpi-cm.dtb.
+Installing new bcm2708-rpi-cm.dtb.
+Taking backup of bcm2836-rpi-2-b.dtb.
+Installing new bcm2836-rpi-2-b.dtb.
+Taking backup of bcm2835-rpi-cm1-io1.dtb.
+Installing new bcm2835-rpi-cm1-io1.dtb.
+Taking backup of bcm2708-rpi-b-plus.dtb.
+Installing new bcm2708-rpi-b-plus.dtb.
+Taking backup of i-sabre-q2m.dtbo.
+Installing new i-sabre-q2m.dtbo.
+Taking backup of jedec-spi-nor.dtbo.
+Installing new jedec-spi-nor.dtbo.
+Taking backup of ov5647.dtbo.
+Installing new ov5647.dtbo.
+Taking backup of ads7846.dtbo.
+Installing new ads7846.dtbo.
+Taking backup of dwc-otg.dtbo.
+Installing new dwc-otg.dtbo.
+Taking backup of pitft22.dtbo.
+Installing new pitft22.dtbo.
+Taking backup of uart2.dtbo.
+Installing new uart2.dtbo.
+Taking backup of spi2-3cs.dtbo.
+Installing new spi2-3cs.dtbo.
+Taking backup of media-center.dtbo.
+Installing new media-center.dtbo.
+Taking backup of spi5-2cs.dtbo.
+Installing new spi5-2cs.dtbo.
+Taking backup of i2c-mux.dtbo.
+Installing new i2c-mux.dtbo.
+Taking backup of adv7282m.dtbo.
+Installing new adv7282m.dtbo.
+Taking backup of rpi-cirrus-wm5102.dtbo.
+Installing new rpi-cirrus-wm5102.dtbo.
+Taking backup of spi2-2cs.dtbo.
+Installing new spi2-2cs.dtbo.
+Taking backup of bmp085_i2c-sensor.dtbo.
+Installing new bmp085_i2c-sensor.dtbo.
+Taking backup of dionaudio-loco-v2.dtbo.
+Installing new dionaudio-loco-v2.dtbo.
+Taking backup of adau7002-simple.dtbo.
+Installing new adau7002-simple.dtbo.
+Taking backup of balena-fin.dtbo.
+Installing new balena-fin.dtbo.
+Taking backup of pps-gpio.dtbo.
+Installing new pps-gpio.dtbo.
+Taking backup of vga666.dtbo.
+Installing new vga666.dtbo.
+Taking backup of i2c3.dtbo.
+Installing new i2c3.dtbo.
+Taking backup of dpi24.dtbo.
+Installing new dpi24.dtbo.
+Taking backup of piscreen.dtbo.
+Installing new piscreen.dtbo.
+Taking backup of sc16is752-i2c.dtbo.
+Installing new sc16is752-i2c.dtbo.
+Taking backup of sdtweak.dtbo.
+Installing new sdtweak.dtbo.
+Taking backup of udrc.dtbo.
+Installing new udrc.dtbo.
+Taking backup of gpio-no-irq.dtbo.
+Installing new gpio-no-irq.dtbo.
+Taking backup of goodix.dtbo.
+Installing new goodix.dtbo.
+Taking backup of mcp342x.dtbo.
+Installing new mcp342x.dtbo.
+Taking backup of piglow.dtbo.
+Installing new piglow.dtbo.
+Taking backup of pibell.dtbo.
+Installing new pibell.dtbo.
+Taking backup of allo-katana-dac-audio.dtbo.
+Installing new allo-katana-dac-audio.dtbo.
+Taking backup of audremap.dtbo.
+Installing new audremap.dtbo.
+Taking backup of i2c0-bcm2708.dtbo.
+Installing new i2c0-bcm2708.dtbo.
+Taking backup of draws.dtbo.
+Installing new draws.dtbo.
+Taking backup of allo-piano-dac-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-pcm512x-audio.dtbo.
+Taking backup of i2c-gpio.dtbo.
+Installing new i2c-gpio.dtbo.
+Taking backup of gpio-key.dtbo.
+Installing new gpio-key.dtbo.
+Taking backup of imx219.dtbo.
+Installing new imx219.dtbo.
+Taking backup of rpi-ft5406.dtbo.
+Installing new rpi-ft5406.dtbo.
+Taking backup of disable-bt.dtbo.
+Installing new disable-bt.dtbo.
+Taking backup of pitft35-resistive.dtbo.
+Installing new pitft35-resistive.dtbo.
+Taking backup of hifiberry-digi.dtbo.
+Installing new hifiberry-digi.dtbo.
+Taking backup of uart1.dtbo.
+Installing new uart1.dtbo.
+Taking backup of spi0-hw-cs.dtbo.
+Installing new spi0-hw-cs.dtbo.
+Taking backup of i2c-rtc.dtbo.
+Installing new i2c-rtc.dtbo.
+Taking backup of at86rf233.dtbo.
+Installing new at86rf233.dtbo.
+Taking backup of rpi-display.dtbo.
+Installing new rpi-display.dtbo.
+Taking backup of exc3000.dtbo.
+Installing new exc3000.dtbo.
+Taking backup of hy28b.dtbo.
+Installing new hy28b.dtbo.
+Taking backup of iqaudio-digi-wm8804-audio.dtbo.
+Installing new iqaudio-digi-wm8804-audio.dtbo.
+Taking backup of papirus.dtbo.
+Installing new papirus.dtbo.
+Taking backup of googlevoicehat-soundcard.dtbo.
+Installing new googlevoicehat-soundcard.dtbo.
+Taking backup of gpio-shutdown.dtbo.
+Installing new gpio-shutdown.dtbo.
+Taking backup of pi3-act-led.dtbo.
+Installing new pi3-act-led.dtbo.
+Taking backup of spi-gpio40-45.dtbo.
+Installing new spi-gpio40-45.dtbo.
+Taking backup of vc4-kms-kippah-7inch.dtbo.
+Installing new vc4-kms-kippah-7inch.dtbo.
+Taking backup of akkordion-iqdacplus.dtbo.
+Installing new akkordion-iqdacplus.dtbo.
+Taking backup of mcp3202.dtbo.
+Installing new mcp3202.dtbo.
+Taking backup of i2c1-bcm2708.dtbo.
+Installing new i2c1-bcm2708.dtbo.
+Taking backup of mbed-dac.dtbo.
+Installing new mbed-dac.dtbo.
+Taking backup of spi6-2cs.dtbo.
+Installing new spi6-2cs.dtbo.
+Taking backup of spi3-2cs.dtbo.
+Installing new spi3-2cs.dtbo.
+Taking backup of tpm-slb9670.dtbo.
+Installing new tpm-slb9670.dtbo.
+Taking backup of sdhost.dtbo.
+Installing new sdhost.dtbo.
+Taking backup of spi6-1cs.dtbo.
+Installing new spi6-1cs.dtbo.
+Taking backup of hifiberry-dacplusadc.dtbo.
+Installing new hifiberry-dacplusadc.dtbo.
+Taking backup of spi3-1cs.dtbo.
+Installing new spi3-1cs.dtbo.
+Taking backup of smi-nand.dtbo.
+Installing new smi-nand.dtbo.
+Taking backup of pisound.dtbo.
+Installing new pisound.dtbo.
+Taking backup of pitft28-resistive.dtbo.
+Installing new pitft28-resistive.dtbo.
+Taking backup of justboom-digi.dtbo.
+Installing new justboom-digi.dtbo.
+Taking backup of dwc2.dtbo.
+Installing new dwc2.dtbo.
+Taking backup of uart5.dtbo.
+Installing new uart5.dtbo.
+Taking backup of ltc294x.dtbo.
+Installing new ltc294x.dtbo.
+Taking backup of gpio-ir.dtbo.
+Installing new gpio-ir.dtbo.
+Taking backup of hifiberry-dacplusadcpro.dtbo.
+Installing new hifiberry-dacplusadcpro.dtbo.
+Taking backup of sc16is750-i2c.dtbo.
+Installing new sc16is750-i2c.dtbo.
+Taking backup of uart0.dtbo.
+Installing new uart0.dtbo.
+Taking backup of tc358743.dtbo.
+Installing new tc358743.dtbo.
+Taking backup of disable-wifi.dtbo.
+Installing new disable-wifi.dtbo.
+Taking backup of pwm.dtbo.
+Installing new pwm.dtbo.
+Taking backup of sdio.dtbo.
+Installing new sdio.dtbo.
+Taking backup of allo-piano-dac-plus-pcm512x-audio.dtbo.
+Installing new allo-piano-dac-plus-pcm512x-audio.dtbo.
+Taking backup of applepi-dac.dtbo.
+Installing new applepi-dac.dtbo.
+Taking backup of mcp23s17.dtbo.
+Installing new mcp23s17.dtbo.
+Taking backup of rotary-encoder.dtbo.
+Installing new rotary-encoder.dtbo.
+Taking backup of hy28a.dtbo.
+Installing new hy28a.dtbo.
+Taking backup of hifiberry-dacplusdsp.dtbo.
+Installing new hifiberry-dacplusdsp.dtbo.
+Taking backup of i2c-pwm-pca9685a.dtbo.
+Installing new i2c-pwm-pca9685a.dtbo.
+Taking backup of audioinjector-ultra.dtbo.
+Installing new audioinjector-ultra.dtbo.
+Taking backup of i2c6.dtbo.
+Installing new i2c6.dtbo.
+Taking backup of enc28j60-spi2.dtbo.
+Installing new enc28j60-spi2.dtbo.
+Taking backup of spi-gpio35-39.dtbo.
+Installing new spi-gpio35-39.dtbo.
+Taking backup of pi3-disable-bt.dtbo.
+Installing new pi3-disable-bt.dtbo.
+Taking backup of i2c1.dtbo.
+Installing new i2c1.dtbo.
+Taking backup of smi-dev.dtbo.
+Installing new smi-dev.dtbo.
+Taking backup of justboom-dac.dtbo.
+Installing new justboom-dac.dtbo.
+Taking backup of superaudioboard.dtbo.
+Installing new superaudioboard.dtbo.
+Taking backup of tinylcd35.dtbo.
+Installing new tinylcd35.dtbo.
+Taking backup of mcp23017.dtbo.
+Installing new mcp23017.dtbo.
+Taking backup of rpi-dac.dtbo.
+Installing new rpi-dac.dtbo.
+Taking backup of sx150x.dtbo.
+Installing new sx150x.dtbo.
+Taking backup of hifiberry-amp.dtbo.
+Installing new hifiberry-amp.dtbo.
+Taking backup of sc16is752-spi1.dtbo.
+Installing new sc16is752-spi1.dtbo.
+Taking backup of tc358743-audio.dtbo.
+Installing new tc358743-audio.dtbo.
+Taking backup of gpio-poweroff.dtbo.
+Installing new gpio-poweroff.dtbo.
+Taking backup of piscreen2r.dtbo.
+Installing new piscreen2r.dtbo.
+Taking backup of spi0-cs.dtbo.
+Installing new spi0-cs.dtbo.
+Taking backup of ilitek251x.dtbo.
+Installing new ilitek251x.dtbo.
+Taking backup of dionaudio-loco.dtbo.
+Installing new dionaudio-loco.dtbo.
+Taking backup of allo-digione.dtbo.
+Installing new allo-digione.dtbo.
+Taking backup of hy28b-2017.dtbo.
+Installing new hy28b-2017.dtbo.
+Taking backup of i2c-rtc-gpio.dtbo.
+Installing new i2c-rtc-gpio.dtbo.
+Taking backup of qca7000.dtbo.
+Installing new qca7000.dtbo.
+Taking backup of gpio-fan.dtbo.
+Installing new gpio-fan.dtbo.
+Taking backup of miniuart-bt.dtbo.
+Installing new miniuart-bt.dtbo.
+Taking backup of uart4.dtbo.
+Installing new uart4.dtbo.
+Taking backup of spi4-2cs.dtbo.
+Installing new spi4-2cs.dtbo.
+Taking backup of pwm-2chan.dtbo.
+Installing new pwm-2chan.dtbo.
+Taking backup of smi.dtbo.
+Installing new smi.dtbo.
+Taking backup of act-led.dtbo.
+Installing new act-led.dtbo.
+Taking backup of pi3-disable-wifi.dtbo.
+Installing new pi3-disable-wifi.dtbo.
+Taking backup of midi-uart1.dtbo.
+Installing new midi-uart1.dtbo.
+Taking backup of mcp2515-can1.dtbo.
+Installing new mcp2515-can1.dtbo.
+Taking backup of spi4-1cs.dtbo.
+Installing new spi4-1cs.dtbo.
+Taking backup of i2c-sensor.dtbo.
+Installing new i2c-sensor.dtbo.
+Taking backup of upstream.dtbo.
+Installing new upstream.dtbo.
+Taking backup of spi1-1cs.dtbo.
+Installing new spi1-1cs.dtbo.
+Taking backup of rpi-poe.dtbo.
+Installing new rpi-poe.dtbo.
+Taking backup of rpi-backlight.dtbo.
+Installing new rpi-backlight.dtbo.
+Taking backup of pwm-ir-tx.dtbo.
+Installing new pwm-ir-tx.dtbo.
+Taking backup of i2c5.dtbo.
+Installing new i2c5.dtbo.
+Taking backup of dht11.dtbo.
+Installing new dht11.dtbo.
+Taking backup of hifiberry-dacplus.dtbo.
+Installing new hifiberry-dacplus.dtbo.
+Taking backup of pi3-miniuart-bt.dtbo.
+Installing new pi3-miniuart-bt.dtbo.
+Taking backup of gpio-no-bank0-irq.dtbo.
+Installing new gpio-no-bank0-irq.dtbo.
+Taking backup of w1-gpio.dtbo.
+Installing new w1-gpio.dtbo.
+Taking backup of wittypi.dtbo.
+Installing new wittypi.dtbo.
+Taking backup of i2c0.dtbo.
+Installing new i2c0.dtbo.
+Taking backup of i2s-gpio28-31.dtbo.
+Installing new i2s-gpio28-31.dtbo.
+Taking backup of spi1-3cs.dtbo.
+Installing new spi1-3cs.dtbo.
+Taking backup of audioinjector-addons.dtbo.
+Installing new audioinjector-addons.dtbo.
+Taking backup of pitft28-capacitive.dtbo.
+Installing new pitft28-capacitive.dtbo.
+Taking backup of audioinjector-wm8731-audio.dtbo.
+Installing new audioinjector-wm8731-audio.dtbo.
+Taking backup of spi1-2cs.dtbo.
+Installing new spi1-2cs.dtbo.
+Taking backup of i2c-bcm2708.dtbo.
+Installing new i2c-bcm2708.dtbo.
+Taking backup of fe-pi-audio.dtbo.
+Installing new fe-pi-audio.dtbo.
+Taking backup of vc4-kms-v3d.dtbo.
+Installing new vc4-kms-v3d.dtbo.
+Taking backup of hd44780-lcd.dtbo.
+Installing new hd44780-lcd.dtbo.
+Taking backup of adau1977-adc.dtbo.
+Installing new adau1977-adc.dtbo.
+Taking backup of rra-digidac1-wm8741-audio.dtbo.
+Installing new rra-digidac1-wm8741-audio.dtbo.
+Taking backup of mpu6050.dtbo.
+Installing new mpu6050.dtbo.
+Taking backup of uart3.dtbo.
+Installing new uart3.dtbo.
+Taking backup of hifiberry-digi-pro.dtbo.
+Installing new hifiberry-digi-pro.dtbo.
+Taking backup of midi-uart0.dtbo.
+Installing new midi-uart0.dtbo.
+Taking backup of rpi-tv.dtbo.
+Installing new rpi-tv.dtbo.
+Taking backup of mcp2515-can0.dtbo.
+Installing new mcp2515-can0.dtbo.
+Taking backup of gpio-ir-tx.dtbo.
+Installing new gpio-ir-tx.dtbo.
+Taking backup of dpi18.dtbo.
+Installing new dpi18.dtbo.
+Taking backup of adv728x-m.dtbo.
+Installing new adv728x-m.dtbo.
+Taking backup of enc28j60.dtbo.
+Installing new enc28j60.dtbo.
+Taking backup of audiosense-pi.dtbo.
+Installing new audiosense-pi.dtbo.
+Taking backup of mcp3008.dtbo.
+Installing new mcp3008.dtbo.
+Taking backup of vc4-fkms-v3d.dtbo.
+Installing new vc4-fkms-v3d.dtbo.
+Taking backup of iqaudio-dac.dtbo.
+Installing new iqaudio-dac.dtbo.
+Taking backup of ads1115.dtbo.
+Installing new ads1115.dtbo.
+Taking backup of rpi-sense.dtbo.
+Installing new rpi-sense.dtbo.
+Taking backup of ssd1306.dtbo.
+Installing new ssd1306.dtbo.
+Taking backup of allo-boss-dac-pcm512x-audio.dtbo.
+Installing new allo-boss-dac-pcm512x-audio.dtbo.
+Taking backup of i2c4.dtbo.
+Installing new i2c4.dtbo.
+Taking backup of iqaudio-codec.dtbo.
+Installing new iqaudio-codec.dtbo.
+Taking backup of rpi-proto.dtbo.
+Installing new rpi-proto.dtbo.
+Taking backup of mmc.dtbo.
+Installing new mmc.dtbo.
+Taking backup of w1-gpio-pullup.dtbo.
+Installing new w1-gpio-pullup.dtbo.
+Taking backup of ads1015.dtbo.
+Installing new ads1015.dtbo.
+Taking backup of max98357a.dtbo.
+Installing new max98357a.dtbo.
+Taking backup of spi5-1cs.dtbo.
+Installing new spi5-1cs.dtbo.
+Taking backup of iqaudio-dacplus.dtbo.
+Installing new iqaudio-dacplus.dtbo.
+Taking backup of mz61581.dtbo.
+Installing new mz61581.dtbo.
+Taking backup of hifiberry-dac.dtbo.
+Installing new hifiberry-dac.dtbo.
+Taking backup of spi-rtc.dtbo.
+Installing new spi-rtc.dtbo.
+Taking backup of spi2-1cs.dtbo.
+Installing new spi2-1cs.dtbo.
+Log ended: 2020-07-10  12:17:09
+
+Log started: 2020-07-15  07:47:56
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 138137 files and directories currently installed.)
+Removing linux-image-5.3.0-1017-raspi2 (5.3.0-1017.19~18.04.1) ...
+/etc/kernel/postrm.d/initramfs-tools:
+update-initramfs: Deleting /boot/initrd.img-5.3.0-1017-raspi2
+/etc/kernel/postrm.d/zz-flash-kernel:
+Using DTB: bcm2710-rpi-3-b-plus.dtb
+flash-kernel: Kernel 5.3.0-1017-raspi2 has been removed.
+flash-kernel: A higher version (5.3.0-1028-raspi2) is still installed, no reflashing required.
+Log ended: 2020-07-15  07:47:59
+
+Log started: 2020-07-15  07:48:09
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 138133 files and directories currently installed.)
+Removing linux-headers-5.3.0-1017-raspi2 (5.3.0-1017.19~18.04.1) ...
+Log ended: 2020-07-15  07:48:13
+
+Log started: 2020-07-15  07:48:26
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 128622 files and directories currently installed.)
+Removing linux-modules-5.3.0-1017-raspi2 (5.3.0-1017.19~18.04.1) ...
+Log ended: 2020-07-15  07:48:28
+
+Log started: 2020-07-15  07:48:45
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 123399 files and directories currently installed.)
+Preparing to unpack .../linux-libc-dev_4.15.0-111.112_armhf.deb ...
+Unpacking linux-libc-dev:armhf (4.15.0-111.112) over (4.15.0-109.110) ...
+Setting up linux-libc-dev:armhf (4.15.0-111.112) ...
+Log ended: 2020-07-15  07:48:47
+
+Log started: 2020-07-16  06:50:06
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 123399 files and directories currently installed.)
+Preparing to unpack .../snapd_2.45.1+18.04.2_armhf.deb ...
+Unpacking snapd (2.45.1+18.04.2) over (2.45.1+18.04) ...
+Setting up snapd (2.45.1+18.04.2) ...
+snapd.failure.service is a disabled or a static unit, not starting it.
+snapd.snap-repair.service is a disabled or a static unit, not starting it.
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-16  06:52:20
+
+Log started: 2020-07-21  13:14:17
+Selecting previously unselected package unzip.
+(Reading database ... (Reading database ... 5%(Reading database ... 10%(Reading database ... 15%(Reading database ... 20%(Reading database ... 25%(Reading database ... 30%(Reading database ... 35%(Reading database ... 40%(Reading database ... 45%(Reading database ... 50%(Reading database ... 55%(Reading database ... 60%(Reading database ... 65%(Reading database ... 70%(Reading database ... 75%(Reading database ... 80%(Reading database ... 85%(Reading database ... 90%(Reading database ... 95%(Reading database ... 100%(Reading database ... 123399 files and directories currently installed.)
+Preparing to unpack .../unzip_6.0-21ubuntu1_armhf.deb ...
+Unpacking unzip (6.0-21ubuntu1) ...
+Selecting previously unselected package zip.
+Preparing to unpack .../zip_3.0-11build1_armhf.deb ...
+Unpacking zip (3.0-11build1) ...
+Setting up unzip (6.0-21ubuntu1) ...
+Setting up zip (3.0-11build1) ...
+Processing triggers for mime-support (3.60ubuntu1) ...
+Processing triggers for man-db (2.8.3-2ubuntu0.1) ...
+Log ended: 2020-07-21  13:14:22
